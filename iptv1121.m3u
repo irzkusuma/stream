@@ -359,20 +359,14 @@ https://gratismkctv.net/film/hbo.m3u8
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/hbo.png" group-title="HIBURAN",CINEMAX HD
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/celestial-HIBURAN.png" group-title="HIBURAN",CelestialMovie
 http://playlist.urfan.web.id/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg" group-title="HIBURAN",K+
 http://210.210.155.35/session/b896686e-876a-11eb-8e17-b82a72d63267/uq2663/h/h08/01.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/89.jpg" group-title="HIBURAN",OnEtv
 http://210.210.155.35/session/f813d710-876a-11eb-a245-b82a72d63267/uq2663/h/h143/01.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/5.jpg" group-title="HIBURAN",GEM
 http://210.210.155.35/session/5a720d3c-876b-11eb-b7f4-b82a72d63267/uq2663/h/h19/02.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/92.jpg" group-title="HIBURAN",CHINEMA World
 http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg" group-title="HIBURAN",CELESTIAL HIBURAN
@@ -381,7 +375,6 @@ http://210.210.155.35/session/9ea8cb06-876d-11eb-9242-b82a72d63267/qwr9ew/s/s33/
 http://210.210.155.35/session/f516f74c-876d-11eb-81ff-b82a72d63267/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/55.jpg" group-title="HIBURAN",THRILL
 http://210.210.155.35/session/1fad2b8e-876e-11eb-8ad3-b82a72d63267/qwr9ew/s/s34/01.m3u8
-
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.d_nFS1XiiOsN9aUuyywm1QHaDP&pid=Api&P=0&w=350&h=154" group-title="HIBURAN",CINEMA EUROPE
 http://210.210.155.35/uq2663/h/h18/index.m3u8
 #EXTINF:-1   tvg-logo="http://185.238.0.145:1313/uploads/tv_image/tvn.png" group-title="HIBURAN",TVN Movies
