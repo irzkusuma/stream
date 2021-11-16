@@ -1,5 +1,5 @@
 #EXTM3U
-
+###### LOKAL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6tyaqc0.png?v=1.0.0.1" group-title="LOKAL",KOMPAS
 http://210.210.155.35/session/196eec7c-6553-11eb-a245-b82a72d63267/qwr9ew/s/s104/01.m3u8
 
@@ -77,7 +77,7 @@ http://210.210.155.35/session/42d2a78a-8762-11eb-b6b9-b82a72d63267/x6bnqe/s/s36/
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 
 
-######################
+############ MUSLIM
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg" group-title="MUSLIM",RODJAtv
 http://210.210.155.35/session/03e29958-8763-11eb-9219-c81f66f89318/qwr9ew/s/s14/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/82.jpg" group-title="MUSLIM",TVISLAM
@@ -319,7 +319,7 @@ https://archive.org/download/MurotalMR/113.mp3
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="MUSLIM", [114] Surah An-Naas (Manusia)
 https://archive.org/download/MurotalMR/114.mp3
 
-##################
+############ KIDS
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg" group-title="KIDS",DENS PLAY
 http://210.210.155.35/session/f40eb65a-8763-11eb-b7f4-b82a72d63267/x6bnqe/s/s101/live.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DensPlay
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/26.jpg" group-title="KIDS",eGG
@@ -340,8 +340,30 @@ http://210.210.155.35/session/e4194274-8768-11eb-9c1c-c81f66f89318/dr9445/h/h02/
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
 
 
-###########################
+############# HIBURAN
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="HIBURAN", AXN
+http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="HIBURAN",HBO
+https://gratismkctv.net/film/hbo.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="HIBURAN",HBO malaysia
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.11px5m72kjt-pftgKnbpPAHaDP&pid=Api&P=0&w=440&h=193" group-title="HIBURAN", HBO 
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 group-title="HIBURAN",ROCK Entertainment 1
+http://210.210.155.35/session/a593c7d0-7da6-11ea-a11f-b82a72d63267/dr9445/h/h16/01.m3u8
+#EXTINF:-1 group-title="HIBURAN",ROCK Extreme
+http://210.210.155.35/session/1367bbc2-7da7-11ea-a7a4-b82a72d63267/dr9445/h/h15/02.m3u8
+#EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/hbo.png" group-title="HIBURAN",HBO IDN
+https://gratismkctv.net/film/hbo.m3u8
+#EXTINF:-1 group-title="HIBURAN",Holywood Movie
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/hbo.png" group-title="HIBURAN",CINEMAX HD
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/celestial-HIBURAN.png" group-title="HIBURAN",CelestialMovie
+http://playlist.urfan.web.id/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg" group-title="HIBURAN",K+
 http://210.210.155.35/session/b896686e-876a-11eb-8e17-b82a72d63267/uq2663/h/h08/01.m3u8
 
@@ -351,47 +373,34 @@ http://210.210.155.35/session/f813d710-876a-11eb-a245-b82a72d63267/uq2663/h/h143
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/5.jpg" group-title="HIBURAN",GEM
 http://210.210.155.35/session/5a720d3c-876b-11eb-b7f4-b82a72d63267/uq2663/h/h19/02.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/92.jpg" group-title="HIBURAN",CHINEMAeropa
-http://210.210.155.35/session/0ba1bdcc-876d-11eb-ae09-c81f66f89318/uq2663/h/h18/01.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg" group-title="HIBURAN",CELESTIALmovies
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/92.jpg" group-title="HIBURAN",CHINEMA World
+http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg" group-title="HIBURAN",CELESTIAL HIBURAN
 http://210.210.155.35/session/9ea8cb06-876d-11eb-9242-b82a72d63267/qwr9ew/s/s33/01.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/103.jpg" group-title="HIBURAN",ZEEbioskop
 http://210.210.155.35/session/f516f74c-876d-11eb-81ff-b82a72d63267/qwr9ew/s/s32/01.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/55.jpg" group-title="HIBURAN",THRILL
 http://210.210.155.35/session/1fad2b8e-876e-11eb-8ad3-b82a72d63267/qwr9ew/s/s34/01.m3u8
 
-#EXTINF:-1 group-title="HIBURAN",ROCK Entertainment 1
-http://210.210.155.35/session/a593c7d0-7da6-11ea-a11f-b82a72d63267/dr9445/h/h16/01.m3u8
-#EXTINF:-1 group-title="HIBURAN",ROCK Extreme
-http://210.210.155.35/session/1367bbc2-7da7-11ea-a7a4-b82a72d63267/dr9445/h/h15/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.11px5m72kjt-pftgKnbpPAHaDP&pid=Api&P=0&w=440&h=193" group-title="HIBURAN", HBO 
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-
-#EXTINF:-1tvg-logo="https://x1.cdn.broiptv.com/img/hbo.png" group-title="HIBURAN",HBO IDN
-https://gratismkctv.net/film/hbo.m3u8
-#EXTINF:-1 group-title="HIBURAN",Holywood Movie
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.d_nFS1XiiOsN9aUuyywm1QHaDP&pid=Api&P=0&w=350&h=154" group-title="HIBURAN",CINEMA EUROPE
+http://210.210.155.35/uq2663/h/h18/index.m3u8
+#EXTINF:-1   tvg-logo="http://185.238.0.145:1313/uploads/tv_image/tvn.png" group-title="HIBURAN",TVN Movies
+http://51.15.12.163:8080/Ainamanja/6a4fef36/157596?token=ShUNAEFcElxECg0AXw8BVVJUBAlUAQRYVAJWVAZVAAJUBlJQV1cIA1EaGEZKTREDAFhpWAUVDwsABVRVA05DFkJSFz5bUBJcRA0NXQ8AQUpDQV9cBBUPCAAAWlcDVVdUCRtHEVtQElxECQRcAQ9BSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1AVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsAUVBDGRRSDkJbTURIQVgVLC1BHRUAGUZRXhUPV1pGAxsXFUMZFFgSaEdcRUURB1YPBBETDUdREBgSCwdAawdWVw0DAkFfXg9EFwMUA0FOFQ8ODVhDChNtRFkCRAIWVQgLW1JDSA==
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8jRb2YX/xgf.png" group-title="HIBURAN",KIX
+http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.unJyZY-dN-yQmRQ8ivjGVAAAAA&pid=Api&P=0&w=236&h=197" group-title="HIBURAN",K+
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png group-title="HIBURAN", Flix
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.d_nFS1XiiOsN9aUuyywm1QHaDP&pid=Api&P=0&w=350&h=154" group-title="HIBURAN",CINEMA EUROPE
-http://210.210.155.35/uq2663/h/h18/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.6zwi1htiyuthJK1o0l3wKwHaFY&pid=Api&P=0&w=236&h=172" group-title="HIBURAN",ONE
 http://210.210.155.35/uq2663/h/h143/index.m3u8
-
 #EXTINF:-1 group-title="HIBURAN",ATV
 http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://static.mncnow.id/images/channel/18dd6b78/6200_r32.jpg",Warner Tv [THAI]
 http://203.154.243.89:11205/
-###############
+
+
+########### NEWS WORLD
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/53.jpg" group-title="NEWS WORLD",BLOOMBERGtv
 http://210.210.155.35/session/03fbba4e-876f-11eb-81ff-b82a72d63267/uq2663/h/h03/01.m3u8
 
@@ -447,7 +456,8 @@ https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/playlist.m3
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/61/a0/19/61a0192326bba2f550f7ff564552a5c5.jpg" group-title="NEWS WORLD", EURO NEWS
 http://stream1.ninmedia.tv:1935/atv/udp.stream/chunklist_w465987392.m3u8
-######################
+
+############ DOCUMENTER
 #EXTINF: group-title="DOCUMENTER" tvg-logo="https://i.imgur.com/l2O0fY1.png" ,30A Darcizzle Offshore
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png"group-title="DOCUMENTER", Fishing
@@ -502,7 +512,7 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m
 #EXTINF:-1 group-title="DOCUMENTER" tvg-logo="https://i.imgur.com/9Z7DUFb.png?v=1.1.1.1",Crime Investigation
 http://iptvtree.net:8080/Ainamanja/6a4fef36/165052
 
-###################
+############# STYLE
 #EXTINF:-1  tvg-logo="https://i.imgur.com/vK2rOZG.png?v=1.0.0.1" group-title="STYLE" TV,Fashion TV MIDNIGHT
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/vK2rOZG.png?v=1.0.0.1" group-title="STYLE" TV,Fashion TV HD
@@ -520,8 +530,7 @@ https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_3
 #EXTINF:-1  tvg-logo="https://i.imgur.com/i2rdO7R.jpg?v=1.0.0.1" group-title="STYLE" TV,A3 B-TV
 https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
  
-#############
-
+############# SPORT
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjVf/WPT_490x490.png" group-title=SPORT" , World Poker Tour
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=770&deviceId=5616f9c0ada51f8004c4b091&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-axn.png" group-title=SPORT,AXN MOTOVISION
@@ -579,8 +588,16 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1tvg-logo="https://i.postimg.cc/sx0pCn0p/upc.png" group-title=SPORT, UFC 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
+#EXTINF:-1 group-title=SPORT ,Bein Sport 2
+http://88.barouhn.xyz.global.prod.fastly.net/live/69854211/index.m3u8
+#EXTINF:-1 group-title=SPORT ,Bein Sport 3
+http://88.barouhn.xyz.global.prod.fastly.net/live/645587700/index.m3u8
 
-##############
+
+
+############# MUSIC TV
+#EXTINF:0 tvg-id="mtv-rus" group-title="MUSIC TV",MTV
+http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 #EXTINF: group-title="MUSIC TV" , MALEO TV
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF: group-title="MUSIC TV" , AmoyHouseRelax
@@ -691,12 +708,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d7
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 
 #############
-#EXTINF:-1 tvg-logo="" group-title="VOD-2021", NINE DAYS 2021
-https://www868.ff-02.com/token=U9pthbfvziZZ9yGz6Hvr6g/1637014065/103.119.0.0/182/7/44/56401e0c30cf10bc3d93422ac41af447-480p.mp4
 #EXTINF:-1 tvg-logo="" group-title="VOD-2021", The Condor Heroes: The Dragon Tamer 2021
 https://www2236.ff-05.com/token=lvS68RK119ZgjKO-VYXDzA/1636928631/103.119.0.0/43/6/ad/25282b4c2f1e462cc52f451b9823cad6-480p.mp4
 #EXTINF:-1 tvg-logo="" group-title="VOD-2021", APEX 2021
-https://www1979.ff-04.com/token=Xw1D9mYs-mrMm1bNl6nbtA/1637013987/103.119.0.0/179/0/60/212c2f7a467d49ccf71eca6c96d71600-480p.mp4
+https://www852.ff-02.com/token=s8OvyDcz1dfU6v-GEn-Hpw/1636928428/103.119.0.0/181/4/42/683594ab17ef34b76a3896fc08a6a424-480p.mp4
 #EXTINF:-1 tvg-logo="" group-title="VOD-2021", Nelly Rapp – Monsteragent 2021
 https://www2254.ff-05.com/token=-hcLWfKP8JNyDtoWoFfmiA/1636928772/103.119.0.0/92/e/4a/65d58d69a017f83b77524905d02904ae-480p.mp4
 #EXTINF:-1 tvg-logo="" group-title="VOD-2021", REMINISCENCE 2021
@@ -706,7 +721,7 @@ https://www522.ff-02.com/token=5oomyus28nLr8EsnDX4eug/1636928344/103.119.0.0/181
 #EXTINF:-1 tvg-logo="" group-title="VOD-2021", NIGHT AT EAGLE INN 2021
 https://fvs.io/redirector?token=ZkwyMHlucTY0NmhwY0duZ2pEb01yUmtodE9IRWViV2JVK3hHa0tacEM4d1FxanJ2Z1B4KzI3UDJKdnlhSGlORU9QYVYzdlU0KzJBdEJqakQ4MnVCOG9YdER3ekZpZ3JyaDM1T3NtNUVIQ3J5bDBGL0YzT29YZVZYZE9IMkFZamNnWUpGRDhHL3pkNlQ1RkcwS2txclhmeTNVaGcvWWVPSE9jUHM6MU8rWGpiS1hmRlg3UzhBS282Qi8ydz09CpxX
 #EXTINF:-1 tvg-logo="" group-title="VOD-2021", NO TIME TO DIE 2021
-https://www781.ff-02.com/token=f1AZ_-YKKoWNv9yaMrRxxw/1637013805/103.119.0.0/103/c/f6/a6db0f926903488ee0fd8c4bbe970f6c-480p.mp4
+https://fvs.io/redirector?token=L0l6cHFtVHZDZU1NdXlSemJGcVVNSzhCeWxBbzRGdjRTN09CYVJTUFNhUGh1Vmk3SDV4d3krMUU5Ylk4OERjZHk1Q1duejNNaFY4MXNJVmo3NVdEYXk1V05md2llbFE4TjdBcmNuMFVJbktjMTloMHkzdDBBaUdlaTBQUUhCOXFYYVNQSUhWNkdTU21MbnNGd3pYaTFGdUZ1b29lQ1BHWUFJST06MXNlQlBQQktFRWsrT3dra0pVVlQrUT09xqB8
 #EXTINF:-1 tvg-logo="" group-title="VOD-2021", WINTER LAKE 2021
 https://oim152p.dood.video/u5kjxqdkepglsdgge5xx6nicjyjgj46jvle5i24rou3hfja6v2ra64chv25a/q7c34abi5b~w97WrA0wy9?token=wp8rsi67qifbd09q0kz01d0y&expiry=1636750694225
 #EXTINF:-1 tvg-logo="" group-title="VOD-2021", DUNE 2021
@@ -718,7 +733,7 @@ https://d-15.files.im:182/files/5/2mfjjs8o2uhl27/video.mp4
 #EXTINF:-1 tvg-logo="" group-title="VOD-2021", LAMBS 2021
 https://d-15.files.im:182/files/3/myg25bzofinnh2/video.mp4
 #EXTINF:-1 tvg-logo="" group-title="VOD-2021", Shang-Chi Legend of Ten Rings
-https://www2001.ff-05.com/token=VOvhBNYabWz4aun7xu0GOw/1637013899/103.119.0.0/84/a/6e/b1f767fded638e2df4b3c57566e996ea-480p.mp4
+https://d-10.files.im:182/files/9/niytqustzwdp6c/video.mp4
 #EXTINF:-1 tvg-logo="" group-title="VOD-2021", VENOM 2021
 https://d-11.files.im:182/files/7/5d3v3ajftzl4za/video.mp4
 #EXTINF: group-title="VOD-2021" tvg-logo="https://i.imgur.com/M8YV19x.jpg" ,Action: 1.Vanquish (2021)
