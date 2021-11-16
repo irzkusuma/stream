@@ -56,8 +56,14 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1tvg-logo="https://i.postimg.cc/sx0pCn0p/upc.png" group-title=SPORT, UFC 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
+#EXTINF:-1 group-title=SPORT ,Bein Sport 2
+http://88.barouhn.xyz.global.prod.fastly.net/live/69854211/index.m3u8
+#EXTINF:-1 group-title=SPORT ,Bein Sport 3
+http://88.barouhn.xyz.global.prod.fastly.net/live/645587700/index.m3u8
 
-##############
+############# MUSIC TV
+#EXTINF:0 tvg-id="mtv-rus" group-title="MUSIC TV",MTV
+http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 #EXTINF: group-title="MUSIC TV" , MALEO TV
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF: group-title="MUSIC TV" , AmoyHouseRelax
