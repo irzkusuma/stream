@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjVf/WPT_490x490.png" group-title=SPORT" , World Poker Tour
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=770&deviceId=5616f9c0ada51f8004c4b091&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-axn.png" group-title=SPORT,AXN MOTOVISION
@@ -51,15 +52,143 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x43
 http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title=SPORT, Bein Sports XTRA
 https://cmt.mb13.cyou/8589/livedo/bein1hd.m3u8https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-#EXTINF:-1tvg-logo="https://i.postimg.cc/sx0pCn0p/upc.png" group-title=SPORT, UFC 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx0pCn0p/upc.png" group-title=SPORT, UFC 1
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1tvg-logo="https://i.postimg.cc/sx0pCn0p/upc.png" group-title=SPORT, UFC 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx0pCn0p/upc.png" group-title=SPORT, UFC 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1 group-title=SPORT ,Bein Sport 2
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title=SPORT ,Bein Sport 2
 http://88.barouhn.xyz.global.prod.fastly.net/live/69854211/index.m3u8
-#EXTINF:-1 group-title=SPORT ,Bein Sport 3
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title=SPORT  ,Bein Sport 3
 http://88.barouhn.xyz.global.prod.fastly.net/live/645587700/index.m3u8
+#EXTINF:-1 group-title=SPORT  tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" ,BeIN Sport 1 ID
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/728
+#EXTINF:-1 group-title=SPORT tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" ,BeIN Sport 2 ID
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/729
+#EXTINF:-1 group-title=SPORT tvg-logo="https://imgbbb.com/images/2019/04/30/FightSportsLogo2x.png" ,Fight Sports
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/784
+#EXTINF:-1 group-title=SPORT tvg-logo="https://imgbbb.com/images/2019/04/30/foxsports.png" ,Fox Sports 1 HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/51
+#EXTINF:-1 group-title=SPORT tvg-logo="https://imgbbb.com/images/2019/04/30/golfchannel.png" ,Golf Channel FHD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/561
+#EXTINF:-1 group-title=SPORT tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-3_29.png" ,NBA TV HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/3099
+#EXTINF:-1 group-title=SPORT tvg-logo="http://static1.squarespace.com/static/57d836b1c534a5e4e6e7bf6f/57e0489e440243c6a9a6445c/5991a1df03596e7caf6a2028/1502722826069/2017+NBA+TV+Logo.jpg?format=1000w" ,NBA TV HD US
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/243
+#EXTINF:-1 group-title=SPORT tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51EVQDiJh1L.png" ,WWE Network
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/299
+
+############# MUSIC TV
+#EXTINF:0 tvg-id="mtv-rus" group-title="MUSIC TV",MTV
+http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF: group-title="MUSIC TV" , MALEO TV
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+#EXTINF: group-title="MUSIC TV" , AmoyHouseRelax
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/17732rtara_4000p.xs
+#EXTINF: group-title="MUSIC TV", molaTV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dh6sgLX.jpg" group-title="MUSIC TV", MTV Mistle YO!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tLwBOtU.jpg" group-title="MUSIC TV", Krone Hit
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YCSyNmj.png" group-title="MUSIC TV" ,TVRO RockTV
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8?publisher=83
+#EXTINF:-1 tvg-logo="" group-title="MUSIC TV", Metal TV
+http://v1.catcast.me/content/33816/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC TV",  M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC TV",  MUSIC TOP HD
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC TV",  ONE FHD
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-logo="http://musicfouryou.com/wp-content/uploads/2015/09/imageedit_1_8709468454.gif" group-title="MUSIC TV",Music4U
+http://203.154.243.89:1213
+#EXTINF:-1 tvg-logo="H:\1. Extract\IPTV\logo\radio51.png" group-title="MUSIC TV", 51 TV
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="MUSIC TV",Pop Music
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC TV", 9XM India
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 group-title="MUSIC TV" tvg-chno="3676" tvg-id="1Mus (BLR)" tvg-logo="https://i.imgur.com/PozF9MT.png" tvg-name="1Mus (BLR)",1Mus (BLR)
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 group-title="MUSIC TV" tvg-chno="3677" tvg-id="30a-tv.com" tvg-logo="https://i.imgur.com/gNWg9tl.png" tvg-name="30A Music (US)",30A Music (US)
+http://30a-tv.com/music.m3u8
+ 
+#EXTINF:-1 group-title="MUSIC TV" tvg-chno="3711" tvg-id="Deejay TV (IT)" tvg-logo="https://i.imgur.com/0XHqGSb.png" tvg-name="Deejay TV (IT)",Deejay TV (IT)
+https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+ 
+#EXTINF:-1 group-title="MUSIC TV" tvg-chno="3712" tvg-id="DeepHouse District (US)" tvg-logo="https://i.imgur.com/GyxXMDv.png" tvg-name="DeepHouse District (US)",DeepHouse District (US)
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+ 
+
+ 
+#EXTINF:-1 group-title="MUSIC TV" tvg-chno="3730" tvg-id="Hot Rock TV (US)" tvg-logo="https://i.imgur.com/Jis8xic.png" tvg-name="Hot Rock TV (US)",Hot Rock TV (US)
+https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
+ 
+#EXTINF:-1 group-title="MUSIC TV" tvg-chno="3754" tvg-id="MIX 24/7 - Baladas (BR)" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-name="MIX 24/7 - Baladas (BR)",MIX 24/7 - Baladas (BR)
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8
+ 
+#EXTINF:-1 group-title="MUSIC TV" tvg-chno="3756" tvg-id="MIX 24/7 - Pop (BR)" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-name="MIX 24/7 - Pop (BR)",MIX 24/7 - Pop (BR)
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8
+ 
+#EXTINF:-1 group-title="MUSIC TV" tvg-chno="3758" tvg-id="MIX 24/7 - Top 100 (BR) - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-name="MIX 24/7 - Top 100 (BR) - github.com/Free-IPTV",MIX 24/7 - Top 100 (BR) - github.com/Free-IPTV
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
+ 
+#EXTINF:-1 group-title="MUSIC TV" tvg-chno="3763" tvg-id="MTV Music 24 (Free from akamaihd.net!)" tvg-logo="https://i.imgur.com/zVrZ4Pd.png" tvg-name="MTV Music 24 (Free from akamaihd.net!)",MTV Music 24 (Free from akamaihd.net!)
+http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/master.m3u8
+ 
+#EXTINF:-1 group-title="MUSIC TV" tvg-chno="3764" tvg-id="MTVGermany.de" tvg-logo="https://i.imgur.com/peq4OaE.png" tvg-name="MTV Germany (DE) (Free from akamaihd.net!)",MTV Germany (DE) (Free from akamaihd.net!)
+https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8
+ 
+#EXTINF:-1 group-title="MUSIC TV" tvg-chno="3765" tvg-id="MTV Norway" tvg-logo="https://i.imgur.com/peq4OaE.png" tvg-name="MTV Norway (NO) (Free from akamaihd.net!)",MTV Norway (NO) (Free from akamaihd.net!)
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+ 
+#EXTINF:-1 group-title="MUSIC TV" tvg-chno="3768" tvg-id="Muzzik Cafe&Club Serbia (RS)" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" tvg-name="Muzzik Cafe&Club Serbia (RS)",Muzzik Cafe&Club Serbia (RS)
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+ 
+#EXTINF:-1 group-title="MUSIC TV" tvg-chno="3789" tvg-id="PANIK TV (GR)" tvg-logo="https://i.imgur.com/8tiiDJJ.jpg" tvg-name="PANIK TV (GR)",PANIK TV (GR)
+https://panik.cast-control.eu:1936/paniktv/paniktv//playlist.m3u8
+ 
+#EXTINF:-1 group-title="MUSIC TV" tvg-chno="3790" tvg-id="PERSIANA BILLBOARD (IR)" tvg-logo="https://i.imgur.com/ytII1cO.png" tvg-name="PERSIANA BILLBOARD (IR)",PERSIANA BILLBOARD (IR)
+http://51.210.199.10/hls/stream.m3u8
+ 
+#EXTINF:-1 group-title="MUSIC TV" tvg-chno="3791" tvg-id="PERSIANA MUSIC (IR) - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/pMrAvY6.png" tvg-name="PERSIANA MUSIC (IR) - github.com/Free-IPTV",PERSIANA MUSIC (IR) - github.com/Free-IPTV
+http://51.210.199.24/hls/stream.m3u8
+ 
+#EXTINF:-1 group-title="MUSIC TV" tvg-chno="3792" tvg-id="Power Hit Radio (LT)" tvg-logo="https://i.imgur.com/Q777N6C.jpg" tvg-name="Power Hit Radio (LT)",Power Hit Radio (LT)
+https://baltlive.tv3.lt/studija/smil:studija.smil/playlist.m3u8
+ 
+#EXTINF:-1 group-title="MUSIC TV" tvg-chno="3795" tvg-id="Pure Rock (US)" tvg-logo="https://i.imgur.com/EAkvIw8.jpg",Pure Rock (US)
+http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8
+ 
+#EXTINF:-1 group-title="MUSIC TV" tvg-chno="3818" tvg-id="Techno Warehouse (US)" tvg-logo="https://i.imgur.com/GyxXMDv.png" tvg-name="Techno Warehouse (US)",Techno Warehouse (US)
+https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
+ 
+#EXTINF:-1 group-title="MUSIC TV" tvg-chno="3822" tvg-id="That's Hot (US)" tvg-logo="https://i.imgur.com/xbLho4R.jpg",That's Hot (US)
+https://fd80a2d7c3fb4580b4cb8ef661a96d49.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_plex/6fd86144-5938-4c3a-bda9-14ae30d6e38b/5.m3u8
+ 
+#EXTINF:-1 group-title="MUSIC TV" tvg-chno="3823" tvg-id="The Box (UK)" tvg-logo="https://i.imgur.com/gPaTIUd.png" tvg-name="The Box (UK)",The Box (UK)
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+ 
+#EXTINF:-1 group-title="MUSIC TV" tvg-chno="3827" tvg-id="Top Music (BR)" tvg-logo="https://i.imgur.com/G1oaOXY.gif" tvg-name="Top Music (BR)",Top Music (BR)
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
+  
+#EXTINF:-1 group-title="MUSIC TV" tvg-chno="3831" tvg-id="V2Beat TV (UK) - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/PXhzoPd.jpg" tvg-name="V2Beat TV (UK) - github.com/Free-IPTV",V2Beat TV (UK) - github.com/Free-IPTV
+https://abr.de1se01.v2beat.live/playlist.m3u8
+ 
+#EXTINF:-1 group-title="MUSIC TV" tvg-chno="3839" tvg-id="Video Tour Channel HD (US)" tvg-logo="https://i.imgur.com/l1oc3ER.png" tvg-name="Video Tour Channel HD (US)",Video Tour Channel HD (US)
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+ 
+#EXTINF:-1 group-title="MUSIC TV" tvg-chno="3846" tvg-id="Yacht Rock (US)" tvg-logo="https://i.imgur.com/N6ouzgW.png",Yacht Rock (US)
+https://6f293d7819ba4cf39ea9152700ad54ad.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_plex/eea1884a-76ca-461b-886d-9707c39c0fbb/5.m3u8
+#EXTINF: group-title="MUSIC TV" tvg-logo="http://i.imgur.com/dh6sgLX.jpg" ,MTV Mistle YO! (720p)
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8 
+#EXTINF: group-title="MUSIC TV"  tvg-logo="http://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" ,MTV Block Party (720p)
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF: group-title="MUSIC TV"  tvg-logo="http://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" ,MTV Block Party
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF: group-title="MUSIC TV" tvg-logo="http://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" ,MTV Spankin' 
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 
 ############# MUSIC TV
 #EXTINF:0 tvg-id="mtv-rus" group-title="MUSIC TV",MTV
