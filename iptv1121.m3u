@@ -1,81 +1,54 @@
 #EXTM3U
-###### LOKAL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6tyaqc0.png?v=1.0.0.1" group-title="LOKAL",KOMPAS
-https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G7OjpuLNcLOIrhXO1-esTTc)/dm/3/x6pz4sa/d/live-2.m3u8#cell=lsg1
-
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/30
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.hIB-K5atobHElTpSRwEafgHaD4&pid=Api&P=0&w=358&h=189" group-title="LOKAL",METRO
-https://stream-01.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCSwq2TqPgIbvoFIjzEDSlqjk)/dm/3/x75p70w/d/live-3.m3u8#cell=lsg1
-
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/1697
 #EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJdlCcQxTmeWxUWserp7sN8zcQuqVNl6Pig&usqp=CAU" group-title="LOKAL",TVONE
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/29
-
 #EXTINF:-1 tvg-logo="http://assets.kompasiana.com/items/album/2017/03/18/645x430-seni-cnn-indonesia-menggelinding-di-layar-kaca-1506136-58cc17797eafbd42350a7648.jpg" group-title="LOKAL",CNN
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2136674526_b384000_sleng.m3u8
-
 #EXTINF:  group-title="LOKAL" tvg-logo="https://pbs.twimg.com/profile_images/1268802866568806401/nqL8otRC_400x400.jpg" ,CBNC Indonesia
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
-
 #EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586675821-.png" group-title="LOKAL",BERITA SATU
-https://cdn10jtedge.useetv.com/joss/130/beritasatu/chunklist_w724978281_b1004100_sleng.m3u8?enc=mk3EaZiVVypTY51ZmssyTQ&uid=&exp=1638661195
-
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8?app_type=web&userid=9193w0crwie&tkn=X2R5B3HAWPUS877MTLIXKMOO4JNFUVOA&chname=BeritaSatu
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.MvHgFrxkxczLT1GpKo6BUAHaFq&pid=Api&P=0&w=222&h=171" group-title="LOKAL",INDOSIAR
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/1845
 #EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/rcti.png"  group-title="LOKAL,RCTI (vision+)
-https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
-
+https://liveanevia.mncnow.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Mnctv_gif.gif/revision/latest/scale-to-width-down/185?cb=20190216030226" group-title="LOKAL",IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_499968=8-mp4a_66000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040459.png" group-title="LOKAL",Trans TV
-https://cdn10jtedge.useetv.com/joss/133/transtv/chunklist_w414804350_b894100_sleng.m3u8?enc=eVWThVjUSxaemyXZxd4ILw&uid=&exp=1638661090
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/34
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJFxeR6edeQBI_tjpQs0j7cZMvlVux_vYuw&usqp=CAU" group-title="LOKAL",TRANS7
-https://cdn10jtedge.useetv.com/joss/133/trans7/chunklist_w2063105973_b1344100_sleng.m3u8?enc=5cD99rfVg1vQYUnbAKZFDA&uid=&exp=1638661029
-
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/35
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHpmSdlWUFyAaaiuPS2fQ9-fEsZJmmrk-UTA&usqp=CAU" group-title="LOKAL",SCTV
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/32
-
 #EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvV2P-B_B5xKWEWQoCTxPu843Th5dtF9ewdA&usqp=CAU" group-title="LOKAL",ANTV
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/31
-
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.mVjWJ3uXyuZIOauQkz5VmQHaEK&pid=Api&P=0&w=337&h=191" group-title="LOKAL",NET
-https://cdn10jtedge.useetv.com/joss/133/net/chunklist_w1406364845_b894100_sleng.m3u8?enc=ROmdBwt3hgef-OLEGV64vA&uid=&exp=1638660873
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ox8luDM.png" group-title="LOKAL",MNC NEWS
-https://cdn10jtedge.useetv.com/joss/134/mncnews/chunklist_w1955725196_b1004100_sleng.m3u8?enc=6bRbsP85iPj2kosd6tYHUA&uid=&exp=1638661420
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/24
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ox8luDM.png" group-title="LOKAL",INEWS
-https://cdn10jtedge.useetv.com/joss/134/inews/chunklist_w772379781_b1004100_sleng.m3u8?enc=VbLzojKKRVa13pq6n_ti3g&uid=&exp=1638661355
-#EXTINF:-1 group-title="LOKAL" tvg-logo="" , MNC TV
-https://fta.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6.m3u8
+https://cdn-livetv-studio.metube.id/inewstv.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.imgur.com/NvE0OeL.png" ,GTV
-http://tevemobile.us.to/sc/play.m3u8?id=778
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.imgur.com/NvE0OeL.png" ,GTV
-https://fta.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_600000=5.m3u8
+https://cdn4.mbahnunungonline.net/m3u8/id/df56d15c1ad325a.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest?cb=20191019135004" group-title="LOKAL",JAKARTA GLOBE
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586677685-.png" group-title="LOKAL",RTV 1
-https://cdn10jtedge.useetv.com/joss/130/rtv/chunklist_w2123383936_b1004100_sleng.m3u8?enc=K_zaLVzPnlQ3D6aNiDLBcA&uid=&exp=1638660952
-
+http://tevemobile.us.to/sc/play.m3u8?id=1561
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvU25Cp.png?v=1.0.0.1" group-title=LOKAL, JAKTV
-https://cdn10jtedge.useetv.com/joss/134/jaktv/chunklist_w2904818_b1004100_sleng.m3u8?enc=fbH9Ue503KbPOXbm9zcPlA&uid=&exp=1638661264
-
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/1210
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/106.jpg" group-title="LOKAL",TVRI SPORT
 http://210.210.155.35/session/9e7f69f0-8763-11eb-a75d-c81f66f89318/qwr9ew/s/s107/02.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/1200px-CTV_Banten.png" group-title=LOKAL, CTV BANTEN
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGcg87rw/elshintatv.png" group-title=LOKAL, ELSHINTA
 http://45.126.83.51/qwr9ew/s/s10/01.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/23.jpg" group-title="LOKAL",DAAItv
-https://dcunilive7-lh.akamaihd.net/i/dclive_1@135498/master.m3u8?hdnea=st=1638653590~exp=1638653710~acl=/i/dclive_1@135498*~hmac=50cc65a1206744e9fa45b1e2889bb9df3247ffe9eac75cede46b28b8e904d658
-
+http://210.210.155.35/session/370eba14-8763-11eb-a8d2-c81f66f89318/qwr9ew/s/s13/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg" group-title="LOKAL",LEARNING KNOWLEDGE
 http://210.210.155.35/session/8c042ef2-8761-11eb-a245-b82a72d63267/x6bnqe/s/s36/S4/mnf.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/102.jpg" group-title="LOKAL",SHOW BIZ
 http://210.210.155.35/session/42d2a78a-8762-11eb-b6b9-b82a72d63267/x6bnqe/s/s36/S4/mnf.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/5TbLkjM.png?v=1.1.1.1" group-title="LOKAL" , Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/102.jpg" group-title="LOKAL",PRAMBORS TV
@@ -1006,20 +979,26 @@ https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37468
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/38806
 
 ##########
+#EXTINF:-1 group-title="VOD-update",Mother/Android(2021)
+https://63369762987a13a.highdeliverycdn.com/atlaslionzd/Nn8Osh8xs5d0v3u6LrXiGA/1640017454/4fe5pqmca7co/bq4wailmqsid/video.mp4
+#EXTINF:-1 group-title="VOD-update", Encounter (2021)
+https://336866703bd6e25.highdeliverycdn.com/atlaslionzd/zKMAcYA8M6y29RhBPF_SGQ/1640016169/ajqamim3kfyt/efv6ygvvf1ol/video.mp4
+#EXTINF:-1 group-title="VOD-update", Ron’s Gone Wrong (2021)
+https://3126b18b8a177d2.highdeliverycdn.com/atlaslionzd/fLz7PGesBt_CDfVHQm_JuA/1640016690/aebamagfbg9u/v83t4mz8bjfh/video.mp4
+#EXTINF:-1 group-title="VOD-update", The Water Man (2021)
+https://c3afb9808888297f7ca4.onstreamcdn.com/vd/OEi51YwRehefLB9ViXrEBw/1640013078/cuuonuofdfwh/tszkop3wn38u/v.mp4
 #EXTINF:-1 group-title="VOD-update",ROBIN-ROBIN ANIME (2021)
 https://redirector.gdrivecdn.work/drive/index.php?id=DoBFYk6Ue35K6nTRCNVrOgZoOcdDTidnk8bXlHRG2cgEjZR%2BrksE4yorD1ov4Hizk%2BeDZkDWlvZERiHMfkF3DHCO3bvx6uUgDyLh3tUmLHaF7Gjl6HfFX7xiDQBko0HKj%2F2kj7URqYnBzr6IFE0ngJgW0Uu101%2BomB7zF40DpHp1JqDh8g%2FALysqBQ%2Fq2EiOzsxINKAYUxsF%2BeCoYKmdXN&ref=https%3A%2F%2Fmkvking.me%2F&sandbox=&t=1638800823273&ref=https://mkvking.me/&res=360
 #EXTINF:-1 group-title="VOD-update",ETERNAL CAM(2021)
 https://www667.ff-02.com/token=WcVLfPljAyi16m7O6U_QzQ/1639078495/103.119.0.0/181/8/3f/aa57419a83718f3d611278a3fba9e3f8-720p.mp4
-#EXTINF:-1 group-title="VOD-update",ROBIN-ROBIN ANIME alt2(2021)
-https://www2234.ff-05.com/token=UApWbgM6rftt8cdZWypZhw/1638817375/103.119.0.0/45/5/bf/26a90de4e561621ac9add8f160816bf5-720p.mp4
+#EXTINF:-1 group-title="VOD-update",KAAMELOTT - 1ST CHAPTER(2021)
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/ERBNe7Rw7pVDq71p3puBXowBMvWnwnG4RohkA8lF_iucfQ?e=1gOLvb
 #EXTINF:-1 group-title="VOD-update",EXTINCT (2021)
 https://fvs.io/redirector?token=TE1VcVcrR1ZoVjlHclh3ZHJlU1dJSmorcXBsZEJtUmViSi9CNVQ2RWpad1JjcCs0dHRlTjRVdFNXcEJOMG5taXBGSkhtVzlJU0FTNFBNQlh1MUxpaTJ2c05lVGg5ZlBpR1kxbEpPRndFQmpaOXRhNmRac0Q5ODFVejZCeWRsaTQ1TXB2djFiVlBTaGdXUUY5bmxEbHBsRGdPZVo2dHpBbm5FWmU6M0NiRVBMWEkwZU84R1k0aVprQjhnZz09gkvM
-#EXTINF:-1 group-title="VOD-update",EXTINCT ALT (2021)
-https://www1252.ff-03.com/token=kJm8IcggcyUng3Ayw4WtTw/1638817509/103.119.0.0/179/7/de/e1be625de1e688d735cdfe904825fde7-720p.mp4
+#EXTINF:-1 group-title="VOD-update",Fortress.2021.BluRay
+https://mega.nz/file/S0l3XKxJ#jnuz5LH76jr24UqQD6SZCxEuPB99Xuu8r3ogezCEk14
 #EXTINF:-1 group-title="VOD-update",THE FEAST (2021)
 https://fvs.io/redirector?token=WUJjQ1ZzZjFFSzZWUEI1L05qMXVkN2dRUmw0Y09GV1d0dmxwWDNSaWlGNjI1VFNJSTRSZzJVN0JtWEJicFlDWVhmTUo2VUhSU0pvbzUrdzN3QmJPcXhwanBXSFJTM1lrMFZNb1JTS29ndVdkQUFRWFVZR2ExRjk1QUhDeGZpNWJsSWZGcjlCZXIybGYrOE50aFF3QjJldStXYXRjTzdnOEZhZz06bmFsL1YzWk9FT3V1Kzh2b2RxTjRLdz09zFtI
-#EXTINF:-1 group-title="VOD-update",THE FEAST ALT(2021)
-https://www1981.ff-04.com/token=asXhSjuHeDxYEFwiIaVEyw/1638817695/103.119.0.0/69/4/34/f3beeda32e0bb5508ff1418f0dfb8344-720p.mp4
 #EXTINF:-1 group-title="VOD-update",GREEN SNAKE (2021)
 https://www4.ff-01.com/token=u0J0uLHgRgiR-u_rWCHCGA/1639078099/103.119.0.0/82/1/cf/2816ba9ea86627185cb5fb5f32796cf1-1080p.mp4
 #EXTINF:-1 group-title="VOD-update",THE LAST RITE (2021)
@@ -1027,13 +1006,13 @@ https://fvs.io/redirector?token=NVFSS0NGT2ZMS1IxdDRTS1dMSjFyMWZyYXlhY3NGeWdlbGZk
 #EXTINF:-1 group-title="VOD-update",THE LAST RITE alt (2021)
 https://www2244.ff-05.com/token=5DRQCfb6FyQAoyIvfc2qEw/1638817090/103.119.0.0/179/e/1c/8fc2082448933c77c0af41b617acd1ce-480p.mp4
 #EXTINF:-1 group-title="VOD-update",APEX (2021)
-https://fvs.io/redirector?token=V25MRG1MU3BOVjlBM3BsVExBMHFZY1JoN3FHR2xrNjA1V2l3K1BoTEVwaFgrcmxNUzlVRDRubjZDdk8xTlpLdlNMZWFzOTJnNVY4YSs2bkI2ekdCTXdrLzAvcytubWdORmtjQXcxZU5YRnFZOFMrdE9kVzR3S0pOcU4zVnlRMXlQUEl3YlRvU1VCaDlqTmJZY1h0dWFiamNiZytMd0xGUVdWVHg6dXNZOFhmYlBMTWdycjljcDRQZms3UT09MkZE
+https://6a29b54b4e59507.highdeliverycdn.com/atlaslionzd/uhMEhAPzlMjI7kwnY74tbg/1640016355/5cmxfe9ni1f5/2rr4bssz4lg6/video.mp4
 #EXTINF:-1 group-title="VOD-update",APEX alt (2021)
 https://www145.ff-01.com/token=tBbbC00HptbVHjeOb5wsDg/1638817256/103.119.0.0/181/4/e3/8e652d374114359b5ebb8f97dcec6e34-720p.mp4
 #EXTINF:-1 group-title="VOD-update",NIGHT RAIDERS (2021)
-https://fvs.io/redirector?token=akdNREdMVEhNWndWZ3ZuQWFmaTRQTmxjNGJRTy9MVDNKUEljbDFjQTY0QmJWN2EraEZwMHhpbDBXWldPRjc4UkpMbWZzM09ldW5wMmNXRlV6eEVQWmJhSXY5eVZVUWZTQUVwL3BiMHowWHkxUTNIY0ZEa3NEeVl6OG9aZWJnWnRoRE9XY1ZHS0lhNjVhNDl4SHkxUkpBUjJ5bnFsSjdET1htTT06bStCeE42QzdCRVZ4c2NMc1gzV3JYUT09LiJV
-#EXTINF:-1 group-title="VOD-update",NIGHT RAIDERS ALT(2021)
-https://www1504.ff-04.com/token=3XEQRr-gPezr6WtJ1BtoKg/1638817843/103.119.0.0/91/e/13/9c9aa59d8e38344d2a1de99c7301013e-480p.mp4
+https://0ac4de1ae7cc245.highdeliverycdn.com/atlaslionzd/gWC6vg49W0p8EZQmBwukOw/1640016939/e40kwygsppfl/b2lnsbhkcsng/video.mp4
+#EXTINF:-1 group-title="VOD-update",The Unforgivable(2021)
+https://master6-eu.playerx.stream/b2c35c1d56e8ebf9776cabe545a1caf5/MjAyMS0xMi0xMA==/480.m3u8?token=a23f846e4899b1c556106975e0a328fb
 #EXTINF:-1 group-title="VOD-update",The Last Duel (2021)
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EaL2xiCHY7JPll0cs9RftcABkCzZzvGfr6nrL6dno3g49g?e=l25rcw
 #EXTINF:-1 group-title="VOD-update",Sunshine (2007)
@@ -1053,9 +1032,9 @@ https://streamku.xyz/stream/360/IQkvJcyIaNXYjFQ/__001
 #EXTINF:-1 group-title="VOD-update",NIGHT AT EAGLE INN (2021)
 https://fvs.io/redirector?token=NFVPczh5eXRndElzdGlwYU5vQllXMTR5dGZtejBHVW5MQ0NCWEU5ZHNsbXArSW9UYnpQbXhncFNkYUh2MUVKYXhHdEJDTUk3YVBiamgvVklvcUgyNHl5NldvbUQzNTZTb1JWN0FQRGU5dlA5UERRcHFkeXZzWGowQjJxZ05hT2hZUmYvYWpNTUpzdks5UERuem53dFBSNXc2aTl6dytBN2hhMm0vdz09OlViOE13QzkwZEwvZ3Vzc2NZc0JGS2c9PQRx3A
 #EXTINF:-1 group-title="VOD-update",Red Notice (2021)
-https://fvs.io/redirector?token=N3JZNHRWVDVybnYyOVBJeGUyNm8vQUdxSXZPU0ZiZnpYUzFlSmpscVZiUzRCa1QxK1hSQVhzU0h5R3hBRHU2eS9WbGNGeHdTOUl5Zlc2MDc5bnlmRU1NbFRZNnZNWkRvMVhLUFNmOVhaODRzVjcyQnFiUnNSUHJhWUNzNktwcGJjdjZhN2NBOGhuVWE4aGp1Y1hEQTVhWlRlOHd0YWdxaXAvdz06L0hoV3ZlZ1F6NEkwbmZuMVhhek4ydz09NYfc
-#EXTINF:-1 group-title="VOD-update",Red Notice ALT(2021)
-https://www1865.ff-04.com/token=frJNfLH1drMeTGL2fGh8eg/1638818157/103.119.0.0/86/7/de/f26fc6ce7bdd26752fdb78ae1e993de7-720p.mp4
+https://3126b18b8a177d2.highdeliverycdn.com/atlaslionzd/hYCUXQRmHa8q5WyaaWwAgA/1640016412/3mempjtkjml3/b6qc5tevxm9t/video.mp4
+#EXTINF:-1 group-title="VOD-update",Antlers (2021)
+https://6a29b54b4e59507.highdeliverycdn.com/atlaslionzd/Dkcg1N_Z8s8vmog21P0vMg/1640016489/ttirpofrnwd4/k6uukvdqleko/video.mp4
 #EXTINF:-1 group-title="VOD-update",Solitary (2021)
 http:\\127.0.0.1:11470\94d516d3f5bfa79a8a9c60ded7ac225b25190dea\Solitary.2020.720p.BluRay.800MB.x264-GalaxyRG.mkv
 #EXTINF:-1 group-title="VOD-update",Many Saints of Newark (2021)
@@ -1071,17 +1050,17 @@ https://www.googleapis.com/drive/v3/files/1yeTtmh_2_BkApmdQl2xH6qz2_9Rj5uik?alt=
 #EXTINF:-1 tvg-logo="" group-title="VOD-update", WITCH HUNT 2021
 https://fvs.io/redirector?token=MkUzS3ZMSWxXanFEbEhaaVU5QUEzakxWWkEyaldVQmEzcmVkQzc3NFlZazVzWGtKRVh6WXJEUzVwS1FpMm81NkRPdEtTcC9HNXZlc2ZpRkMxRUZRcitieW51d1FmeDA5M1JkR3dUNUNKOEw5cmVJWUVPRXVlMEVFSHVmT3dnblhvVUdRY3RvK29OcUxhc0hjZmFNM2JBYm9iK29SM2VxdmovYW06SkhrbFI2MjNyR0pTK0NyTTA3QnduQT09u5pR
 #EXTINF:-1 tvg-logo="" group-title="VOD-update", Freeguy 2021
-https://fvs.io/redirector?token=Q3JqZUpKNkJMdTRCZjM4bmQxNGZ3OE9HcHlsM1REeTdjNjIvWlF4OG9DUTQvcDFuTi9aMW5OS0pFU2NwMnBJS2d3b2RoaVY3L2M1MU1XYnFIekkwUUF0djV2QmJ5UGI3U1dWOENOcmlzVGY2QUprcDgxM0lGazZ5OTFjV0E1SWRNcjdmNnBtMWlvOFBBYWpleGYyeld6Sy9tRU9JcTZEamxCST06SkZjeTBiWHhsb0E2Mmk2SmxwZkRMUT09W2iA
+https://d-9.files.im:182/files/1/sejjibrr8nu10a/video.mp4
 #EXTINF:-1 tvg-logo="" group-title="VOD-update", SNAKE EYES 2021
 https://www959.ff-02.com/token=d-XRDJir9GzQF9OnWNHvow/1638661816/103.119.0.0/41/5/66/19e44f102d6b71654d7d3eaded58d665-720p.mp4
 #EXTINF:-1 tvg-logo="" group-title="VOD-update", Tomorrow War 2021
-http:\\127.0.0.1:11470\513412a5352230e64f100302164f748b022f3692\The.Tomorrow.War.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+https://uei208n.dood.video/u5kj6flouhh3sdgge65hmoimkdpruleshhxgh2rf7bunujk45ccocw3dcwta/r05tbkhlqc~qxclgaDlIl?token=yrzgugi209ec2c0prhmm7igx&expiry=1639758537675
 #EXTINF:-1 tvg-logo="" group-title="VOD-update", THE SECRET BOOK OF UNINDING RIDGE 2021
 https://www1573.ff-04.com/token=3DdXhCrJ7JmeiiqAWCSf3A/1638660483/103.119.0.0/181/1/c1/3ed2d66123ae02abd661afcdc3fa3c11-720p.mp4
 #EXTINF:-1 tvg-logo="" group-title="VOD-update", NO TIME TO DIE 2021
-https://fvs.io/redirector?token=VG1kUUcrdnQ5QVpGMlQwRkdVOGRFdWtPc2lyRkpJaHNnVTg3bGIzSG13OHQwbnl6U041TzNNc2dXcDNmZFVwRjRJK2dDNTlscTVZaXZPNmVPRTVxditMVXgxVFhmazRFVWQ5Q2o4YjhIVXUybkZZUk0rL0k2MU9IMmtnTW5TdFgxYWhUUWVHWEJTbk5RQm4zdHo1VWhnWVVYd2g5UGFtbW55UWxCZz09OitETDhCZmNtOSt0ZEVSdllzdWtVYUE9PQLjHS
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EeSwQosb0WNIokvFz5LezdgBF4M7QV65cOhwyiqxyI5_1w?e=CGP8Bg
 #EXTINF:-1 tvg-logo="" group-title="VOD-update", NO TIME TO DIE ALT 2021
-https://www166.ff-01.com/token=bDYYOnirJID_lTc1NwaWTw/1638818567/103.119.0.0/103/c/f6/a6db0f926903488ee0fd8c4bbe970f6c-1080p.mp4
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EeSwQosb0WNIokvFz5LezdgBF4M7QV65cOhwyiqxyI5_1w?e=MRMHKS
 #EXTINF:-1 tvg-logo="" group-title="VOD-update", FREELAND 2021
 https://www1779.ff-04.com/token=3VqMteRpfeKZAn2LX2HCVg/1638660682/103.119.0.0/75/1/50/42326de00e62b097eeb1b7c394bc2501-720p.mp4
 #EXTINF:-1 tvg-logo="" group-title="VOD-update", DUNE 2021
@@ -1095,7 +1074,7 @@ https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Ee7aQHNgORVF
 #EXTINF:-1 tvg-logo="" group-title="VOD-update", Black Widow 2021
 https://www14.uptostream.com/stream/3tm9qdba9f/_v_333480_0.mp4
 #EXTINF:-1 tvg-logo="" group-title="VOD-update", Shang-Chi Legend of Ten Rings
-https://v2.streamku.xyz/stream/360/Y8udDP0uTzelPF5/__001
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EcVLTmdpxUVDqJCZ4hWZoEcBEM8HsUQk053Jfv0MUQKi5w?e=2eKmsZ
 #EXTINF:-1 tvg-logo="" group-title="VOD-update", VENOM 2021
 https://www.googleapis.com/drive/v3/files/1tcjd86lO82kUPsfOZtNpwHF5RzEJgZ6V?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-logo="" group-title="VOD-update", THE FORGOTTEN BATTLE 2021
@@ -1129,3 +1108,5 @@ https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EYZjlE4egVJC
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EQhQUDlg_0NFsiIjezxhiZwBMjXupeuqdis6clwjL0Xdjw?e=oXkNwl
 #EXTINF:-1 tvg-id="" tvg-name="WHEEL OF TIME S01 E01" tvg-logo="" group-title="Serial",WHEEL OF TIME S01 E06
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Ee0Q5HPr6KVPsLUDVolC7qsB02WBuiegezL1nxsNRGrNeQ?e=a3dr9a
+#EXTINF:-1 tvg-id="" tvg-name="WHEEL OF TIME S01 E01" tvg-logo="" group-title="Serial",WHEEL OF TIME S01 E07
+https://65ecec499067a75.highdeliverycdn.com/atlaslionzd/OF6uYicA7b-izCMIDMBWcg/1640018090/ahd7c0n5gfeu/ic2die0xtxsg/video.mp4
