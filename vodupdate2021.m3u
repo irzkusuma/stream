@@ -1,25 +1,38 @@
-#EXTINF:-1 group-title="VOD-update", RUMBLE 2021
+#EXTM3U
+x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/yt/canalplus-reunion.com.epg.xml,https://iptv-org.github.io/epg/guides/zm/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/zw/dstv.com.epg.xml,http://dusktill.masuk.web.id/epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/hk-zh/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,http://tvku.live:8888/xmltv.php?username=epg&password=epg,http://dontuse.fluxz.cc:80/xmltv.php?username=asNeYk5x&password=g4s5FeWg,https://bit.ly/EPGtvku,https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://bit.ly/EPGtvku,https://transvision.co.id.channels.xml,https://useetv.com.channels.xml,https://telkomvision.com.channels.xml,https://mncvision.id.E.channels.xml,https://firstmedia.com.channels.xml"  
+
+#EXTINF:-1 tvg-logo="https://104.161.33.126/wp-content/uploads/2021/12/zIkGGiQBNITG9vVxgmf6MXQ1gT1.jpg"  group-title="VOD-update", The Novice 2021
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Ec09sEos5qhLmMVzoPJEt3sB-r0EoX62DcOgcoJsb_QgQQ?e=BTGssi
+#EXTINF:-1 tvg-logo="https://104.161.33.126/wp-content/uploads/2021/12/p0ONYt2cw0vPEnZIoOHq1Ki7Ifm.jpg" group-title="VOD-update", SNOOPY - For Auld Lang Syne 2021
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EfpTO5HetrlNrGztjhCCyncB-vZ46iZzOTftS2hhkVaYfQ?e=2cg0cw
+#EXTINF:-1 group-title="VOD-update", FIREDRAKE SILVER DRAGON 2021
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/ETeFvDPTa6FLml3U09AdzesBfOCNxhRK3HVi3c0FkUnMzg?e=p9hx7N
+#EXTINF:-1 tvg-logo="https://104.161.33.126/wp-content/uploads/2021/12/vHzXJST28rfjrlfnYhdl0ohAWsL-60x90.jpg" group-title="VOD-update", The Guardian 2021
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Ef76dRQZ_QdOrYroBXSUzwABbKsFtNAZSvQKwhIUGbovBA?e=EFfo2a
+#EXTINF:-1 tvg-logo="https://104.161.33.126/wp-content/uploads/2021/12/8h5G6kIHuzmudZMXGC8NxfMaA3n-60x90.jpg" group-title="VOD-update", BOATHOUSE 2021
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EV7nlNyoHk1LvM6hS5dBPUYBcXyNy_EmsX3D1ohYMZ_Jow?e=P0Z01L
+#EXTINF:-1 tvg-logo="https://104.161.33.126/wp-content/uploads/2021/12/mVKfyo2YQ1Sf0fKzZfc5t9HM6eK-152x228.jpg"  group-title="VOD-update", RUMBLE 2021
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/ETmkju1C90RJnZHhY8Z1OWAB5fYlKFq3onW8aQ1OiCvnsQ?e=QnmsCC
 #EXTINF:-1 group-title="VOD-update", BACK TO OUTBACK 2021
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Eeg6UsJajVxFpTMvvbUO39ABpeyOaE7CaQmizW8hVUUtjQ?e=ZcDb2a
-#EXTINF:-1 group-title="VOD-update", MATRIX-4 RESSURECTION 2021
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EX9M9WIxIlNBhvf6Kf0rfmoBTwCKkYtMGP4zhdxXTnpInQ?e=VCMaRP
-#EXTINF:-1 group-title="VOD-update", RESIDENT EVIL 2021
+#EXTINF:-1 tvg-logo="https://104.161.33.126/wp-content/uploads/2021/12/8c4a8kE7PizaGQQnditMmI1xbRp.jpg"  group-title="VOD-update", MATRIX-4 RESSURECTION 2021
+https://www196.ff-01.com/token=fYgh9ZaKodur2oywOzkSFA/1640652074/103.119.0.0/114/9/94/641bf78f8964a6c799aedb9aa31eb949-720p.mp4
+#EXTINF:-1 tvg-logo="https://104.161.33.126/wp-content/uploads/2021/12/3eVpNCMoi3C8lA0F0n2retnwvCK-60x90.jpg"  group-title="VOD-update", RESIDENT EVIL 2021
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EbwMBazA9UROqiPS18iR9fUB5vg9paivyuh4O3DBtTJ7Ig?e=JCje8j
-#EXTINF:-1 group-title="VOD-update", SPIDERMAN NO WAY HOME 2021 
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EZMQrFFnTHpMgDp_gdxEqqEBAbh9Ex6oYaGuStQi5pWAqQ?e=QwzCo7
+#EXTINF:-1 tvg-logo="https://104.161.33.126/wp-content/uploads/2021/12/1g0dhYtq4irTY1GPXvft6k4YLjm-60x90.jpg"   group-title="VOD-update", SPIDERMAN NO WAY HOME 2021 
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EQSIKQU6K6xDg_rU1ejWtZUBeVZS-GWfZEBQT7QIbhms6Q?e=pg9vEg
 #EXTINF:-1 group-title="VOD-update", The Beatles-Get Back-S01 E01
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/ETpRxSMxrq5IlYeNSJ42U5QBbt85DuB4rLjeuoD293jAcA?e=LcFOI4
 #EXTINF:-1 group-title="VOD-update", The Beatles-Get Back-S01 E02
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EWLkIpFEx_1Jq0N4F-LjkZ4BOweDMxC2pwaHolfB5PvOng?e=wZjBec
 #EXTINF:-1 group-title="VOD-update",Mother/Android(2021)
-https://63369762987a13a.highdeliverycdn.com/atlaslionzd/Nn8Osh8xs5d0v3u6LrXiGA/1640017454/4fe5pqmca7co/bq4wailmqsid/video.mp4
+https://www859.ff-02.com/token=Z76ZFMhd7nBooTBQeP5SAg/1640652000/103.119.0.0/115/9/48/e3a2694a820910635f48b584a6ff4489-720p.mp4
 #EXTINF:-1 group-title="VOD-update", Encounter (2021)
 https://336866703bd6e25.highdeliverycdn.com/atlaslionzd/zKMAcYA8M6y29RhBPF_SGQ/1640016169/ajqamim3kfyt/efv6ygvvf1ol/video.mp4
 #EXTINF:-1 group-title="VOD-update", Ron’s Gone Wrong (2021)
 https://3126b18b8a177d2.highdeliverycdn.com/atlaslionzd/fLz7PGesBt_CDfVHQm_JuA/1640016690/aebamagfbg9u/v83t4mz8bjfh/video.mp4
 #EXTINF:-1 group-title="VOD-update", The Water Man (2021)
-https://www2133.ff-05.com/token=yWRCSLTxCySzfiGny-ui3A/1639872126/103.119.0.0/164/a/51/0f870156fcfca37fa4627964544fb51a-720p.mp4
+https://www131.sbcdnvideo.com/tysxed4esg66j6cdaccr3qs3f4my62synja2dgd7fmgvh3fblzjyznq2uzva/b6b2652c46d9184eea73728a903bddbe-720p.mp4
 #EXTINF:-1 group-title="VOD-update",ROBIN-ROBIN ANIME (2021)
 https://redirector.gdrivecdn.work/drive/index.php?id=DoBFYk6Ue35K6nTRCNVrOgZoOcdDTidnk8bXlHRG2cgEjZR%2BrksE4yorD1ov4Hizk%2BeDZkDWlvZERiHMfkF3DHCO3bvx6uUgDyLh3tUmLHaF7Gjl6HfFX7xiDQBko0HKj%2F2kj7URqYnBzr6IFE0ngJgW0Uu101%2BomB7zF40DpHp1JqDh8g%2FALysqBQ%2Fq2EiOzsxINKAYUxsF%2BeCoYKmdXN&ref=https%3A%2F%2Fmkvking.me%2F&sandbox=&t=1638800823273&ref=https://mkvking.me/&res=360
 #EXTINF:-1 group-title="VOD-update",KAAMELOTT - 1ST CHAPTER(2021)
@@ -47,10 +60,10 @@ https://4iekydqupiqr8zsbnuup1.ctmp.space/files/7/1pslnzdkxk4sce/video.mp4
 #EXTINF:-1 group-title="VOD-update",Red Notice (2021)
 https://3126b18b8a177d2.highdeliverycdn.com/atlaslionzd/hYCUXQRmHa8q5WyaaWwAgA/1640016412/3mempjtkjml3/b6qc5tevxm9t/video.mp4
 #EXTINF:-1 group-title="VOD-update",Antlers (2021)
-https://6a29b54b4e59507.highdeliverycdn.com/atlaslionzd/Dkcg1N_Z8s8vmog21P0vMg/1640016489/ttirpofrnwd4/k6uukvdqleko/video.mp4
-#EXTINF:-1 tvg-logo="" group-title="VOD-update", NO TIME TO DIE 2021
+https://www20.ff-01.com/token=lYGZN-BRu_dLJ8xgVF_fzA/1640651909/103.119.0.0/99/2/e8/cb0e52d63b1fac14a2c2b7af696c0e82-720p.mp4
+#EXTINF:-1 tvg-logo="https://104.161.33.126/wp-content/uploads/2021/12/iUgygt3fscRoKWCV1d0C7FbM9TP-60x90.jpg" group-title="VOD-update", NO TIME TO DIE 2021
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EeSwQosb0WNIokvFz5LezdgBF4M7QV65cOhwyiqxyI5_1w?e=CGP8Bg
-#EXTINF:-1 tvg-logo="" group-title="VOD-update", NO TIME TO DIE ALT 2021
+#EXTINF:-1 tvg-logo="https://104.161.33.126/wp-content/uploads/2021/12/iUgygt3fscRoKWCV1d0C7FbM9TP-60x90.jpg" group-title="VOD-update", NO TIME TO DIE ALT 2021
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EeSwQosb0WNIokvFz5LezdgBF4M7QV65cOhwyiqxyI5_1w?e=MRMHKS
 #EXTINF:-1 tvg-logo="" group-title="VOD-update", Infinite 2021
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Ee7aQHNgORVFsfl7HeIMbPcBOy3rwbhIfUOjNHj39ne5yQ?e=FeafuK
@@ -69,45 +82,79 @@ https://www.googleapis.com/drive/v3/files/1WCw9mArBfldMhuZPgaF5IJIrQNBPSCfc?alt=
 
 #########SERIAL
 ##Hawkeye
-#EXTINF:-1 tvg-id="" tvg-name="Hawkeyes S01 E01" tvg-logo="" group-title="Serial",Hawkeye S01 E01
+#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/37.49.229.132/f=auto/wp-content/uploads/2021/11/pqzjCxPVc9TkVgGRWeAoMmyqkZV-60x90.jpg"  group-title="Serial", Hawkeye S01 E01
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/ETxD3iMOiT1Gvol7XdJCyGsB65u6b_VG20IcBWz26mZOQQ
-#EXTINF:-1 tvg-id="" tvg-name="Hawkeye S01 E01" tvg-logo="" group-title="Serial",Hawkeyes S01 E02
+#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/37.49.229.132/f=auto/wp-content/uploads/2021/11/pqzjCxPVc9TkVgGRWeAoMmyqkZV-60x90.jpg"  group-title="Serial", Hawkeyes S01 E02
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EdgOGmHTsRdKiJP2Ew8uYdAB1MguCjLndMnjsxwU7Ny-QQ?e=vcujUY
-#EXTINF:-1 tvg-id="" tvg-name="Hawkeye S01 E01" tvg-logo="" group-title="Serial",Hawkeyes S01 E03
+#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/37.49.229.132/f=auto/wp-content/uploads/2021/11/pqzjCxPVc9TkVgGRWeAoMmyqkZV-60x90.jpg"  group-title="Serial", Hawkeyes S01 E03
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EZIB7aGpD7NFlwkO718TR50BJnSZDwbeda2fCq0Hs6tBEQ
-#EXTINF:-1 tvg-id="" tvg-name="Hawkeye S01 E01" tvg-logo="" group-title="Serial",Hawkeyes S01 E04
+#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/37.49.229.132/f=auto/wp-content/uploads/2021/11/pqzjCxPVc9TkVgGRWeAoMmyqkZV-60x90.jpg"  group-title="Serial", Hawkeyes S01 E04
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EUTD8N9__u5LmMEUBm2paPsBkjMlFZ7V3W5SGH46X7QUOA
+#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/37.49.229.132/f=auto/wp-content/uploads/2021/11/pqzjCxPVc9TkVgGRWeAoMmyqkZV-60x90.jpg"  group-title="Serial", Hawkeyes S01 E05 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EedOnjPMUr9KgLxm8uuDGQcBdjxV36iRmxq7DNvBqC-EEQ?e=RViorD 
+#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/37.49.229.132/f=auto/wp-content/uploads/2021/11/pqzjCxPVc9TkVgGRWeAoMmyqkZV-60x90.jpg"  group-title="Serial", Hawkeyes S01 E06 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EZRcI-1NjpZIhAgv5i588KQBhfojcOgzi5J3xEiEw3L0kg?e=l7n0yK
 
 ##WHEEL OF TIME
-#EXTINF:-1 tvg-id="" tvg-name="WHEEL OF TIME S01 E01" tvg-logo="" group-title="Serial",WHEEL OF TIME S01 E01
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/Ed11X0csxPZLuPwBAxiT46YBbKSFac5wfdMh561qtLOD0w?e=E0EjxM" group-title="Serial", WHEEL OF TIME S01 E01
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/ESPS5Cr9roBJos8NjkrH2igBoEEShD8CDDn7WfmzyK84sA?e=lIUGSO
-#EXTINF:-1 tvg-id="" tvg-name="WHEEL OF TIME S01 E01" tvg-logo="" group-title="Serial",WHEEL OF TIME S01 E02
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/Ed11X0csxPZLuPwBAxiT46YBbKSFac5wfdMh561qtLOD0w?e=E0EjxM" group-title="Serial", WHEEL OF TIME S01 E02
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EawcGMazYulIpq5yDP80FOsBihDCdaye4LeS2d5dOg-eKQ?e=HLXhPm
-#EXTINF:-1 tvg-id="" tvg-name="WHEEL OF TIME S01 E01" tvg-logo="" group-title="Serial",WHEEL OF TIME S01 E03
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/Ed11X0csxPZLuPwBAxiT46YBbKSFac5wfdMh561qtLOD0w?e=E0EjxM" group-title="Serial", WHEEL OF TIME S01 E03
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EZqVWKgWT5pEmoW0dasPeRUB216IfDUUNVbK3LyhXdpG6Q?e=sJrkG3
-#EXTINF:-1 tvg-id="" tvg-name="WHEEL OF TIME S01 E01" tvg-logo="" group-title="Serial",WHEEL OF TIME S01 E04
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/Ed11X0csxPZLuPwBAxiT46YBbKSFac5wfdMh561qtLOD0w?e=E0EjxM" group-title="Serial", WHEEL OF TIME S01 E04
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EYZjlE4egVJCo9bpoCo7FEgBedMdZkuhwviMfp6nCdoY3g?e=N13849
-#EXTINF:-1 tvg-id="" tvg-name="WHEEL OF TIME S01 E01" tvg-logo="" group-title="Serial",WHEEL OF TIME S01 E05
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/Ed11X0csxPZLuPwBAxiT46YBbKSFac5wfdMh561qtLOD0w?e=E0EjxM" group-title="Serial", WHEEL OF TIME S01 E05
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EQhQUDlg_0NFsiIjezxhiZwBMjXupeuqdis6clwjL0Xdjw?e=oXkNwl
-#EXTINF:-1 tvg-id="" tvg-name="WHEEL OF TIME S01 E01" tvg-logo="" group-title="Serial",WHEEL OF TIME S01 E06
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/Ed11X0csxPZLuPwBAxiT46YBbKSFac5wfdMh561qtLOD0w?e=E0EjxM" group-title="Serial", WHEEL OF TIME S01 E06
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Ee0Q5HPr6KVPsLUDVolC7qsB02WBuiegezL1nxsNRGrNeQ?e=a3dr9a
-#EXTINF:-1 tvg-id="" tvg-name="WHEEL OF TIME S01 E01" tvg-logo="" group-title="Serial",WHEEL OF TIME S01 E07
-https://65ecec499067a75.highdeliverycdn.com/atlaslionzd/OF6uYicA7b-izCMIDMBWcg/1640018090/ahd7c0n5gfeu/ic2die0xtxsg/video.mp4
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/Ed11X0csxPZLuPwBAxiT46YBbKSFac5wfdMh561qtLOD0w?e=E0EjxM" group-title="Serial", WHEEL OF TIME S01 E07 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/ETOYyQ6eX-lDkyV0Ba2VMjIBSIn-OKOX4I5tKdYbaWPbLA?e=dVuqvf 
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/Ed11X0csxPZLuPwBAxiT46YBbKSFac5wfdMh561qtLOD0w?e=E0EjxM" group-title="Serial", WHEEL OF TIME S01 E08 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/ER-y_GL6ooJMoqAbbpNo9_8BUoUf3FxiodsdAH8QjssgHw?e=qLfqe4
 
 ##The Witcher
-#EXTINF:-1 tvg-logo="" group-title="Serial", The Witcher (2019): 2x1
+#EXTINF:-1 tvg-logo="http://167.99.31.48/wp-content/uploads/2021/12/1639994294-2022-7vjaCdMw15FEbXyLQTVa04URsPm-200x300.jpg" group-title="Serial", The Witcher (2019): 2x1
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Eeno7OPBGlZBod_S_-_PsmABF9arFObWrttHHTJaf3DHKA?e=gz76mb
-#EXTINF:-1 tvg-logo="" group-title="Serial", The Witcher (2019): 2x2
+#EXTINF:-1 tvg-logo="http://167.99.31.48/wp-content/uploads/2021/12/1639994294-2022-7vjaCdMw15FEbXyLQTVa04URsPm-200x300.jpg" group-title="Serial", The Witcher (2019): 2x2
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EdoWY_F67-5FiRbUXT9zTsMBhwngxaNfPOrCyCxD0dSsMg?e=t0qzhp
-#EXTINF:-1 tvg-logo="" group-title="Serial", The Witcher (2019): 2x3
+#EXTINF:-1 tvg-logo="http://167.99.31.48/wp-content/uploads/2021/12/1639994294-2022-7vjaCdMw15FEbXyLQTVa04URsPm-200x300.jpg" group-title="Serial", The Witcher (2019): 2x3
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/ESf7hUaAUjlKtGNHdTCRzpkB4ThTWfbwwpogS36UrnVa6w?e=KInuFY
-#EXTINF:-1 tvg-logo="" group-title="Serial", The Witcher (2019): 2x4
+#EXTINF:-1 tvg-logo="http://167.99.31.48/wp-content/uploads/2021/12/1639994294-2022-7vjaCdMw15FEbXyLQTVa04URsPm-200x300.jpg" group-title="Serial", The Witcher (2019): 2x4
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EWTg9-aAU31KiGztEeP0pOUB9xGxF7N8BImQLmGgfuSV1g?e=kDprYu
-#EXTINF:-1 tvg-logo="" group-title="Serial", The Witcher (2019): 2x5
+#EXTINF:-1 tvg-logo="http://167.99.31.48/wp-content/uploads/2021/12/1639994294-2022-7vjaCdMw15FEbXyLQTVa04URsPm-200x300.jpg" group-title="Serial", The Witcher (2019): 2x5
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EX99-lvsQ8dIos5tGqip-kgB-e683oVuhwniVw-mz3X8_Q?e=1QUO5p
-#EXTINF:-1 tvg-logo="" group-title="Serial", The Witcher (2019): 2x6
+#EXTINF:-1 tvg-logo="http://167.99.31.48/wp-content/uploads/2021/12/1639994294-2022-7vjaCdMw15FEbXyLQTVa04URsPm-200x300.jpg" group-title="Serial", The Witcher (2019): 2x6
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EbWnzbeziV1KmgHJqIRRpFkBaPAyNY_3zNDZxoutGqkVcQ?e=zzvDdH
-#EXTINF:-1 tvg-logo="" group-title="Serial", The Witcher (2019): 2x7
+#EXTINF:-1 tvg-logo="http://167.99.31.48/wp-content/uploads/2021/12/1639994294-2022-7vjaCdMw15FEbXyLQTVa04URsPm-200x300.jpg" group-title="Serial", The Witcher (2019): 2x7
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EeZlOI08i6FJrSCQORQ2mRcBthg7rip34IDQpXOBosFvsg?e=ffeQqV
-#EXTINF:-1 tvg-logo="" group-title="Serial", The Witcher (2019): 2x8
+#EXTINF:-1 tvg-logo="http://167.99.31.48/wp-content/uploads/2021/12/1639994294-2022-7vjaCdMw15FEbXyLQTVa04URsPm-200x300.jpg" group-title="Serial", The Witcher (2019): 2x8
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/ERCiDoE3dNFMtRn4piJ0CrsB1aK2KUGgp9E5AzynaR68sQ?e=5dbeLS
+
+##MANDALORIAN
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="Serial", MANDALORIAN: 1x1 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EQWM34LqYRRNkBpGtDxPmH8B03XGyc07aa-HKABtihWyLw?e=FkH8BX 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="Serial", MANDALORIAN: 1x2 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/ESQOFcvgU8FLlqae3uz8bUEBHHO2qFdadnvPzthuzEv1kg?e=9jKAXu 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="Serial", MANDALORIAN: 1x3 
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EdSRKp8dCABIkT5yXN8eYxkBmWD6kxuzvLiTJBVAjC3qCQ?e=c9W24c 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="Serial", MANDALORIAN: 1x4 
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EZKTZn6kZGpDhPthYjUplD8BN6nvCQdFYZy56pnQJx1b_w?e=QTGed9 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="Serial", MANDALORIAN: 1x5 
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EYPn_ERpHx5HtfqLD7a-dLoBCEyVLZGO8-whiIAXOZYEDg?e=gdCl0F 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="Serial", MANDALORIAN: 1x6 
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EdHC8OUt-zBLn9B73M43YggBPoyTENUsIjvcBlbwHLSYJA?e=lAAkfL 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="Serial", MANDALORIAN: 1x7 
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EYb7--wHWK1MlyFeS9a1QgMBiRTad95qYp15XCCwbzZ9Vg?e=4hsjUJ 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="Serial", MANDALORIAN: 1x8 
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EQHFC5WeeoxDnGnqcVyFMzQBLJMlkWHkzWcHuPTHQdc6xg?e=MJaqUC  
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rexnm5Sy2HNvQV6m9DxeDoScmnv.jpg" group-title="Serial", MANDALORIAN: 2x1 
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/ERVZGGzw1fhOq0tRZ9KUzisBbpupZH7ibZ7lQcVlKbpIQg?e=zGMFma 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rexnm5Sy2HNvQV6m9DxeDoScmnv.jpg" group-title="Serial", MANDALORIAN: 2x2 
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Ee5jDdWnU9RAgrBEizLRcOYBncmhig3VTtYSz5yu6Z_nVw?e=PodzLQ
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rexnm5Sy2HNvQV6m9DxeDoScmnv.jpg" group-title="Serial", MANDALORIAN: 2x3 
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Eb16sxfHDNlFifkaJ-dxcBABUYrWopDBNV0JEVXkesNZiQ?e=9Mh2K5
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rexnm5Sy2HNvQV6m9DxeDoScmnv.jpg" group-title="Serial", MANDALORIAN: 2x4 
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EeWBguY1vHhDv8yuE_Bn3XQBWI9EAgtK91PSzVGWSKySIQ?e=eoeStc
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rexnm5Sy2HNvQV6m9DxeDoScmnv.jpg" group-title="Serial", MANDALORIAN: 2x5 
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Ed4e4gsiAfFCh28aRBsgBmIBfVyEuOTQFNYMJYnlAHKJ-g?e=UNUT6p
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rexnm5Sy2HNvQV6m9DxeDoScmnv.jpg" group-title="Serial", MANDALORIAN: 2x6 
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EXzeajNGnVdGgxkJbRtVq-UBYW5_3SYjvCDkCMoUTJFWeA?e=iO54PK
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rexnm5Sy2HNvQV6m9DxeDoScmnv.jpg" group-title="Serial", MANDALORIAN: 2x7 
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EY3-Wvr1SpJPk9rymGyRga8BHB3SdoShp76jiGDoKOUeCA?e=2PgrLM
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rexnm5Sy2HNvQV6m9DxeDoScmnv.jpg" group-title="Serial", MANDALORIAN: 2x8 
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/ESl6plmzX-lLm_MvzvpLlFcByRwlS4tDMo9Y52L_QeO6Ug?e=WTyGFJ
