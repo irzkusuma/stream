@@ -141,9 +141,13 @@ https://dl.dropbox.com/s/hr4pu9fqongh3m9/PeaceTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" group-title="HIBURAN",  THRILL
 http://210.210.155.35/session/53cb7f1e-c446-11eb-845d-a3e4a63de879/qwr9ew/s/s34/02.m3u8
 https://dik.si/hbosyarman
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo%201.jpg?dl=1"  group-title="HIBURAN", HBO 
+https://Lnk.ec/hboID?shareext.ts
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nbh20sfv6tv8lkq/hbo_family.png?dl=1"  group-title="HIBURAN", HBO Family 
+https://Lnk.ec/hboFamID?shareext.ts
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/d7c5glg1xb2cfj5/hbo%20signature.png?dl=1"  group-title="HIBURAN", HBO Signature
 https://dik.si/hbohitsyarman
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png"  group-title="HIBURAN", HBO Hits
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/i33ddi4r4r2axn1/HBOHits-ASIA.png?dl=1"  group-title="HIBURAN", HBO Hits
 https://dik.si/hbosigsyarman
 #EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565946217550.png"  group-title="HIBURAN", ROCK ENTERTAINMENT 
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
@@ -168,6 +172,7 @@ http://210.210.155.35/uq2663/h/h18/index.m3u8
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.6zwi1htiyuthJK1o0l3wKwHaFY&pid=Api&P=0&w=236&h=172" group-title="HIBURAN",ONE
 http://210.210.155.35/uq2663/h/h143/index.m3u8
 
+#########MAXSTREAM
 #EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/EZp-YkDwvN1JuHPR7pNZj8wBffNJTRWS4BvBz6Rvjpk00Q?e=O0We1e" group-title="MAXSTREAM", UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/EZp-YkDwvN1JuHPR7pNZj8wBffNJTRWS4BvBz6Rvjpk00Q?e=O0We1e" group-title="MAXSTREAM",DIGIONE MAXSTREAM
@@ -267,9 +272,27 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 http://stream1.ninmedia.tv:1935/atv/udp.stream/chunklist_w465987392.m3u8
 
 ############ DOCUMENTER
+#EXTINF:-1 tvg-logo="https://api.discovery.com/v1/images/5ca22512d1b3ee5361260d00?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" group-title="DOCUMENTER", DISCOVERY CHANNEL 
+https://Lnk.ec/FOXHD?shareext.ts
+#EXTINF:-1 tvg-logo="https://api.discovery.com/v1/images/5ca22512d1b3ee5361260d00?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" group-title="DOCUMENTER", DISCOVERY CHANNEL Backup 
+http://139.99.71.104:8888/live/blink8/kurBPQgPf6/95.ts
+#EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-history.png" group-title="DOCUMENTER", HISTORY CHANNEL
+http://139.99.71.104:8888/live/blink7/38Jz5ErUNG/718.ts
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="DOCUMENTER", NATGEO
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="DOCUMENTER", NATGEO BACKUP
+https://usee.galleryiptv.my.id/GaUsah_Di_Share_Tokennya/chunklist.m3u8?id=natgeo&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="DOCUMENTER", NATIGEO BACKUP 2
+http://139.99.71.104:8888/live/blink5/W6MIckThGt/96.ts
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="DOCUMENTER", NATGEO WILD
+https://usee.galleryiptv.my.id/GaUsah_Di_Share_Tokennya/chunklist.m3u8?id=natgeowild&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="DOCUMENTER", NATGEO WILD BACKUP
+http://139.99.71.104:8888/live/blink6/yOttch0ZLF/97.ts
+
+
 #EXTINF:0 tvg-id="ext" group-title="DOCUMENTER",Discovery Asia
 http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-history.png" group-title="DOCUMENTER",History
+#EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-history.png" group-title="DOCUMENTER", History
 https://cdn1.mobiletv.bg/T10/history/history_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="DOCUMENTER", NATGEO
 http://bestsave.ltd:2052/39995593/39995593/81441
@@ -329,6 +352,7 @@ https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.co
 https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT434nvF/Logo-Biznet-Adventure.png" group-title="DOCUMENTER", Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
 
 ############# STYLE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vK2rOZG.png?v=1.0.0.1" group-title="STYLE" TV,Fashion TV MIDNIGHT
@@ -417,6 +441,7 @@ http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/94117
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/94131
 #EXTINF:-1 group-title="SPORT", SPORT NBA
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/94129
+
 
 #EXTINF:-1 group-title="SPORT", UK EPL 01 : 
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/99430
