@@ -145,10 +145,12 @@ https://dl.dropbox.com/s/hr4pu9fqongh3m9/PeaceTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" group-title="HIBURAN",  THRILL
 http://210.210.155.35/session/53cb7f1e-c446-11eb-845d-a3e4a63de879/qwr9ew/s/s34/02.m3u8
 https://dik.si/hbosyarman
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/d7c5glg1xb2cfj5/hbo%20signature.png?dl=1"  group-title="HIBURAN", HBO
+https://dik.si/hbosyarman
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/d7c5glg1xb2cfj5/hbo%20signature.png?dl=1"  group-title="HIBURAN", HBO Signature
-https://dik.si/hbohitsyarman
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png"  group-title="HIBURAN", HBO Hits
 https://dik.si/hbosigsyarman
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png"  group-title="HIBURAN", HBO Hits
+https://dik.si/hbohitsyarman
 #EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565946217550.png"  group-title="HIBURAN", ROCK ENTERTAINMENT 
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565946228444.png"  group-title="HIBURAN" , ROCK EXTREME
