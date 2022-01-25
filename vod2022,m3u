@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/odzk31cAAqD7A2MGtm4Hply9H3c.jpg" group-title="VOD-update", Marakkar: Lion of the Arabian Sea
+https://www533.ff-02.com/token=zfyZOxKDfjze2G2tkI_Wkg/1643149997/103.119.0.0/115/c/9c/7b37bc6c2d0927027fc3178f953349cc-720p.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/8AvZ5Emq4vy9JvfQI5twJBMbx1y.jpg" group-title="VOD-update", A Hero
+https://www88.ff-01.com/token=BcH0vqfaTw8bGPGKEkC_Gw/1643149559/103.119.0.0/184/8/ca/6170c66580e5eeb8f9cd22c587e1cca8-720p.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xo6xs9b7CBk8S5qfOZzDFEQLDOk.jpg" group-title="VOD-update", Last Radio Call
+https://www2260.ff-05.com/token=_V8rPYl3zQJLS5kdDVsYFw/1643149434/103.119.0.0/190/f/44/358650df78c7bf6d4d24901b279e744f-720p.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/EKSAjHmJV4VBou8v2z8NWf6r0E.jpg" group-title="VOD-update", Guard
+https://www833.ff-02.com/token=INfzJApQDnUa116bMHXQZw/1643149300/103.119.0.0/186/a/4a/c1461ccddf5c0b73608064f1aec774aa-720p.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xXZ4yhyss7DGrp7a1EVHaAStfwr.jpg" group-title="VOD-update", Vicky and Her Mystery
+https://www676.ff-02.com/token=KuDMgvFN74kMyMm40aPpVQ/1643149154/103.119.0.0/189/6/9d/0ba5e59cede0f537fe8d3c46b36349d6-720p.mp4
+#EXTINF:-1 tvg-logo="https://104.161.33.126/wp-content/uploads/2022/01/9HFFwZOTBB7IPFmn9E0MXdWave3-60x90.jpg" group-title="VOD-update", Warhunt
+https://www2236.ff-05.com/token=uH9Mkj2wA5ptgGPjL5Rqog/1643148784/103.119.0.0/183/2/cc/57ddbff671ebabf62effd779f5981cc2-720p.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/8zgzQ5dfEbwJOfXZaG4vJjEv2C0.jpg" group-title="VOD-update", The TenderBar
+https://www225.ff-01.com/token=c63wwWex_zMqlQ_QoCsiqg/1642809133/103.119.0.0/190/a/f3/fb7935fc2d334138e70aa2ea5f4a9f3a-720p.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sIa4bTxEo8M3YmXQaTumqJtKvo1.jpg" group-title="VOD-update", The Cave
+https://www746.ff-02.com/token=uiJ6H8MUOx7PE73htHl29Q/1643149708/103.119.0.0/183/f/e6/471fde4fbbcd3783deb537d6bbb78e6f-720p.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/8zgzQ5dfEbwJOfXZaG4vJjEv2C0.jpg" group-title="VOD-update", The TenderBar
 https://www225.ff-01.com/token=c63wwWex_zMqlQ_QoCsiqg/1642809133/103.119.0.0/190/a/f3/fb7935fc2d334138e70aa2ea5f4a9f3a-720p.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sIa4bTxEo8M3YmXQaTumqJtKvo1.jpg" group-title="VOD-update", The Cave
