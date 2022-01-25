@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6tyaqc0.png?v=1.0.0.1" group-title="LOKAL",KOMPAS
 https://iptv.mwafa.net/vidio/874/index.m3u8?token=1999
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6tyaqc0.png?v=1.0.0.1" group-title="LOKAL",KOMPAS 2
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+https://cubmu.superzap.xyz:8279/kompas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHMfHWT2/METRO.png" group-title="LOKAL",METRO
 https://iptv.mwafa.net/vidio/777/index.m3u8?token=1999
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHMfHWT2/METRO.png" group-title="LOKAL",METRO 2
@@ -21,19 +21,21 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8?checkedby:i
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.MvHgFrxkxczLT1GpKo6BUAHaFq&pid=Api&P=0&w=222&h=171" group-title="LOKAL",INDOSIAR
 http://210.210.155.35:80/session/91daacce-2ecf-11eb-8016-b82a72d63267/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_transtv_big1.png" group-title="LOKAL",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+https://cubmu.superzap.xyz:8279/transtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_trans7_big1.png" group-title="LOKAL",TRANS7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+https://cubmu.superzap.xyz:8279/trans7/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="LOKAL",SCTV
-http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
+https://cubmu.superzap.xyz:8279/sctv/playlist.m3u8
 #EXTINF:-1   tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="LOKAL",ANTV
 http://210.210.155.35:80/session/74698288-2ed3-11eb-82e0-c81f66f89318/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_net_big1.png" group-title="LOKAL",NET
-http://45.126.83.51/qwr9ew/s/s08/01.m3u8
+https://cubmu.superzap.xyz:8279/net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png"  group-title="LOKAL, MNCTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2be6a41c2a2a7270517f5ce8dd2f48fc68d
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png"  group-title="LOKAL,INSERT
+https://cubmu.superzap.xyz:8279/insert/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png"  group-title="LOKAL,RCTI
-https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
+https://cubmu.superzap.xyz:8279/rcti/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_idx_big.png" group-title="LOKAL",IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_499968=8-mp4a_66000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ox8luDM.png" group-title="LOKAL",INEWS
@@ -468,3 +470,139 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
 #EXTINF: group-title="MUSICTV" tvg-logo="http://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" ,MTV Spankin' 
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#######USA_KIDS
+#EXTINF:-1 tvg-id="" tvg-name="Baby First USA" tvg-logo="" group-title="USA-KIDS",Baby First USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3689
+#EXTINF:-1 tvg-id="" tvg-name="PBS Kids USA" tvg-logo="" group-title="USA-KIDS",PBS Kids USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3690
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel USA" tvg-logo="" group-title="USA-KIDS",Disney Channel USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3691
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD USA" tvg-logo="" group-title="USA-KIDS",Disney XD USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3692
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior USA" tvg-logo="" group-title="USA-KIDS",Disney Junior USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3693
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon USA" tvg-logo="" group-title="USA-KIDS",Nickelodeon USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3694
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr USA" tvg-logo="" group-title="USA-KIDS",Nick Jr USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3695
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons USA" tvg-logo="" group-title="USA-KIDS",Nicktoons USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3696
+#EXTINF:-1 tvg-id="" tvg-name="TeenNick USA" tvg-logo="" group-title="USA-KIDS",TeenNick USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3697
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang USA" tvg-logo="" group-title="USA-KIDS",Boomerang USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3698
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network USA" tvg-logo="" group-title="USA-KIDS",Cartoon Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3699
+#EXTINF:-1 tvg-id="" tvg-name="Universal Kids USA" tvg-logo="" group-title="USA-KIDS",Universal Kids USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3700
+#EXTINF:-1 tvg-id="" tvg-name="Freeform USA" tvg-logo="" group-title="USA-KIDS",Freeform USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3701
+####USA_DOCUMENTER
+#EXTINF:-1 tvg-id="" tvg-name="E! USA" tvg-logo="" group-title="USA_DOCUMENTER",E! USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3621
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL USA" tvg-logo="" group-title="USA_DOCUMENTER",DISCOVERY CHANNEL USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3622
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO USA" tvg-logo="" group-title="USA_DOCUMENTER",NAT GEO USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3623
+#EXTINF:-1 tvg-id="" tvg-name="ID USA" tvg-logo="" group-title="USA_DOCUMENTER",ID USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3624
+#EXTINF:-1 tvg-id="" tvg-name="SCIENCE USA" tvg-logo="" group-title="USA_DOCUMENTER",SCIENCE USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3625
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET USA" tvg-logo="" group-title="USA_DOCUMENTER",ANIMAL PLANET USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3626
+#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN USA" tvg-logo="" group-title="USA_DOCUMENTER",SMITHSONIAN USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3627
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY USA" tvg-logo="" group-title="USA_DOCUMENTER",HISTORY USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3628
+#EXTINF:-1 tvg-id="" tvg-name="DESTINATION AMERICA USA" tvg-logo="" group-title="USA_DOCUMENTER",DESTINATION AMERICA USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3629
+###USA_MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="SYFY USA" tvg-logo="" group-title="USA_MOVIES",SYFY USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3640
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT NETWORK USA" tvg-logo="" group-title="USA_MOVIES",PARAMOUNT NETWORK USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3641
+#EXTINF:-1 tvg-id="" tvg-name="FXM USA" tvg-logo="" group-title="USA_MOVIES",FXM USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3642
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE USA" tvg-logo="" group-title="USA_MOVIES",SUNDANCE USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3643
+#EXTINF:-1 tvg-id="" tvg-name="IFC USA" tvg-logo="" group-title="USA_MOVIES",IFC USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3644
+#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES USA" tvg-logo="" group-title="USA_MOVIES",SONY MOVIES USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3645
+#EXTINF:-1 tvg-id="" tvg-name="HBO USA" tvg-logo="" group-title="USA_MOVIES",HBO USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3646
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME USA" tvg-logo="" group-title="USA_MOVIES",SHOWTIME USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3647
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX USA" tvg-logo="" group-title="USA_MOVIES",CINEMAX USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3648
+#EXTINF:-1 tvg-id="" tvg-name="STARZ USA" tvg-logo="" group-title="USA_MOVIES",STARZ USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3649
+#EXTINF:-1 tvg-id="" tvg-name="EPIX USA" tvg-logo="" group-title="USA_MOVIES",EPIX USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3650
+#EXTINF:-1 tvg-id="" tvg-name="INDIE PLEX USA" tvg-logo="" group-title="USA_MOVIES",INDIE PLEX USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3651
+#EXTINF:-1 tvg-id="" tvg-name="THE MOVIE CHANNEL USA" tvg-logo="" group-title="USA_MOVIES",THE MOVIE CHANNEL USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3652
+#EXTINF:-1 tvg-id="" tvg-name="MGM USA" tvg-logo="" group-title="USA_MOVIES",MGM USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3653
+###USA-SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="ESPN News USA" tvg-logo="" group-title="USA_SPORTS",ESPN News USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3654
+#EXTINF:-1 tvg-id="" tvg-name="ESPN U USA" tvg-logo="" group-title="USA_SPORTS",ESPN U USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3655
+#EXTINF:-1 tvg-id="" tvg-name="NFL USA" tvg-logo="" group-title="USA_SPORTS",NFL USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3656
+#EXTINF:-1 tvg-id="" tvg-name="NBA USA" tvg-logo="" group-title="USA_SPORTS",NBA USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3657
+#EXTINF:-1 tvg-id="" tvg-name="MLB USA" tvg-logo="" group-title="USA_SPORTS",MLB USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3658
+#EXTINF:-1 tvg-id="" tvg-name="NHL USA" tvg-logo="" group-title="USA_SPORTS",NHL USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3659
+#EXTINF:-1 tvg-id="" tvg-name="FS1 USA" tvg-logo="" group-title="USA_SPORTS",FS1 USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3660
+#EXTINF:-1 tvg-id="" tvg-name="FS2 USA" tvg-logo="" group-title="USA_SPORTS",FS2 USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3661
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports USA" tvg-logo="" group-title="USA_SPORTS",NBC Sports USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3662
+#EXTINF:-1 tvg-id="" tvg-name="CBS Sports USA" tvg-logo="" group-title="USA_SPORTS",CBS Sports USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3663
+#EXTINF:-1 tvg-id="" tvg-name="SportsNET New York USA" tvg-logo="" group-title="USA_SPORTS",SportsNET New York USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3669
+#EXTINF:-1 tvg-id="" tvg-name="SportsNET Southwest USA" tvg-logo="" group-title="USA_SPORTS",SportsNET Southwest USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3670
+#EXTINF:-1 tvg-id="" tvg-name="Bally Sports Detroit USA" tvg-logo="" group-title="USA_SPORTS",Bally Sports Detroit USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3671
+#EXTINF:-1 tvg-id="" tvg-name="Bally Sports Ohio USA" tvg-logo="" group-title="USA_SPORTS",Bally Sports Ohio USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3672
+#EXTINF:-1 tvg-id="" tvg-name="Root Sports USA" tvg-logo="" group-title="USA_SPORTS",Root Sports USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3673
+#EXTINF:-1 tvg-id="" tvg-name="Big Ten Network USA" tvg-logo="" group-title="USA_SPORTS",Big Ten Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3674
+#EXTINF:-1 tvg-id="" tvg-name="ACC Network USA" tvg-logo="" group-title="USA_SPORTS",ACC Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3675
+#EXTINF:-1 tvg-id="" tvg-name="Longhorn Network USA" tvg-logo="" group-title="USA_SPORTS",Longhorn Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3676
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports USA" tvg-logo="" group-title="USA_SPORTS",BeIN Sports USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3677
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Xtra USA" tvg-logo="" group-title="USA_SPORTS",BeIN Sports Xtra USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3678
+#EXTINF:-1 tvg-id="" tvg-name="NBC Golf USA" tvg-logo="" group-title="USA_SPORTS",NBC Golf USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3679
+#EXTINF:-1 tvg-id="" tvg-name="Tennis USA" tvg-logo="" group-title="USA_SPORTS",Tennis USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3680
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network USA" tvg-logo="" group-title="USA_SPORTS",Fight Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3681
+#EXTINF:-1 tvg-id="" tvg-name="WWE USA" tvg-logo="" group-title="USA_SPORTS",WWE USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3682
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Network USA" tvg-logo="" group-title="USA_SPORTS",PAC 12 Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3687
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 USA" tvg-logo="" group-title="USA_SPORTS",ESPN 2 USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3684
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Chicago USA" tvg-logo="" group-title="USA_SPORTS",NBC Sports Chicago USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3685
+#EXTINF:-1 tvg-id="" tvg-name="SEC Network USA" tvg-logo="" group-title="USA_SPORTS",SEC Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3686
+#EXTINF:-1 tvg-id="" tvg-name="Fox Soccer Plus USA" tvg-logo="" group-title="USA_SPORTS",Fox Soccer Plus USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3688
+#EXTINF:-1 tvg-id="" tvg-name="ESPN USA" tvg-logo="" group-title="USA_SPORTS",ESPN USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3683
