@@ -1,0 +1,190 @@
+#EXTM3U
+##EURO
+#EXTINF:-1  group-title="EURO",Euro Sports 1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
+#EXTINF:-1  group-title="EURO",Euro Sports 1
+http://185.245.187.150:80/EurosportFHD/index.m3u8
+#EXTINF:-1  group-title="EURO",Euro Sports 2
+http://185.245.187.150:80/Eurosport2FHD/index.m3u8
+
+##beIN
+#EXTINF:-1  group-title="beIN", BEIN_SPORT_ENGLISH_1_4K
+http://smartestv.vip:2095/ABHVYOP/2387998104/5533
+#EXTINF:-1  group-title="beIN", BEIN_SPORT_ENGLISH_2_4K
+http://smartestv.vip:2095/ABHVYOP/2387998104/73813
+#EXTINF:-1  group-title="beIN", BEIN_SPORT_ENGLISH_3_4K
+http://smartestv.vip:2095/ABHVYOP/2387998104/73812
+#EXTINF:-1  group-title="beIN", bein_Sports_English_SD1
+http://smartestv.vip:2095/ABHVYOP/2387998104/3029
+#EXTINF:-1  group-title="beIN", BEIN_SPORTS_ENGLISH_1_HD
+http://smartestv.vip:2095/ABHVYOP/2387998104/11
+#EXTINF:-1  group-title="beIN", BEIN_SPORTS_ENGLISH_2_HD
+http://smartestv.vip:2095/ABHVYOP/2387998104/12
+#EXTINF:-1  group-title="beIN",beIN Sports 1 Asia
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1  group-title="beIN", beIN Sports 2 Asia
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1  group-title="beIN", beIN Sports HD 11
+http://ssitv.ddns.net:9075/channel103/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="beIN",beIN Xtra
+https://bein-plutolive-vo.akamaized.net/playlist.m3u8
+#EXTINF:-1  group-title="beIN",beIN Sports HD 12
+http://ssitv.ddns.net:9075/channel104/tracks-v1a1/mono.m3u8
+
+##ESPN
+#EXTINF:-1  group-title="ESPN",ESPN 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1  group-title="ESPN",ESPN Brasil
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
+
+##FOX
+#EXTINF:-1  group-title="FOX",FOX Sport HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1  group-title="FOX",Fox Sports 1 Asia
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1  group-title="FOX",Fox Sports 3 Asia
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist.m3u8
+#EXTINF:-1  group-title="FOX",FOX SPORT HD
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1  group-title="FOX",FOX SPORT 3 HD
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+#EXTINF:-1  group-title="FOX",Fox Soccer Plus
+https://e10.habrox.xyz/ingestnb4s/fsp/f.m3u8|Referer=https://espn-live.stream/stream/56872.html
+#EXTINF:-1  group-title="FOX",Fox Sports 2 Asia
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1  group-title="FOX",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1  group-title="FOX",FOX SPORT 2 HD
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+
+##SKY
+#EXTINF:-1  group-title="SKY",Sky Racing 1
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:-1  group-title="SKY",Sky Racing 2
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1  group-title="SKY",Sky Thoroughbred Central
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+
+##STAR
+#EXTINF:-1  group-title="STAR",Star Sports 1 HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=1256
+#EXTINF:-1  group-title="STAR",Star Sports Select 1 HD
+http://103.81.104.118/hls/stream12.m3u8
+#EXTINF:-1  group-title="STAR",Star Sports 2 HD
+http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="STAR",Star Sports Select 2 HD
+http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
+
+##TRUE
+#EXTINF:-1  group-title="TRUE",TRUE SPORT1 HD 1
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1  group-title="TRUE",TRUE SPORT2 HD 2
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1  group-title="TRUE",TRUE SPORT3 HD 3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1  group-title="TRUE",TRUE SPORT4 HD 4
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+
+##SONY
+#EXTINF:-1  group-title="SONY",Sony TEN 1 HD
+https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1  group-title="SONY",Sony TEN 3 HD
+https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1  group-title="SONY",Sony TEN 2 HD
+https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1  group-title="SONY",Sony SIX HD
+https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:-1  group-title="SONY",ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
+##UEA
+#EXTINF:-1  group-title="UEA",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
+#EXTINF:-1  group-title="UEA",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8
+#EXTINF:-1  group-title="UEA",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m3u8
+#EXTINF:-1  group-title="UEA",Abu Dhabi Sports 4
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist.m3u8
+
+##RACING
+#EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-axn.png" group-title="RACING", AXN MOTOVISION
+http://45.126.83.51/uq2663/h/h09/index.m3u8
+#EXTINF:-1  group-title="RACING",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+
+##HARLEY DAVIDSON
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title=HARLEY DAVIDSON,HD Factory TV
+https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title=HARLEY DAVIDSON,HD Racing TV
+https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title=HARLEY DAVIDSON,HD Ride TV
+https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title=HARLEY DAVIDSON,HD TV
+https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
+
+##OTHERS
+#EXTINF:-1  group-title="OTHERS",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1  group-title="OTHERS",Bayern Munich TV
+http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
+#EXTINF:-1  group-title="OTHERS",Olympic Channel
+https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+#EXTINF:-1  group-title="OTHERS",NFL Network
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1  group-title="OTHERS",CCTV-5+ 体育赛事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1  group-title="OTHERS",FC Bayern
+http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
+#EXTINF:-1  group-title="OTHERS",Willow FHD
+https://atc.hopto.org/Cricket-Willow-Quality/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="OTHERS",TMZ Sports
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1  group-title="OTHERS",World Of Free Sports TV
+https://m3u-editor.com/serve/57f76920-61be-11eb-8907-e15be00f1269/199659089
+#EXTINF:-1  group-title="OTHERS",SL vs BD
+http://starshare.live:8080/live/65446gfd44/23445dsa45/23969.ts
+#EXTINF:-1  group-title="OTHERS",MLB Network
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1  group-title="OTHERS",Whistle TV
+https://whistle-1.samsung.wurl.com/manifest/playlist.m3u8
+
+##TENNIS
+#EXTINF:-1  group-title="TENNIS", ATP Tennis TV
+http://203.154.243.89:11739
+#EXTINF:-1  group-title="TENNIS", Tennis Channel 1
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1  group-title="TENNIS", Tennis Channel 3
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1  group-title="TENNIS", Tennis Channel 2
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+##FIGHT
+#EXTINF:-1  group-title="FIGHT",Fight Sports
+http://45.126.83.51/uq2663/h/h05/index.m3u8
+#EXTINF:-1  group-title="FIGHT",AIBA Boxing
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCBdXQS3czTQsr_f_F5TZpww
+#EXTINF:-1  group-title="FIGHT",FITE TV
+https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
+#EXTINF:-1  group-title="FIGHT",New Japan Pro Wrestling World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+#EXTINF:-1  group-title="OTHERS",CCTV-5 体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1  group-title="OTHERS",DD Sports
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCX2eNtU1ZG3x4OpdP2UIlJA
+
+##SSC
+#EXTINF:-1,SSC 1 HD
+http://red.ipfox.org:8080/1234/12345678/37815
+#EXTINF:-1,SSC 2 HD
+http://red.ipfox.org:8080/1234/12345678/37821
+#EXTINF:-1,SSC 3 HD
+http://red.ipfox.org:8080/1234/12345678/37816
+#EXTINF:-1,SSC 4 HD
+http://red.ipfox.org:8080/1234/12345678/37817
+#EXTINF:-1,SSC 5 HD
+http://red.ipfox.org:8080/1234/12345678/37818
+#EXTINF:-1,SSC 6 HD
+http://red.ipfox.org:8080/1234/12345678/37819
+#EXTINF:-1,SSC 7 HD
+http://red.ipfox.org:8080/1234/12345678/37820
