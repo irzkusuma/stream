@@ -37,11 +37,13 @@ http://210.210.155.35:80/session/74698288-2ed3-11eb-82e0-c81f66f89318/qwr9ew/s/s
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_net_big1.png" group-title="LOKAL",NET
 https://cubmu.superzap.xyz:8279/net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png"  group-title="LOKAL, MNCTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2be6a41c2a2a7270517f5ce8dd2f48fc68d
+https://inews-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png"  group-title="LOKAL,INSERT
 https://cubmu.superzap.xyz:8279/insert/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png"  group-title="LOKAL,RCTI
 https://cubmu.superzap.xyz:8279/rcti/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png"  group-title="LOKAL,RCTI
+https://inews-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_idx_big.png" group-title="LOKAL",IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_499968=8-mp4a_66000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ox8luDM.png" group-title="LOKAL",INEWS
@@ -363,64 +365,6 @@ https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_360p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i2rdO7R.jpg?v=1.0.0.1" group-title="STYLE" TV,A3 B-TV
 https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
- 
-############# SPORT
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GCXgzNr.png" group-title="SPORT", CNBC Golf
-https://cmt.mb13.cyou/8589/livedo/truepremierfootball5.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="" group-title="SPORT",RedBull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="SPORT", DUBAI SPORT
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8 
-#EXTINF:-1  tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" group-title="SPORT", NFL Network
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1  tvg-logo="https://images.stv.tv/player/master/595831-freesports.jpg" group-title="SPORT", FreeSports
-https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/RCTDGfnk/DUBAI-SPORTS.png",Dubai Sports
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/T1QNwM6d/DUBAI-SPORTS-2.png",Dubai Sports 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/GpYMDsCS/DUBAI-SPORTS-3.png",Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 group-title="SPORT",UFC stadium
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT",Adventure Sports Network
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx0pCn0p/upc.png" group-title="SPORT", UFC 1
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx0pCn0p/upc.png" group-title="SPORT", UFC 3
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="SPORT" ,Bein Sport 2
-http://88.barouhn.xyz.global.prod.fastly.net/live/69854211/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="SPORT"  ,Bein Sport 3
-http://88.barouhn.xyz.global.prod.fastly.net/live/645587700/index.m3u8
-#EXTINF:-1 group-title="SPORT", FISHING TV
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/100206
-#EXTINF:-1 group-title="SPORT", RACING TV
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67071
-#EXTINF:-1 group-title="SPORT", MOTORVISION TV
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101522
-#EXTINF:-1 group-title="SPORT", SKY SPORTS RACING
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/47763
-#EXTINF:-1 group-title="SPORT", SKY SPORTS F1
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67056
-#EXTINF:-1 group-title="SPORT", SKY SPORT MOTOGP
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/94130
-#EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-axn.png" group-title="SPORT",AXN MOTOVISION
-http://45.126.83.51/uq2663/h/h09/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="SPORT",HD Factory TV
-https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="SPORT",HD Racing TV
-https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="SPORT",HD Ride TV
-https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="SPORT",HD TV
-https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
-#EXTINF:-1 group-title="SPORT", PARTY POKER LIVE
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/55632
-#EXTINF:-1 group-title="SPORT", POKER NIGHT IN AMERICA
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67079
-#EXTINF:-1 group-title="SPORT",  WORLD POKER TOUR
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67078
 
 ############# MUSIC TV
 #EXTINF:0 tvg-id="mtv-rus" group-title="MUSICTV",MTV
