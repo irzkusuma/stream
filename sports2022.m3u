@@ -91,6 +91,18 @@ https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1  group-title="TRUE",TRUE SPORT4 HD 4
 https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
 
+##TRUEVISIONS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qj7QXgg/Spotv-2.png" group-title="TRUEVISIONS",SpoTV 2
+https://wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hCQ1fbG/Tpf.png" group-title="TRUEVISIONS", PREMIER FOOTBALL HD 1
+https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4t0NRM6/Tpf2.png" group-title="TRUEVISIONS", PREMIER FOOTBALL HD 2
+https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="TRUEVISIONS" tvg-logo="https://i.ibb.co/jgCVCTD/Tpf3.png", PREMIER FOOTBALL HD 3
+https://www.wopep.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="TRUEVISIONS" tvg-logo="https://i.ibb.co/KKsvZsD/Tpf4.png", PREMIER FOOTBALL HD 4
+https://wopep.com/02_PremierHD4_720p/chunklist.m3u8
+
 ##SONY
 #EXTINF:-1  group-title="SONY",Sony TEN 1 HD
 https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
@@ -132,6 +144,7 @@ https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8
 https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
 
 ##OTHERS
+
 #EXTINF:-1 group-title="OTHERS", FISHING TV
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/100206
 #EXTINF:-1 group-title="OTHERS", WAYPOINT FISHING
