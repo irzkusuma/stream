@@ -177,6 +177,8 @@ https://whistle-1.samsung.wurl.com/manifest/playlist.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1  group-title="OTHERS",DD Sports
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCX2eNtU1ZG3x4OpdP2UIlJA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UHcFiHk.png" group-title="OTHERS",ACC Network
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 
 ##POKER
 #EXTINF:-1 tvg-logo="https://duckduckgo.com/i/b6de0f92.png" group-title="POKER", PARTY POKER LIVE
@@ -201,10 +203,20 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 http://45.126.83.51/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwAM7tsGvgCbbv30YAXs2-QDPNkU4TNiQuQ7zAgrtcCA94ZWjd" group-title="FIGHT",AIBA Boxing
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCBdXQS3czTQsr_f_F5TZpww
-#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/135225/ce178d3bfc63711531e8073550ce35d2de7cdd9f.png" group-title="FIGHT",FITE TV
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21QWq2v0DGL.png" group-title="FIGHT",FITE TV
 https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://njpwworld-img-cache2.akamaized.net/njpw/images/prof/unit_njpw260x150.png" group-title="FIGHT",New Japan Pro Wrestling World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cruTxMF.png" group-title="FIGHT",Channel Fight (1080p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
+#EXTINF:-1 tvg-logo="" group-title="FIGHT",FIGHT SPORTS (1080p)
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+#EXTINF:-1 tvg-logo="https://i0.pngocean.com/files/812/462/345/filmbox-hd-high-definition-television-set-top-box-broadcasting-fightbox.jpg" group-title="FIGHT",FightBoxHD  
+http://ott-cdn.ucom.am/s86/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeVsflz.png" group-title="FIGHT",Fighting Spirit
+https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605e13c8d9eb3e1df47db303" group-title="FIGHT",IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 ##SSC 
 #EXTINF:-1 tvg-logo="https://shahidstatic5.akamaized.net//mediaObject/2021/MARCH/amjad/untitled/untitled1/Thump_SSC1HD/original/Thump_SSC1HD.jpg?height=66&width=117&croppingPoint=&version=1&type=webp" ,SSC 1 HD
