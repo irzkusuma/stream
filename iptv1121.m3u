@@ -7,16 +7,16 @@ https://cubmu.superzap.xyz:8279/kompas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHMfHWT2/METRO.png" group-title="LOKAL",METROTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHMfHWT2/METRO.png" group-title="LOKAL",METROTV
-https://streaming.useetv.com/joss/133/metrotv1080/playlist.m3u8?enc=jFYGWOeNxPOAvMv7DMqGxA&exp=1643484138&encp=wG1in8sdBxKiNqy2Q57bTg&expp=1643492838
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bD2odoR.png" group-title="LOKAL", TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/ZKv7J82B/tvone.png" group-title="LOKAL",TVONE
-https://www.dailymotion.com/cdn/live/video/x619221.m3u8?sec=u8nCewrfBBw5_uAXy7UL_Ic8F_XFk0Kq2dx35A0CSjdn3VNU6aG7U-7aU499i_c3&dmTs=39338&dmV1st=FA2E092AB83B74933C0B6BF0C69E5B4C
+http://group2-swiftservesd-1.dens.tv/s/s105/02.m3u8?chname=tvOne
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/ZKv7J82B/tvone.png" group-title="LOKAL",TVONE
 https://www.dailymotion.com/cdn/live/video/x619221.m3u8?sec=u8nCewrfBBw5_uAXy7UL_B4Qi6HrSnpkpq-LHSXzav-gwKlapXxOGKvU1Rxs2uMa&dmTs=39338&dmV1st=FA2E092AB83B74933C0B6BF0C69E5B4C
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest?cb=20191019135004" group-title="LOKAL",BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 tvg-logo="http://assets.kompasiana.com/items/album/2017/03/18/645x430-seni-cnn-indonesia-menggelinding-di-layar-kaca-1506136-58cc17797eafbd42350a7648.jpg" group-title="LOKAL",CNN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNxt0HNG/CNN-Indonesia.png" group-title="LOKAL",CNN
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2136674526_b384000_sleng.m3u8
 #EXTINF:  group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" ,CBNC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8?checkedby:iptvcat.com
