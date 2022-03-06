@@ -31,6 +31,16 @@ https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="beIN",beIN Sports HD 12
 http://ssitv.ddns.net:9075/channel104/tracks-v1a1/mono.m3u8
 
+#BT Sport
+#EXTINF:-1 tvg-logo="http://www.hesgoal.tv/wp-content/uploads/2021/04/bt.jpg" group-title="BT SPORT",BT Sport-1
+https://i-am-so-cool.licenses4.me/cdn/premium31/chunks.m3u8?md5=gkVoL16tmsx6Ky0HtJidEg&expires=1646592399
+#EXTINF:-1 tvg-logo="http://www.hesgoal.tv/wp-content/uploads/2021/04/bt.jpg" group-title="BT SPORT",BT Sport-2
+https://i-am-so-cool.licenses4.me/cdn/premium32/chunks.m3u8?md5=uVdzqRke-Yi1K9WU4S8m2w&expires=1646592517
+#EXTINF:-1 tvg-logo="http://www.hesgoal.tv/wp-content/uploads/2021/04/bt.jpg" group-title="BT SPORT",BT Sport-2
+https://i-am-so-cool.licenses4.me/cdn/premium32/chunks.m3u8?md5=uVdzqRke-Yi1K9WU4S8m2w&expires=1646592517
+
+
+
 ##ESPN
 #EXTINF:-1 tvg-logo="http://a.espncdn.com/prod/assets/watchespn/appletv/images/channels-carousel/espn2.png" group-title="ESPN",ESPN 2
 https://gma2.blab.email/espn2.m3u8
@@ -57,19 +67,27 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/04/30/foxsports.png" group-title="FOX",FOX SPORT 2 HD
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 
-##SKY
-#EXTINF:-1  group-title="SKY",Sky Racing 1
+##SKY  
+#EXTINF:-1 tvg-logo="http://www.hesgoal.tv/wp-content/uploads/2020/06/skysports-logo.jpg" group-title="SKY",Sky Football
+https://i-am-so-cool.licenses4.me/cdn/premium35/chunks.m3u8?md5=3ZSC4veK10Xjp7XUgvDSSw&expires=1646592247
+#EXTINF:-1 tvg-logo="http://www.hesgoal.tv/wp-content/uploads/2020/06/skysports-logo.jpg" group-title="SKY",Sky Racing 1
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
-#EXTINF:-1  group-title="SKY",Sky Racing 2
+#EXTINF:-1 tvg-logo="http://www.hesgoal.tv/wp-content/uploads/2020/06/skysports-logo.jpg" group-title="SKY",Sky Racing 2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-#EXTINF:-1  group-title="SKY",Sky Thoroughbred Central
+#EXTINF:-1 tvg-logo="http://www.hesgoal.tv/wp-content/uploads/2020/06/skysports-logo.jpg" group-title="SKY",Sky Thoroughbred Central
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
-#EXTINF:-1 group-title="SKY", SKY SPORTS RACING
+#EXTINF:-1 tvg-logo="http://www.hesgoal.tv/wp-content/uploads/2020/06/skysports-logo.jpg" group-title="SKY", SKY SPORTS RACING
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/47763
-#EXTINF:-1 group-title="SKY", SKY SPORTS F1
+#EXTINF:-1 tvg-logo="http://www.hesgoal.tv/wp-content/uploads/2020/06/skysports-logo.jpg" group-title="SKY", SKY SPORTS F1
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67056
-#EXTINF:-1 group-title="SKY", SKY SPORT MOTOGP
+#EXTINF:-1 tvg-logo="http://www.hesgoal.tv/wp-content/uploads/2020/06/skysports-logo.jpg" group-title="SKY", SKY SPORT MOTOGP
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/94130
+
+#SPORT TV
+#EXTINF:-1 tvg-logo="http://www.hesgoal.tv/wp-content/uploads/2020/06/skysports-logo.jpg" group-title="SPORT TV", SPORT TV-1
+https://qmrqumsydlltavix.wzcdn804.net:8443/hls/walxjawfo5x.m3u8?s=qpdoAJMCY97T2Fko3R2kzA&e=1646607066
+#EXTINF:-1 tvg-logo="http://www.hesgoal.tv/wp-content/uploads/2020/06/skysports-logo.jpg" group-title="SPORT TV", SPORT TV-2
+https://qmrqumsydlltavix.wzcdn804.net:8443/hls/u225jtufy2dkv.m3u8?s=NTomf5O3bJuB44O4vpVW-w&e=1646607255
 
 ##STAR
 #EXTINF:-1  group-title="STAR",Star Sports 1 HD
@@ -217,6 +235,10 @@ http://ott-cdn.ucom.am/s86/index.m3u8
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605e13c8d9eb3e1df47db303" group-title="FIGHT",IMPACT! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/sx0pCn0p/upc.png" group-title="SPORTS",UFC 1
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/sx0pCn0p/upc.png" group-title="SPORTS",UFC 2
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 ##SSC 
 #EXTINF:-1 tvg-logo="https://shahidstatic5.akamaized.net//mediaObject/2021/MARCH/amjad/untitled/untitled1/Thump_SSC1HD/original/Thump_SSC1HD.jpg?height=66&width=117&croppingPoint=&version=1&type=webp" ,SSC 1 HD
