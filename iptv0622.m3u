@@ -22,6 +22,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d21268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 tvg-id="METROTV" tvg-name="METROTV" tvg-logo="https://i.postimg.cc/FHMfHWT2/METRO.png" group-title="LOKAL",METRO TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 tvg-id="METROTV" tvg-name="METROTV" tvg-logo="https://i.postimg.cc/FHMfHWT2/METRO.png" group-title="LOKAL",METRO TV
+https://www.dailymotion.com/cdn/live/video/x75p70w.m3u8?sec=_f3C4i3Q4bGY11FZ98y14b2JYGMpUO4no7JB3m6we1HvO_LBNm4J1PMMU8Xy13d97gp8JJqV3fNDPOLPqNUTOQ&dmTs=271228&dmV1st=9CE14B060F9412EA740539BE11300F27
 #EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i.imgur.com/bD2odoR.png" group-title="LOKAL", TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="TVONE" tvg-name="TVONE" tvg-logo="https://i.postimg.cc/ZKv7J82B/tvone.png" group-title="LOKAL",TVONE
@@ -38,8 +40,12 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV" tvg-logo="http://images.useetv.com/logo_transtv_big1.png" group-title="LOKAL",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1806512792_b744100_sleng.m3u8
+#EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV" tvg-logo="http://images.useetv.com/logo_transtv_big1.png" group-title="LOKAL",Trans TV
+https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/transtv2_all/skrz1j8exe/transtv2_576p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIyIDY6MDQ6MDIgUE0maGFzaF92YWx1ZT02NTg4UEdXZm1lcTE3K3gxRGx3c0J3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTA2OTMzNzJ8MTAzLjE0NC4xNzUuNTc=
 #EXTINF:-1 tvg-id="Trans7" tvg-name="Trans7" tvg-logo="http://images.useetv.com/logo_trans7_big1.png" group-title="LOKAL",TRANS 7
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-id="Trans7" tvg-name="Trans7" tvg-logo="http://images.useetv.com/logo_trans7_big1.png" group-title="LOKAL",TRANS 7
+https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/trans72_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIyIDU6NDg6MzIgUE0maGFzaF92YWx1ZT1ieExqSmxZNEdNcVNWUkRKQUlWcHJ3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTA2OTMzNzJ8MTAzLjE0NC4xNzUuNTc=
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="LOKAL",SCTV
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="LOKAL",ANTV
