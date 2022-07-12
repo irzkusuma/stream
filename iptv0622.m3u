@@ -514,20 +514,22 @@ https://list.iptvcat.com/my_list/s/0d3b3beb295a7b22ce4ecdc86cecf7a2.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-4.jpg"  group-title="Sports",BEIN SPORT 4
 https://list.iptvcat.com/my_list/s/38260216db1c38e59d8cc01a4fc3b859.m3u8
 ##VOD
+#EXTINF:-1 tvg-logo="http://38.242.200.55/wp-content/uploads/2022/05/jJbxft0A2iQtH7ZWsGtgCfOq05b-60x90.jpg"  group-title="VOD-update", Hatching
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EQ4LDD9fAM1Nu6NBTrzOTBkBhOLMheXiwrdcxjiEa9QHmQ?e=tkdam1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg"  group-title="VOD-update", Thor: Love and Thunder (2022)
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EQ4LDD9fAM1Nu6NBTrzOTBkBhOLMheXiwrdcxjiEa9QHmQ?e=tkdam1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/nbQkxx9EsFUwwjQbEhYKCvIUSXR.jpg"  group-title="VOD-update", Veneciafrenia
 https://hls5.kusinakusa.xyz/video/videotoken/1TqEViojBXuzmEKFdXGg2gS5OF2Z5JZ77
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/2DKRZHGl7FatwYMgsIsIcX3QY4k.jpg"  group-title="VOD-update", Shut In
 https://hls7.kusinakusa.xyz/video/videotoken/1X5zcrX0_1Vr7zw1BvSvY81MOSZlMj9JE
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xZmHkFH3fcO26971jQgMonp1AM4.jpg"  group-title="VOD-update", Doctor Strange in the Multiverse of Madness
-https://hls12.kusinakusa.xyz/video/videotoken/1Igh_as_yVuHMzlVvqb9Xs64t1TRtDDbw
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xZmHkFH3fcO26971jQgMonp1AM4.jpg"  group-title="VOD-update", Doctor Strange in the Multiverse of Madness
-https://drive.google.com/uc?id=1uGnWSDcLqR0Tlj3TuJIe4uGTArLCQpCL&export=download&confirm=t
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EXxbYDzjnNlKhDU4VzE98zUBGGWIl4Y-G1EJM9gql1jU6Q?e=Z6Ie4y
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/HmL0rxQ4nrT75RAkkSACvL3UpA.jpg"  group-title="VOD-update", Fantastic Beasts: The Secrets of Dumbledore
-https://hls9.kusinakusa.xyz/video/videotoken/1f-PnIdda8UL-iNIpos9cfbkm3BIDgPKX
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EfoOkWC0HwROuvNeqhKOePsB2UqEK5tRQMI5Skfn5JTdPQ?e=OOh816
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/74xTEgt7R36Fpooo50r9T25onhq.jpg"  group-title="VOD-update", The Batman
 https://hls13.kusinakusa.xyz/video/videotoken/19wAXKzV-_n7CUGiVxX2jJ8InYuxMkdbO
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"  group-title="VOD-update", Spider-Man: No Way Home
-https://hls8.kusinakusa.xyz/video/videotoken/1B6yKYuEIehJb-gsgY3QPRkYoM6yhbi1E
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EQSIKQU6K6xDg_rU1ejWtZUBeVZS-GWfZEBQT7QIbhms6Q?e=khJzMG
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dVWMYRO0xUZ4X64YJYu5FwbeLNf.jpg"  group-title="VOD-update", Uncharted
 https://hls19.kusinakusa.xyz/video/videotoken/1ZPvR37JsDs8XJjRBt0VndwluxNgBXBFr
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/yfN2IFt8qafP4lTCfpCmw6F64BV.jpg"  group-title="VOD-update", Top Gun: Maverick
@@ -535,7 +537,7 @@ https://hls1.kusinakusa.xyz/video/videotoken/1c48fScHxJ3ZJToNaXqi_vEhaZh3oflcH
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/qEu6qI5sVoIe10gD1BQBqxcNIW2.jpg"  group-title="VOD-update", Crawlspace
 https://www873.ff-02.com/token=Mf82IsOct7yt7hO8tUGWDQ/1655411933/103.144.0.0/196/e/14/34fd952bd86946d2c43b24ddf3b4114e-480p.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg"  group-title="VOD-update", Jurassic World Dominion
-https://www1724.ff-04.com/token=xmKANpc-aFJerT2iw8mGgg/1655412400/103.144.0.0/197/3/31/23e6ac8764f741391c135833175dd313-720p.mp4
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EewWNSZQ25hHkQKwl1d2AGoB4l6PRtwb-HzsJ0SvnrK6AQ?e=wGZDno
 #EXTINF:-1 tvg-logo="https://104.161.33.126/wp-content/uploads/2022/06/qb1VAm3IQqhW9XWfuHP6xOh38NE-60x90.jpg"  group-title="VOD-update", RAJAWALI
 https://v2.streamku.xyz/stream/720/9FSEQtVlumrn6Si/__001
 #EXTINF:-1 tvg-logo="http://54.39.169.27/film/cyber-hell-exposing-an-internet-horror-2022/"  group-title="VOD-update", Cyber Hell: Exposing an Internet Horror (2022)
@@ -544,3 +546,15 @@ https://www84.ff-01.com/token=I_VP6m2DHH1Fb80d4yfoXA/1655394294/103.144.0.0/97/f
 https://doc-0k-74-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/qskq0rltb4qmlbu0ta7mem2pqhptcpr0/1655380050000/11452258398234067366/*/1GqECmZDTpHHMuWQsIDf_nrjV_aONIDdI?e=download
 #EXTINF:-1 tvg-logo="https://104.161.33.126/wp-content/uploads/2022/06/bmxCAO0tz79xn40swJAEIJPRnC1-60x90.jpg"  group-title="VOD-update", The Unbearable Weight of Massive Talent
 https://v2.streamku.xyz/stream/720/6tAaqoqrkE5N1ov/__001
+
+#EXTINF:-1 tvg-logo="" group-title="VOD-2021", FREEGUY 2021
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Eda8R-jQY3BDkMlXhSobjP0BzxS_wYUPbOrGeSE8Zj76UA?e=reFCcA
+#EXTINF:-1 tvg-logo="https://104.161.33.126/wp-content/uploads/2021/12/iUgygt3fscRoKWCV1d0C7FbM9TP-60x90.jpg" group-title="VOD-2021", NO TIME TO DIE
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EeSwQosb0WNIokvFz5LezdgBF4M7QV65cOhwyiqxyI5_1w?e=YqYGfU
+#EXTINF:-1 tvg-logo="" group-title="VOD-2021", Shang-Chi Legend of Ten Rings
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EcVLTmdpxUVDqJCZ4hWZoEcBEM8HsUQk053Jfv0MUQKi5w?e=pO4Jy1
+#EXTINF:-1 group-title="VOD-2021", BACK TO OUTBACK 2021
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Eeg6UsJajVxFpTMvvbUO39ABpeyOaE7CaQmizW8hVUUtjQ?e=umB5Vq
+#EXTINF:-1 group-title="VOD-2021", ETERNAL
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EX_JqVmf8slBgFwCkZzWMWABX42wB3cmD_aNsyrYmo9L6w?e=qEm2rY
+
