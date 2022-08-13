@@ -506,6 +506,18 @@ https://list.iptvcat.com/my_list/s/0d3b3beb295a7b22ce4ecdc86cecf7a2.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-4.jpg"  group-title="Sports",BEIN SPORT 4
 https://list.iptvcat.com/my_list/s/38260216db1c38e59d8cc01a4fc3b859.m3u8
 ##VOD
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/iZ1FZN2en9TbQhF9v4Y4KJWabsB.jpgg"  group-title="VOD-update", Sniper: The White Raven (2022)
+https://jeniusplay.com/cdn/hls/ed7c3a9826c5931e6ac8001acf145445/master.m3u8?md5=IjvkgovC6Y1xFtEcWwtszg&expires=1660424213
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/4CYhJ9WNHIc1WRrQ5kYwBtmMvNB.jpg"  group-title="VOD-update", Elvis (2022)
+https://jeniusplay.com/cdn/hls/7c571d292eac8f9e9eed668ed694176c/master.m3u8?md5=_sFB2hM69LBcAG41imir_A&expires=1660424017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/wd6WxLLR2w8aAXmLPDW5CN0iSB3.jpg"  group-title="VOD-update", The Black Phone
+https://jeniusplay.com/cdn/hls/f7eec63ec82aabe15d37ad37bbc21b8a/master.m3u8?md5=4jf2eFJjmouYSVf4nIo2OQ&expires=1660423855
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/e4J1S8pm90aWoIsoJJlt099CtA.jpg"  group-title="VOD-update", The Gray Man
+https://jeniusplay.com/cdn/hls/1344557fe02757317a765dfd9925e3d1/master.m3u8?md5=a2XKuv5zCigO5oapR7OgGA&expires=1660423753
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/bt5Ge49rrULGktmUG2nNCzgXMqm.jpg"  group-title="VOD-update", Minions - The Rise of Guru
+https://jeniusplay.com/cdn/hls/15271b8b198f5c425967ea93e6b3f1e2/master.m3u8?md5=8ExMJeRvQe0H0aQzBsZNeQ&expires=1660423635
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg"  group-title="VOD-update", Nope
+https://jeniusplay.com/cdn/hls/297898bfbece9898de2ebb9620f66566/master.m3u8?md5=l1Zk-hOJvpWmcdLdpTfeRQ&expires=1660423426
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg"  group-title="VOD-update", Thor Love&Thuder
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EbCOCeqvBxZHouC-HfxJ-7wB0CekpJ3ixvmpK-YM-3HkOw?e=PjLjgI
 #EXTINF:-1 tvg-logo="http://38.242.200.55/wp-content/uploads/2022/05/jJbxft0A2iQtH7ZWsGtgCfOq05b-60x90.jpg"  group-title="VOD-update", Hatching
