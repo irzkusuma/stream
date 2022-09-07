@@ -35,13 +35,13 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-id="INDOSIAR" tvg-name="INDOSIAR" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.MvHgFrxkxczLT1GpKo6BUAHaFq&pid=Api&P=0&w=222&h=171" group-title="LOKAL",INDOSIAR
 http://210.210.155.35/session/9ec7c73c-099b-11ea-aff4-b82a72d63267/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV" tvg-logo="http://images.useetv.com/logo_transtv_big1.png" group-title="LOKAL",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+http://210.210.155.35/qwr9ew/s/s05/01.m3u8
 #EXTINF:-1 tvg-id="Trans7" tvg-name="Trans7" tvg-logo="http://images.useetv.com/logo_trans7_big1.png" group-title="LOKAL",TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+http://210.210.155.35/uq2663/h/h11/01.m3u8
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="LOKAL",SCTV
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="LOKAL",ANTV
-http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 #EXTINF:-1 tvg-id="NET TV" tvg-name="NET TV" tvg-logo="http://images.useetv.com/logo_net_big1.png" group-title="LOKAL",NET
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png"  group-title="LOKAL", MNCTV
@@ -587,3 +587,4 @@ https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EcVLTmdpxUVD
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Eeg6UsJajVxFpTMvvbUO39ABpeyOaE7CaQmizW8hVUUtjQ?e=umB5Vq
 #EXTINF:-1 group-title="VOD-2021", ETERNAL
 https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EX_JqVmf8slBgFwCkZzWMWABX42wB3cmD_aNsyrYmo9L6w?e=qEm2rY
+
