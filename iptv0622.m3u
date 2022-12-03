@@ -15,7 +15,7 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" 
 #EXTM3U url-tvg="https://guidexml.tvnow.best"
 #EXTM3U url-tvg="https://github.com/Apollo2000/TVGuide/raw/master/utc.lite.xml.gz"
-#EXTM3U url-tvg="https://dukun.masuk.id/playlist/epg/a.xml"
+#EXTM3U url-tvg="https://dukun.masuk.id/epg/a.xml"
 ##WORLDCUP2022
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="WORLDCUP", tv2 Malaysia
 http://23.237.10.66:16180
