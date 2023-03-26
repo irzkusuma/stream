@@ -2118,17 +2118,22 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 #EXTINF:-1 tvg-id="114" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="Malaysia",TV ALHIJRAH (VPN)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
+==vod==
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.elsubtitle.com/posters/tt10366206/44ffcd42d6d253495b1bbe503b27cfee52771216.jpg" group-title="VOD", John Wick 4
+http://127.0.0.1:11470/69a3eab8d01acfddfe15df72aecc590d628a4828/0
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.metahub.space/poster/small/tt9114286/img" group-title="VOD", Wakanda Forever
+http://127.0.0.1:11470/proxy/d=https%3A%2F%2Ft-eu-3.onthecloudcdn.com&h=Referer%3Ahttps%3A%2F%2Fdokicloud.one%2Fembed-4%2FQpgj51kGUeep%3Fz%3D/_v10/79d16e9e20f2d6df3bafa3a3add473fc224e42b0add01e430d1e4952b662d6d39748930896b677647c67e7e0e5eca854f694f149d68e434ce4a02fdde351274278b8c39924c43fb669955028833f94e7158deced76ff8f6cb6baed5d606fea29ce9a32c5e675e6f5e07355918a79193a60c4cc90db3a1026ebb6bce3e8b675bb/1080/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ybs6C7Z/Capture-modified.png" group-title="VOD", Request Film?
-https://dukun.masuk.id/d20e67c25b3d4c9f6d2c5ae3cfcd5506200a148e2b012c75880be82e132ca2a6766753cc-22c8daba8a84dcb69f66e8294dce7d50-1656235989-1656225189/dukun.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.metahub.space/poster/small/tt0499549/img" group-title="VOD", Avatar
+http://127.0.0.1:11470/proxy/d=https%3A%2F%2Ft-ca-2.24hoursuptodatecdn.net&h=Referer%3Ahttps%3A%2F%2Fdokicloud.one%2Fembed-4%2FcaIBEFhSqAAx%3Fz%3D/_v10/f40160da9821caea24ae39aa630d39f7cebfc171b14a49a01ce37136e805a0684f192d26f4386769e8e89d72f1762eaf170193cddc272d9f121cd7dcafd1e99f9b16ba2c968528ef5d5da99c4e07d21a37e9157496f1e0422f3b807b3af37e56abe8581e9c1bea3ae2b1da060d3045444fedd8832acf5172778acd345a551ff8/1080/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.metahub.space/poster/small/tt1630029/img" group-title="VOD", Avatar The Way of Water
+http://127.0.0.1:11470/proxy/d=https%3A%2F%2Ft-ca-2.24hoursuptodatecdn.net&h=Referer%3Ahttps%3A%2F%2Fdokicloud.one%2Fembed-4%2FcaIBEFhSqAAx%3Fz%3D/_v10/f40160da9821caea24ae39aa630d39f7cebfc171b14a49a01ce37136e805a0684f192d26f4386769e8e89d72f1762eaf170193cddc272d9f121cd7dcafd1e99f9b16ba2c968528ef5d5da99c4e07d21a37e9157496f1e0422f3b807b3af37e56abe8581e9c1bea3ae2b1da060d3045444fedd8832acf5172778acd345a551ff8/1080/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/05/film-doctor-strange-in-the-multiverse-of-madness-2022-lk21-d21.jpg" group-title="VOD",Doctor Strange in the Multiverse of Madness (2022)
 https://dukun.masuk.id/d20e67c25b3d4c9f6d2c5ae3cfcd5506200a148e2b012c75880be82e132ca2a6766753cc-22c8daba8a84dcb69f66e8294dce7d50-1656235989-1656225189/vod/doctor-strange-in-the-multiverse-of-madness-2022.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/06/film-ip-man-the-awakening-2022-lk21-d21.jpg" group-title="VOD",Ip Man: The Awakening (2022)
-https://dukun.masuk.id/d20e67c25b3d4c9f6d2c5ae3cfcd5506200a148e2b012c75880be82e132ca2a6766753cc-22c8daba8a84dcb69f66e8294dce7d50-1656235989-1656225189/vod/ip-man-the-awakening-2022.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/grhplRFAr1CCa5VNcd9KUTE4aOo.jpg" group-title="VOD",Nussa (2021)
 #EXTVLCOPT:http-referrer=http://172.96.161.72/
@@ -2146,45 +2151,6 @@ https://www1254.ff-03.com/token=GudPNxXBOMm8pqLQ2RUxNg/1655562105/118.136.0.0/91
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://nontonmovie251.online/wp-content/uploads/2018/02/tP9TQGCw2I3D7jhDHk0514cEBWl-170x255.jpg" group-title="VOD",Kuntilanak 3 (2008)
 https://www985.ff-02.com/token=yf_ZG1EcQZsq94iCjsPosg/1655562204/118.136.0.0/157/7/32/fc188772bbabe563dfef8e8e17989327-360p.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2021/05/film-f9-2021-lk21.jpg" group-title="VOD",F9 Fast & Furious 9 (2021)
-https://dukun.masuk.id/d20e67c25b3d4c9f6d2c5ae3cfcd5506200a148e2b012c75880be82e132ca2a6766753cc-22c8daba8a84dcb69f66e8294dce7d50-1656235989-1656225189/vod/f9-2021.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2021/02/film-drishyam-2-2021-lk21.jpg" group-title="VOD",Drishyam 2 (2021)
-https://dukun.masuk.id/d20e67c25b3d4c9f6d2c5ae3cfcd5506200a148e2b012c75880be82e132ca2a6766753cc-22c8daba8a84dcb69f66e8294dce7d50-1656235989-1656225189/vod/drishyam-2-2021.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE1OTIxMzQzNV5BMl5BanBnXkFtZTgwNzkxMTE3MjI@._V1_.jpg" group-title="VOD",The Boss Baby (2017)
-https://dukun.masuk.id/d20e67c25b3d4c9f6d2c5ae3cfcd5506200a148e2b012c75880be82e132ca2a6766753cc-22c8daba8a84dcb69f66e8294dce7d50-1656235989-1656225189/vod/boss-baby-2017.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2021/07/film-the-boss-baby-family-business-2021-lk21.jpg" group-title="VOD",The Boss Baby: Family Business (2021)
-https://dukun.masuk.id/d20e67c25b3d4c9f6d2c5ae3cfcd5506200a148e2b012c75880be82e132ca2a6766753cc-22c8daba8a84dcb69f66e8294dce7d50-1656235989-1656225189/vod/the-boss-baby-family-business-2021.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/06/film-the-spy-who-never-dies-2022-lk21-d21.jpg" group-title="VOD",The Spy Who Never Dies (2022)
-https://dukun.masuk.id/d20e67c25b3d4c9f6d2c5ae3cfcd5506200a148e2b012c75880be82e132ca2a6766753cc-22c8daba8a84dcb69f66e8294dce7d50-1656235989-1656225189/vod/the-spy-who-never-dies-2022.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/06/film-attack-2022-lk21-d21.jpg" group-title="VOD",Attack (2022)
-https://dukun.masuk.id/d20e67c25b3d4c9f6d2c5ae3cfcd5506200a148e2b012c75880be82e132ca2a6766753cc-22c8daba8a84dcb69f66e8294dce7d50-1656235989-1656225189/vod/attack-2022.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/06/film-the-siege-of-robin-hood-2022-lk21-d21.jpg" group-title="VOD",The Siege of Robin Hood (2022)
-https://dukun.masuk.id/d20e67c25b3d4c9f6d2c5ae3cfcd5506200a148e2b012c75880be82e132ca2a6766753cc-22c8daba8a84dcb69f66e8294dce7d50-1656235989-1656225189/vod/the-siege-of-robin-hood-2022.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/06/film-the-hero-named-koxinga-2022-lk21-d21.jpg" group-title="VOD",The Hero Named Koxinga (2022)
-https://dukun.masuk.id/d20e67c25b3d4c9f6d2c5ae3cfcd5506200a148e2b012c75880be82e132ca2a6766753cc-22c8daba8a84dcb69f66e8294dce7d50-1656235989-1656225189/vod/the-hero-named-koxinga-2022.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/06/film-hustle-2022-lk21-d21.jpg" group-title="VOD",Hustle (2022)
-https://dukun.masuk.id/d20e67c25b3d4c9f6d2c5ae3cfcd5506200a148e2b012c75880be82e132ca2a6766753cc-22c8daba8a84dcb69f66e8294dce7d50-1656235989-1656225189/vod/hustle-2022.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/06/film-last-seen-alive-2022-lk21-d21.jpg" group-title="VOD",Last Seen Alive (2022)
-https://dukun.masuk.id/d20e67c25b3d4c9f6d2c5ae3cfcd5506200a148e2b012c75880be82e132ca2a6766753cc-22c8daba8a84dcb69f66e8294dce7d50-1656235989-1656225189/vod/last-seen-alive-2022.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/04/film-the-cellar-2022-lk21-d21.jpg" group-title="VOD",The Cellar (2022)
-https://dukun.masuk.id/d20e67c25b3d4c9f6d2c5ae3cfcd5506200a148e2b012c75880be82e132ca2a6766753cc-22c8daba8a84dcb69f66e8294dce7d50-1656235989-1656225189/vod/the-cellar-2022.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTdmNmI4MzQtZTAzNS00MjhjLWEzOGQtZjI1NDNjZjk4N2JjXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_.jpg" group-title="VOD",Sonic the Hedgehog (2020)
-https://dukun.masuk.id/d20e67c25b3d4c9f6d2c5ae3cfcd5506200a148e2b012c75880be82e132ca2a6766753cc-22c8daba8a84dcb69f66e8294dce7d50-1656235989-1656225189/vod/sonic1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://blue.kumparan.com/image/upload/v1634025439/30662ad2a33deee611d2d1a12ca4d01492367a871c2f8e6b54a2fc689598f1b1.jpg" group-title="VOD",Sonic the Hedgehog 2 (2022)
-https://dukun.masuk.id/d20e67c25b3d4c9f6d2c5ae3cfcd5506200a148e2b012c75880be82e132ca2a6766753cc-22c8daba8a84dcb69f66e8294dce7d50-1656235989-1656225189/vod/sonic2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/original/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg" group-title="VOD",Morbius (2022)
 https://dukun.masuk.id/d20e67c25b3d4c9f6d2c5ae3cfcd5506200a148e2b012c75880be82e132ca2a6766753cc-22c8daba8a84dcb69f66e8294dce7d50-1656235989-1656225189/vod/morbius.m3u8
@@ -2215,18 +2181,3 @@ https://stream.xpeer.xyz/playlist1/ambulance-2022-03.06.2022-06.50.42/master_480
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/03/film-moonfall-2022-lk21-d21.jpg" group-title="VOD",Moonfall (2022)
 https://stream.xpeer.xyz/playlist1/moonfall-2022-16.04.2022-07.47.40/master_480.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/04/film-yaksha-ruthless-operations-2022-lk21-d21.jpg" group-title="VOD",Yaksha: Ruthless Operations (2022)
-https://stream.xpeer.xyz/playlist1/yaksha-ruthless-operations-2022/master_480.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/05/film-the-northman-2022-lk21-d21.jpg" group-title="VOD",The Northman (2022)
-https://stream.xpeer.xyz/playlist1/the-northman-2022-23.05.2022-20.22.24/master_480.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/03/film-turning-red-2022-lk21-d21.jpg" group-title="VOD",Turning Red (2022)
-https://stream.xpeer.xyz/playlist1/turning-red-2022/master_480.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/05/film-memory-2022-lk21-d21.jpg" group-title="VOD",Memory (2022)
-https://stream.xpeer.xyz/playlist1/memory-2022/master_480.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/05/film-the-bad-guys-2022-lk21-d21.jpg" group-title="VOD",The Bad Guys (2022)
-https://stream.xpeer.xyz/playlist1/the-bad-guys-2022/master_480.m3u8
