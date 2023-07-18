@@ -16,9 +16,6 @@
 #EXTM3U url-tvg="https://guidexml.tvnow.best"
 #EXTM3U url-tvg="https://github.com/Apollo2000/TVGuide/raw/master/utc.lite.xml.gz"
 #EXTM3U url-tvg="https://dukun.masuk.id/epg/a.xml"
-##WORLDCUP2022
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="WORLDCUP", tv2 Malaysia
-http://23.237.10.66:16180
 
 #EXTINF:-1 tvg-id="KOMPAS" tvg-name="KOMPAS" tvg-logo="https://i.imgur.com/6tyaqc0.png?v=1.0.0.1" group-title="LOKAL",KOMPAS TV
 http://210.210.155.35/qwr9ew/s/s104/index.m3u8
@@ -552,60 +549,20 @@ http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5g6wgbq9xwgsrw8/MUSTANG.png?dl=1" group-title="RADIO",MUSTANG
 http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
 
-##SPORTS
-#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257286_thumb-spotv.png" group-title="Sports",SPOTV 1
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1647684965~exp=9007200902425956~acl=/99545824f
-#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257286_thumb-spotv.png" group-title="Sports",SPOTV 2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1655715604~exp=9007200910456595~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_0/chunklist.m3u8*~hmac=3d68badae101f8edfa354550208282166f263e165eb7df0cd9dac20a4d22759a
-#EXTINF:-1  group-title="Sports",TMZ Sports
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1  group-title="Sports",ONE GOLF
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1  group-title="Sports",Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8
-#EXTINF:-1  group-title="Sports",Abu Dhabi Sports 4
-https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist.m3u8
-#EXTINF:-1  group-title="Sports",Star Sports 1 Hindi
-http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=
-#EXTINF:-1  group-title="Sports",Star Sports 2 HD
-http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Sports",Star Sports Select 2 HD
-http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/1024px-Sony_TEN_logo.png" group-title="Sports",Sony TEN 1 HD
-http://182.50.65.213:8888/udp/239.239.0.33:3001
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/1024px-Sony_TEN_logo.png" group-title="Sports",Sony TEN 2 HD
-http://182.50.65.213:8888/udp/239.239.0.34:3001
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/1024px-Sony_TEN_logo.png" group-title="Sports",Sony TEN 3 HD
-http://182.50.65.213:8888/udp/239.239.0.35:3001
-#EXTINF:-1  group-title="Sports",FITE TV
-https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://uploads.dailydot.com/2020/09/stadium-logo-2000x1000-1.jpg?auto=compress&fit=scale&fm=pjpg&h=350&w=700" group-title="Sports",STADIUM
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_3b_Fn6qAD6q63mDrcos2FgPV7RqyZGH4gA&usqp=CAU" group-title="Sports",ASTRO SUPERSPORT 1
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115615
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_3b_Fn6qAD6q63mDrcos2FgPV7RqyZGH4gA&usqp=CAU"  group-title="Sports",ASTRO SUPERSPORT 2
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115616
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_3b_Fn6qAD6q63mDrcos2FgPV7RqyZGH4gA&usqp=CAU"  group-title="Sports",ASTRO SUPERSPORT 3
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115617
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg"  group-title="Sports",BEIN SPORT 1
-#EXTVLCOPT:network-caching=1000
-http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/48
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg"  group-title="Sports",BEIN SPORT 2
-https://list.iptvcat.com/my_list/s/01f12aec4c333ffb657f21809596c1f8.m3u8
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-3.jpg"  group-title="Sports",BEIN SPORT 3
-https://list.iptvcat.com/my_list/s/0d3b3beb295a7b22ce4ecdc86cecf7a2.m3u8
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-4.jpg"  group-title="Sports",BEIN SPORT 4
-https://list.iptvcat.com/my_list/s/38260216db1c38e59d8cc01a4fc3b859.m3u8
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-4.jpg"  group-title="Sports",REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-4.jpg"  group-title="Sports",AUTOMOTO SPORT
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-
 ##VOD
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_disneymovies_avatarthewayofwater_streamingupdate_2096_0908fa1b.jpeg"  group-title="VOD-update", AVATAR - The way of Water
 https://fmmovie.ferymaleharmx.workers.dev/0:/2022/Avatar.The.Way.of.Water.2022.1080p.WEB-DL.x264.6CH.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/cb/Mendarat_Darurat.jpeg/220px-Mendarat_Darurat.jpeg"  group-title="VOD-update", Mendarat Darurat
 https://fmmovie.ferymaleharmx.workers.dev/0:/2022/Mendarat%20Darurat%202023%20INDONESIAN%201080p%20AMZN%20WEB-DL%20EngSub.mp4
+#EXTINF:-1 tvg-logo="https://melongmovie.site/wp-content/uploads/2023/04/1680916457-5684-uMMIeMVk1TCG3CZilpxbzFh0JKT.jpg"  group-title="VOD-update", 65
+https://fmmovie.ferymaleharmx.workers.dev/0:/2023/65.2023.1080p.WEB-DL.x265.10Bit.DD+5.1.mkv
+#EXTINF:-1 tvg-logo="https://melongmovie.site/wp-content/uploads/2023/01/a4VzfxhOIwSJcC7nsGlghO43M5O-scaled.jpg"  group-title="VOD-update", JUNG_E
+https://fmmovie.ferymaleharmx.workers.dev/0:/2023/JUNG_E.2023.1080p.NF.WEB-DL.x265.10Bit.DD+5.1.Atmos.mkv
+#EXTINF:-1 tvg-logo="https://melongmovie.site/wp-content/uploads/2023/04/1681466829-2654-xUvSeFhdsJbKFOaHnB9TeTZpJKs.jpg"  group-title="VOD-update", The Last Kingdom: Seven Kings Must Die (2023)
+https://fmmovie.ferymaleharmx.workers.dev/0:/2023/The.Last.Kingdom.Seven.Kings.Must.Die.2023.1080p.NF.WEB-DL.x265.10Bit.6CH.mkv
+#EXTINF:-1 tvg-logo="https://www.filmboxoffice.web.id/wp-content/uploads/2023/04/day-of-goodman.jpg"  group-title="VOD-update", 10 Days of a Good Man
+https://fmmovie.ferymaleharmx.workers.dev/0:/2023/2023/10.Days.of.a.Good.Man.2023.1080p.NF.WEB-DL.x265.10Bit.6CH.mkv
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Black_Adam_%28film%29_poster.jpg/220px-Black_Adam_%28film%29_poster.jpg"  group-title="VOD-MARVEL", Black Adam 2022
 https://fmmovie.ferymaleharmx.workers.dev/0:/DC%20Extended%20Universe/Black.Adam.2022.1080p.UHD.BluRay.x265.HDR.DV.DD+5.1.mkv
