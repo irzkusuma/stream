@@ -16,9 +16,7 @@
 #EXTM3U url-tvg="https://guidexml.tvnow.best"
 #EXTM3U url-tvg="https://github.com/Apollo2000/TVGuide/raw/master/utc.lite.xml.gz"
 #EXTM3U url-tvg="https://dukun.masuk.id/epg/a.xml"
-##WORLDCUP2022
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="WORLDCUP", tv2 Malaysia
-http://23.237.10.66:16180
+
 
 #EXTINF:-1 tvg-id="KOMPAS" tvg-name="KOMPAS" tvg-logo="https://i.imgur.com/6tyaqc0.png?v=1.0.0.1" group-title="LOKAL",KOMPAS TV
 http://210.210.155.35/qwr9ew/s/s104/index.m3u8
@@ -606,6 +604,15 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 https://fmmovie.ferymaleharmx.workers.dev/0:/2022/Avatar.The.Way.of.Water.2022.1080p.WEB-DL.x264.6CH.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/cb/Mendarat_Darurat.jpeg/220px-Mendarat_Darurat.jpeg"  group-title="VOD-update", Mendarat Darurat
 https://fmmovie.ferymaleharmx.workers.dev/0:/2022/Mendarat%20Darurat%202023%20INDONESIAN%201080p%20AMZN%20WEB-DL%20EngSub.mp4
+#EXTINF:-1 tvg-logo="https://melongmovie.site/wp-content/uploads/2023/04/1680916457-5684-uMMIeMVk1TCG3CZilpxbzFh0JKT.jpg"  group-title="VOD-update", 65
+https://fmmovie.ferymaleharmx.workers.dev/0:/2023/65.2023.1080p.WEB-DL.x265.10Bit.DD+5.1.mkv
+#EXTINF:-1 tvg-logo="https://melongmovie.site/wp-content/uploads/2023/01/a4VzfxhOIwSJcC7nsGlghO43M5O-scaled.jpg"  group-title="VOD-update", JUNG_E
+https://fmmovie.ferymaleharmx.workers.dev/0:/2023/JUNG_E.2023.1080p.NF.WEB-DL.x265.10Bit.DD+5.1.Atmos.mkv
+#EXTINF:-1 tvg-logo="https://melongmovie.site/wp-content/uploads/2023/04/1681466829-2654-xUvSeFhdsJbKFOaHnB9TeTZpJKs.jpg"  group-title="VOD-update", The Last Kingdom: Seven Kings Must Die (2023)
+https://fmmovie.ferymaleharmx.workers.dev/0:/2023/The.Last.Kingdom.Seven.Kings.Must.Die.2023.1080p.NF.WEB-DL.x265.10Bit.6CH.mkv
+#EXTINF:-1 tvg-logo="https://www.filmboxoffice.web.id/wp-content/uploads/2023/04/day-of-goodman.jpg"  group-title="VOD-update", 10 Days of a Good Man
+https://fmmovie.ferymaleharmx.workers.dev/0:/2023/2023/10.Days.of.a.Good.Man.2023.1080p.NF.WEB-DL.x265.10Bit.6CH.mkv
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Black_Adam_%28film%29_poster.jpg/220px-Black_Adam_%28film%29_poster.jpg"  group-title="VOD-MARVEL", Black Adam 2022
 https://fmmovie.ferymaleharmx.workers.dev/0:/DC%20Extended%20Universe/Black.Adam.2022.1080p.UHD.BluRay.x265.HDR.DV.DD+5.1.mkv
