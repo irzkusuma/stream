@@ -18,9 +18,9 @@
 #EXTM3U url-tvg="https://dukun.masuk.id/epg/a.xml"
 
 #EXTINF:-1 tvg-id="KOMPAS" tvg-name="KOMPAS" tvg-logo="https://i.imgur.com/6tyaqc0.png?v=1.0.0.1" group-title="LOKAL",KOMPAS TV
-http://210.210.155.37/qwr9ew/s/s104/index.m3u8
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165060
 #EXTINF:-1 tvg-id="METROTV" tvg-name="METROTV" tvg-logo="https://i.postimg.cc/FHMfHWT2/METRO.png" group-title="LOKAL",METRO TV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/metrotv.m3u8
+http://210.210.155.37/uq2663/h/h12/index.m3u8
 #EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i.imgur.com/bD2odoR.png" group-title="LOKAL", TVRI
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvri.m3u8
 #EXTINF:-1 tvg-id="TVONE" tvg-name="TVONE" tvg-logo="https://i.postimg.cc/ZKv7J82B/tvone.png" group-title="LOKAL",TVONE
@@ -32,15 +32,15 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 tvg-id="JAKARTA GLOBE" tvg-name="JAKARTA GLOBE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest?cb=20191019135004" group-title="LOKAL",JAKARTA GLOBE
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/jakartaglobe.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://i.postimg.cc/bNxt0HNG/CNN-Indonesia.png" group-title="LOKAL",CNN
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2136674526_b384000_sleng.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" ,CBNC
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
 #EXTINF:-1 tvg-id="INDOSIAR" tvg-name="INDOSIAR" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.MvHgFrxkxczLT1GpKo6BUAHaFq&pid=Api&P=0&w=222&h=171" group-title="LOKAL",INDOSIAR
-http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/162138
 #EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV" tvg-logo="http://images.useetv.com/logo_transtv_big1.png" group-title="LOKAL",Trans TV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/transtv.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Trans7" tvg-name="Trans7" tvg-logo="http://images.useetv.com/logo_trans7_big1.png" group-title="LOKAL",TRANS 7
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/trans7.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="LOKAL",SCTV
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="LOKAL",ANTV
@@ -50,13 +50,13 @@ http://210.210.155.37/uq2663/h/h06/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png"  group-title="LOKAL", MNCTV
 http://xtv.ooo:8080/88876776555/87677666654/350996
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png"  group-title="LOKAL",MNC News
-http://xtv.ooo:8080/88876776555/87677666654/350992
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165059
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rcti_id.png"  group-title="LOKAL",RCTI
 http://xtv.ooo:8080/88876776555/87677666654/351023
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg" group-title="LOKAL",IDX
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/idxchannel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ox8luDM.png" group-title="LOKAL",INEWS
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/trans7.m3u8
+http://37.49.229.56:8080/Vladisergeevic/7eef2c4388/157579
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.imgur.com/NvE0OeL.png" ,GLOBAL TV
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_rtv_big1.png" group-title="LOKAL",RTV
@@ -211,9 +211,9 @@ https://m.vidio.com/videos/2017124/common_tokenized_playlist.m3u8
 
 ############# HIBURAN
 #EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/etv.jpg?raw=true" group-title="HIBURAN", Etv Bioskop 1
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298526
+http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298526
 #EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/etv.jpg?raw=true" group-title="HIBURAN", Etv Bioskop 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298527
+http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298528
 #EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/etv.jpg?raw=true" group-title="HIBURAN", Etv Bioskop 3
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298528
 #EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/etv.jpg?raw=true" group-title="HIBURAN", Etv Bioskop 4
@@ -221,23 +221,25 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298529
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="HIBURAN", AXN 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="HIBURAN", AXN 2
-http://xtv.ooo:8080/88876776555/87677666654/350895
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165079
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1c044d8eee920f7fe5bf0a8f21808612.png" group-title="HIBURAN", SYFY
 http://50.7.137.106:8080/SYFY/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKieYy.jpg" group-title="HIBURAN", WARNER TV
 http://203.77.246.50:5000/udp/239.1.2.156:5000
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKieYy.jpg" group-title="HIBURAN", WARNER TV2
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157550
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-P95DfEhU8hQ/Xg2yxxf61LI/AAAAAAAApIA/4-FZeL8yA5YIe5EDO19mePYnoCuAmg9mwCLcBGAsYHQ/s1600/my-cinema-asia-channel-tv-logo.png" group-title="HIBURAN", MY CINEMA
-http://210.210.155.35/uq2663/h/h192/index.m3u8
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298553
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_160_115" group-title="HIBURAN", Cinemax
 http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/197964
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_160_115" group-title="HIBURAN", Cinemax 2
-http://xtv.ooo:8080/88876776555/87677666654/350922
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165079
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" group-title="HIBURAN",  THRILL
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png"  group-title="HIBURAN", HBO
 http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/197972
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png"  group-title="HIBURAN", HBO MAX
-http://xtv.ooo:8080/88876776555/87677666654/350955
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png"  group-title="HIBURAN", HBO EXTREME
+http://208.115.225.174:14165
 #http://kuchini.site:8080/Raionew/2e1df8e7/298528
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/d7c5glg1xb2cfj5/hbo%20signature.png?dl=1"  group-title="HIBURAN", HBO Signature
 http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/221948
@@ -248,9 +250,9 @@ http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/197055
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ugeU31MX31hYSOuCiXRr0Cm9kkecL8sk9Q&usqp=CAU"group-title="HIBURAN" , MOVIE HITS
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hitmovie.m3u8
 #EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565946217550.png"  group-title="HIBURAN", ROCK ENTERTAINMENT 
-http://210.210.155.35/dr9445/h/h16/01.m3u8
-#EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565946228444.png"  group-title="HIBURAN" , ROCK EXTREME
-http://210.210.155.35/dr9445/h/h15/01.m3u8
+http://210.210.155.37/dr9445/h/h16/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=ROCK_Entertainment_HD
+#EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565946228444.png"  group-title="HIBURAN" , ROCK ACTION
+http://210.210.155.37/dr9445/h/h15/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=ROCK_Action_HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4DEUpdm.jpg"  group-title="HIBURAN" , K+ 
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png"  group-title="HIBURAN" , Sony GEM TV 
@@ -258,13 +260,13 @@ http://210.210.155.35/uq2663/h/h19/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png"  group-title="HIBURAN" , Sony One 
 http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.asiantvawards.com/wp-content/uploads/2017/08/tvN-movie-logo-no-tagline.jpg" group-title="HIBURAN",TVN MOVIES
-http://210.210.155.37/dr9445/h/h21/index.m3u8
+http://210.210.155.35/dr9445/h/h21/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvN_Movies_HD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/200px-Logo_tvN.svg.png" group-title="HIBURAN",TVN PREMIUM
-http://210.210.155.37/dr9445/h/h20/index.m3u8
+http://210.210.155.35/dr9445/h/h20/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvN_HD
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="HIBURAN", Cinema World
-http://210.210.155.35/dr9445/h/h04/01.m3u8
+http://210.210.155.35/uq2663/h/h04/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=CinemaWorld_HD
 #EXTINF:-1 tvg-id="KIX.MACAN" tvg-name="KIX" tvg-logo="https://i.ibb.co/8jRb2YX/xgf.png" group-title="HIBURAN",KIX
-http://210.210.155.35/dr9445/h/h07/01.m3u8
+http://210.210.155.35/dr9445/h/h07/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=KIX_HD
 #EXTINF:-1   tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="HIBURAN",HITS
 http://210.210.155.35/dr9445/h/h37/02.m3u8
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.d_nFS1XiiOsN9aUuyywm1QHaDP&pid=Api&P=0&w=350&h=154" group-title="HIBURAN",CINEMA EUROPE
@@ -288,6 +290,8 @@ https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playl
 https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/afn.png?raw=true" group-title="COOKING",ASIAN FOOD NETWORK
 https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/tlc.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/afn.png?raw=true" group-title="COOKING",AFN
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298503
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tn9bRD1.jpg" group-title="COOKING",Chef Roc Show (720p) [Not 24/7]
 https://rpn1.bozztv.com/36bay2/gusa-chefrock/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z6pDpzl.png" group-title="COOKING",Cooking Panda
@@ -345,6 +349,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
 
 ########### NEWS WORLD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/1200px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="NEWS WORLD", BBC News UK
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live28-1080FHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/220px-Bloomberg_Television_logo.svg.png" group-title="NEWS WORLD",BLOOMBERG ASIA
 http://210.210.155.35/dr9445/h/h03/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/150px-CNA_new_logo.svg.png" group-title="NEWS WORLD",CNA
@@ -1153,6 +1159,30 @@ https://lh3.googleusercontent.com/xN2hsc2kYYCcXqb2szP2k53DyBzjvReIUtk-NJ_qPCI6ie
 
 
 #VOD-update
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://image.tmdb.org/t/p/w185/dayxfU8ZJAs9hislETbZWzhr5kR.jpg", 57 minutes 2023
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=Llsy6eRWARqpG0hEw1CEDtkvdYTBBoORb12gRtk%2B1mzvzSfEn91U%2FkSrPA4uHUk9&expiry=iwpU6KMjhPOrlj3Tj%2B6U8Q%3D%3D&mac=2b49fdecefc1dd6a901c033f1329b9470001d239b936514107ec02ca8d5dc3bb
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://image.tmdb.org/t/p/w185/dayxfU8ZJAs9hislETbZWzhr5kR.jpg", Island Escape 2023
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=wIXbFPgp7DKkSkRQnc1klx4Iy6ACUhqU8C937Z%2BCIbzi58jDqLvsbbRVhyUIskRi&expiry=2qZ%2FXZKCCOZrgP2wlHFnlQ%3D%3D&mac=0d37ed184d52404806d56b4b03a07c0078216e287078308d951cdb303c9b5831
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://image.tmdb.org/t/p/w185/dayxfU8ZJAs9hislETbZWzhr5kR.jpg", Freestyle 2023
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=OGKHsGHCua9%2FBEaHl9LYbLk3TcYNdsWh5IDvAebLEYAxPs2oUR0fp5GqctRwiGlm&expiry=kdnTHl6%2BqY%2Buo0qZAkWH2A%3D%3D&mac=08807a948143c95e41ad82a4cec7403f11841f70de44ae774968d7e27b6bdf5b
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://image.tmdb.org/t/p/w185/dayxfU8ZJAs9hislETbZWzhr5kR.jpg", Panthom 2023
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=p8ff2opKkmn75YZhUK08jsU4xvPGuGnEEFELUhUUEW0EJR3qs7zzv5Yvc41P3D2d&expiry=pIzr2xts0HyUJF27BpGJxg%3D%3D&mac=15f7a9314cd5afe8efa38c8521b7dff2a28415e271e4f127f330e3382139d2f7
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://image.tmdb.org/t/p/w185/dayxfU8ZJAs9hislETbZWzhr5kR.jpg", Saw X 2023
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=aL14Sl0GL2Gl1JWgPudh0%2Fes6JkQH%2ByKtBiObHBL7ERC9FZiu%2BGxGY6X9uvmw1uJ&expiry=QBBoy3jhwXukQdUlptBriA%3D%3D&mac=f4dc5d11d3259db101d3186f19110a48928240b28520f0828877b7f5a93a3d43
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://image.tmdb.org/t/p/w185/dayxfU8ZJAs9hislETbZWzhr5kR.jpg", Equalizer-3 2023
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=yEfqIOCROb%2B8cP%2BJPmf1Qrsg9xQpT7mcxV4OewuTdHSYUAdhhyUjWtzK0BB6gWdV&expiry=d1%2BRet42VRg4aOYQjOnJIw%3D%3D&mac=1f8b976864140202d1d5c9be70950b10ef9c37dbb4f8cc2bc5160420936890ba
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://image.tmdb.org/t/p/w185/dayxfU8ZJAs9hislETbZWzhr5kR.jpg", Till Death do us apart 2023
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=0BFUAizlGrSc%2BTnUQVHKbByHfvklp9EQaAijD0jGw7umsw5FJNuMt%2Bvz0u0qWNpG&expiry=o8c%2FUPrwMPkeiaxxJqh92Q%3D%3D&mac=273193fa863fb489c74ebef7f8ede281b04e10cda23c8366c1c949a1f808458e
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://image.tmdb.org/t/p/w185/dayxfU8ZJAs9hislETbZWzhr5kR.jpg", Wandering Earth-2 2023
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=UbBa8pDv6SvU3O5BQ9d9ZZFF2LGjO8cNZ1a32EY2U5Ez90MjJLe%2BkeHcBarnBN2%2B&expiry=MylYw5gehMPpvnBrPpnRvQ%3D%3D&mac=7b3acd3dc407b2a7b589d5374030ace53a247afc0d584699b88f1c7ab8c9588b
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://image.tmdb.org/t/p/w185/dayxfU8ZJAs9hislETbZWzhr5kR.jpg", The Nun-2 2023
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=AmJK%2BARXjqEhwcO20SLyCuevOT7axeBE45cURSG1g2oH0MDUSjS1zD0UV%2BVGj0Gu&expiry=xjhyCds%2Brz4cbouQfY1B5Q%3D%3D&mac=effa84e3a31f86da70a993add4899456b58b7a97e6ed11b47462679ad4c47356
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://image.tmdb.org/t/p/w185/dayxfU8ZJAs9hislETbZWzhr5kR.jpg", The Last Voyage of Dementer 2023
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=Aj7IVn5%2FDg4SqnNJM85cxbMhNEuQTadAgqZMRShNtVmqY%2Bp1XAE51Ex81tv46n%2F1&expiry=N4JshZn3hMpIK2f8Wt1yzQ%3D%3D&mac=4706d4dc8245d06da619183d11f53fcf2887e15da39b28d52c528661f25a8c65
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://image.tmdb.org/t/p/w185/dayxfU8ZJAs9hislETbZWzhr5kR.jpg", The Island 2023
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=%2BSIrJXBqhno4x784rjDbpmHfgWiBW%2Bz%2FQktcJgxgE4q25QpX28VNadQVJA0t52tt&expiry=cspAvz1%2B9X5qSYl17%2Bb66A%3D%3D&mac=79e4a903343f5d22a90c75fafbba2f73be40cf2bccb8509f200bcaf1b40c6f50
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://image.tmdb.org/t/p/w185/dayxfU8ZJAs9hislETbZWzhr5kR.jpg", Simulant 2023
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=%2BOW8chO7C6lRFbGaJ1FSfUh0bU0lZEbAXzViCVdYvTy8fG0prfxi2sp2kz5hQCYM&expiry=tIux3luVOxn3fRsSZM3yiQ%3D%3D&mac=a58dcdf0b697b8e37a5a263fa8d0b37cfc5cce022ecca2f9a0eae766f3864c28
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://image.tmdb.org/t/p/w185/dayxfU8ZJAs9hislETbZWzhr5kR.jpg", Rebel 2023
 https://www.googleapis.com/drive/v3/files/1hRvtBynFwj0b-J-1AtMt_5VHThJszNKZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://image.tmdb.org/t/p/w185/tunGZv6c72xu6zuIxmsypr0ccsb.jpg", Guardians of The Galaxy Vol.3 (2023) SUB INDO
@@ -1224,7 +1254,7 @@ https://www.googleapis.com/drive/v3/files/1K0my3JWD88PgNKFoOZ-jJlqrnwfHIug9?alt=
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://savefilm21.skin/wp-content/uploads/2023/07/pYwZdnXVnVxAr7dx4MEK7tTK9gI.jpg", Boogeyman 2023
 https://www.googleapis.com/drive/v3/files/1xvukKhFLD8LuZjfZ0sduqDzLrGj-8ONE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://image.tmdb.org/t/p/w185/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg", Avatar the way of water 2023
-https://www.googleapis.com/drive/v3/files/1DOPyKO3tNIJWg0jljWmfze79yGlcmHwB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=xFHHlEC6XCXQXB12HamKE%2Bncb52Gw917hRX4KG%2FAPFISLx8KXohfGod7pLTRezI0&expiry=Eruat2jkPCfh2VNwOB%2B2jg%3D%3D&mac=90c5900334a4f640c75394006af62ffa2e3f372c942547873168bb4bdf8a50a7
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://image.tmdb.org/t/p/w185/jNmG4zACTqWwN8qixNSCkS3bOhs.jpg", An Action Hero 2023
 https://www.googleapis.com/drive/v3/files/1gobYExmPtL-EpMV-FkxeJHghpOxW0ge4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://savefilm21.skin/wp-content/uploads/2023/06/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg", Doraemon: The Sky Utopia 2023
@@ -1247,10 +1277,7 @@ https://www.googleapis.com/drive/v3/files/1L_DGAacQq7b0sl-PmCGHV8QG02nx-mot?alt=
 https://www.googleapis.com/drive/v3/files/1W9S1jFgVh5uk9FxBD6AnJqTqy8KUryGi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://ngefilm21.us/wp-content/uploads/2023/08/jsD9Xno9bCaDtGm6Av9yr4T5SUq.jpg", Khanzab 2023
 https://www.googleapis.com/drive/v3/files/1wSU_K1LqzXRYh7pJBOb3KRbDehdb9K5c?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://ngefilm21.us/wp-content/uploads/2023/08/uDAKg2wkjmQX7rvLVpdBKXgR07P.jpg", Buya Hamka 2023
-https://www.googleapis.com/drive/v3/files/1wWj9ahUny8yks1oVqnpx0qBNwUD1ZhTy?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://ngefilm21.us/wp-content/uploads/2023/07/gukSJNCDL2Xx8XB9PE5bL5qBOBQ.jpg", Hidayah 2023
-https://www.googleapis.com/drive/v3/files/1M4sgBpqowB9y0LOS4FJC_w7l714UV5H2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://ngefilm21.us/wp-content/uploads/2023/06/gPbM0MK8CP8A174rmUwGsADNYKD.jpg", Transformers: Rise of The Beast 2023
 https://www.googleapis.com/drive/v3/files/1PMlEq8TpVqvGLhKzy4aVHs7uXEldDRQR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://ngefilm21.us/wp-content/uploads/2023/08/5ffWHZsYabHOBfYRJucDgZMoFzl.jpg", Insidious: The Red Door 2023
@@ -1315,10 +1342,7 @@ https://jeniusplay.com/hls/eGpsVE9vLytwUFVxOHREYllpMG1jcXZWa0xSU1Bha0YwRTJzUmY4L
 https://www421.ff-01.com/token=HyKzPiXKfC0KEr_JbP0u3w/1665875053/103.144.0.0/46/c/e6/dade34df776265a04f8205a6ebcc7e6c-480p.mp4
 #EXTINF:-1 tvg-logo="https://drakor-id.sbs/wp-content/uploads/2022/08/1qkIyRyXsrXaear1OdJd0QWaAkC-60x90.jpg"  group-title="VOD-update", Bank Robbers: The Last Great Heist (2022)
 https://www1109.ff-03.com/token=duVWqZFWyGuaFU554gxGRQ/1665874728/103.144.0.0/212/f/b7/fc0b9fcb372814898c57716bdf788b7f-480p.mp4
-#EXTINF:-1 tvg-logo=""  group-title="VOD-update", Daeng (2022)
-https://www1164.ff-03.com/token=jCREKXa3uPQ3I_zClJqI9w/1665874884/103.144.0.0/203/7/8f/3234b6349190a4652b980f83c346b8f7-480p.mp4
-#EXTINF:-1 tvg-logo=""  group-title="VOD-update", Garis Waktu (2022)
-http://23.226.71.76/jd8z-AIWnuAFP8V7SRdKzJlsdnhhDt17lEfpm04TSJk5Gx7e6hT4LsOs_8YOoTVoMezaTI9fyKJhslTljvjnjA/zwExQwQ7UieANEh6XCwiNQhBLE-tHa_2fhOXhlbcf_A/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://185.251.117.247/wp-content/uploads/2022/07/9YTuscJXmr9Iua62amCgGSU8PDW-60x90.jpg"  group-title="VOD-update", Di Renjie-Fire Kirin (2022)
 https://playcrot.xyz/stream/360/qFedLCoVNfeapuF/__001
 #EXTINF:-1 tvg-logo="https://185.251.117.247/wp-content/uploads/2022/07/9YTuscJXmr9Iua62amCgGSU8PDW-60x90.jpg"  group-title="VOD-update", The Witch: Part 2. The Other One
@@ -1343,51 +1367,22 @@ https://data03.streamku.xyz/mv/6a-gray.mp4
 https://data03.streamku.xyz/mv/12a-minions.mp4
 #EXTINF:-1 tvg-logo="https://185.251.117.247/wp-content/uploads/2022/08/cv6zBbPfP0MMxgMdve95YrIIQwq-152x228.jpg"  group-title="VOD-update", Prey
 https://data03.streamku.xyz/mv/14a-prey.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg"  group-title="VOD-update", Thor Love&Thuder
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EbCOCeqvBxZHouC-HfxJ-7wB0CekpJ3ixvmpK-YM-3HkOw?e=PjLjgI
-#EXTINF:-1 tvg-logo="http://38.242.200.55/wp-content/uploads/2022/05/jJbxft0A2iQtH7ZWsGtgCfOq05b-60x90.jpg"  group-title="VOD-update", Hatching
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Edtm-YyR5exChkiD_J_iHdcBJq6qEMMudOcyisK7d3emmQ?e=HW18Ts
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg"  group-title="VOD-update", Thor: Love and Thunder (2022)
-https://www1032.ff-03.com/token=aKu9_cSFD7LHDWtQrPzG3Q/1665876724/103.144.0.0/212/8/d2/33bc4137fb4e15e47ccbb4e50ce9fd28-720p.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/nbQkxx9EsFUwwjQbEhYKCvIUSXR.jpg"  group-title="VOD-update", Veneciafrenia
-https://hls5.kusinakusa.xyz/video/videotoken/1TqEViojBXuzmEKFdXGg2gS5OF2Z5JZ77
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/2DKRZHGl7FatwYMgsIsIcX3QY4k.jpg"  group-title="VOD-update", Shut In
-https://hls7.kusinakusa.xyz/video/videotoken/1X5zcrX0_1Vr7zw1BvSvY81MOSZlMj9JE
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xZmHkFH3fcO26971jQgMonp1AM4.jpg"  group-title="VOD-update", Doctor Strange in the Multiverse of Madness
-https://www363.ff-01.com/token=az7afHClKye1dAPFUNlwfg/1665876826/103.144.0.0/202/b/14/af88dd6372b61bc558bf123756fbe14b-720p.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/HmL0rxQ4nrT75RAkkSACvL3UpA.jpg"  group-title="VOD-update", Fantastic Beasts: The Secrets of Dumbledore
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EfoOkWC0HwROuvNeqhKOePsB2UqEK5tRQMI5Skfn5JTdPQ?e=OOh816
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/HmL0rxQ4nrT75RAkkSACvL3UpA.jpg"  group-title="VOD-update", Fantastic Beasts: The Secrets of Dumbledore
-https://www337.ff-01.com/token=-C5bfWrdo6JpoShoCaFG2w/1665876911/103.144.0.0/202/7/e5/7a666fe7f3c7a98d7bbd8f77982b2e57-720p.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/74xTEgt7R36Fpooo50r9T25onhq.jpg"  group-title="VOD-update", The Batman
-https://hls13.kusinakusa.xyz/video/videotoken/19wAXKzV-_n7CUGiVxX2jJ8InYuxMkdbO
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"  group-title="VOD-update", Spider-Man: No Way Home
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EQSIKQU6K6xDg_rU1ejWtZUBeVZS-GWfZEBQT7QIbhms6Q?e=khJzMG
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dVWMYRO0xUZ4X64YJYu5FwbeLNf.jpg"  group-title="VOD-update", Uncharted
-https://hls19.kusinakusa.xyz/video/videotoken/1ZPvR37JsDs8XJjRBt0VndwluxNgBXBFr
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/yfN2IFt8qafP4lTCfpCmw6F64BV.jpg"  group-title="VOD-update", Top Gun: Maverick
-https://hls1.kusinakusa.xyz/video/videotoken/1c48fScHxJ3ZJToNaXqi_vEhaZh3oflcH
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/qEu6qI5sVoIe10gD1BQBqxcNIW2.jpg"  group-title="VOD-update", Crawlspace
-https://www873.ff-02.com/token=Mf82IsOct7yt7hO8tUGWDQ/1655411933/103.144.0.0/196/e/14/34fd952bd86946d2c43b24ddf3b4114e-480p.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg"  group-title="VOD-update", Jurassic World Dominion
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EewWNSZQ25hHkQKwl1d2AGoB4l6PRtwb-HzsJ0SvnrK6AQ?e=wGZDno
-#EXTINF:-1 tvg-logo="https://104.161.33.126/wp-content/uploads/2022/06/qb1VAm3IQqhW9XWfuHP6xOh38NE-60x90.jpg"  group-title="VOD-update", RAJAWALI
-https://v2.streamku.xyz/stream/720/9FSEQtVlumrn6Si/__001
-#EXTINF:-1 tvg-logo="http://54.39.169.27/film/cyber-hell-exposing-an-internet-horror-2022/"  group-title="VOD-update", Cyber Hell: Exposing an Internet Horror (2022)
-https://www84.ff-01.com/token=I_VP6m2DHH1Fb80d4yfoXA/1655394294/103.144.0.0/97/f/de/306de6a24e3c89f13da8f1e279e02def-480p.mp4
-#EXTINF:-1 tvg-logo="http://i2.wp.com/terbit21.com/wp-content/uploads/2022/05/w3LxiVYdWWRvEVdn5RYq6jIqkb1-150x225.jpg"  group-title="VOD-update", Everything Everywhere All at Once (2022)
-https://doc-0k-74-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/qskq0rltb4qmlbu0ta7mem2pqhptcpr0/1655380050000/11452258398234067366/*/1GqECmZDTpHHMuWQsIDf_nrjV_aONIDdI?e=download
 
-#EXTINF:-1 tvg-logo="" group-title="VOD-2021", FREEGUY 2021
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Eda8R-jQY3BDkMlXhSobjP0BzxS_wYUPbOrGeSE8Zj76UA?e=reFCcA
-#EXTINF:-1 tvg-logo="https://104.161.33.126/wp-content/uploads/2021/12/iUgygt3fscRoKWCV1d0C7FbM9TP-60x90.jpg" group-title="VOD-2021", NO TIME TO DIE
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EeSwQosb0WNIokvFz5LezdgBF4M7QV65cOhwyiqxyI5_1w?e=YqYGfU
-#EXTINF:-1 tvg-logo="" group-title="VOD-2021", Shang-Chi Legend of Ten Rings
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EcVLTmdpxUVDqJCZ4hWZoEcBEM8HsUQk053Jfv0MUQKi5w?e=pO4Jy1
-#EXTINF:-1 group-title="VOD-2021", BACK TO OUTBACK 2021
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Eeg6UsJajVxFpTMvvbUO39ABpeyOaE7CaQmizW8hVUUtjQ?e=umB5Vq
-#EXTINF:-1 group-title="VOD-2021", ETERNAL
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EX_JqVmf8slBgFwCkZzWMWABX42wB3cmD_aNsyrYmo9L6w?e=qEm2rY
+
+#VOD INDO
+#EXTINF:-1 group-title="VOD-INDO", BALADA SI ROY
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=Pnmcj6T4oh6HNYB9W13kC%2BYJ92lxZm4H96VGPKk2Lb5rxqx%2BNbKqPytbBp7It2Px&expiry=NJL8PPrAakImYaOb7dy9fA%3D%3D&mac=6fde02156e3813455ad4e17976b69e5a3bda07e6714345b1279d2726f1c992f1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://ngefilm21.us/wp-content/uploads/2023/08/uDAKg2wkjmQX7rvLVpdBKXgR07P.jpg", Buya Hamka 2023
+https://www.googleapis.com/drive/v3/files/1wWj9ahUny8yks1oVqnpx0qBNwUD1ZhTy?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD-update"tvg-logo="https://ngefilm21.us/wp-content/uploads/2023/07/gukSJNCDL2Xx8XB9PE5bL5qBOBQ.jpg", Hidayah 2023
+https://www.googleapis.com/drive/v3/files/1M4sgBpqowB9y0LOS4FJC_w7l714UV5H2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo=""  group-title="VOD-update", Daeng (2022)
+https://www1164.ff-03.com/token=jCREKXa3uPQ3I_zClJqI9w/1665874884/103.144.0.0/203/7/8f/3234b6349190a4652b980f83c346b8f7-480p.mp4
+#EXTINF:-1 tvg-logo=""  group-title="VOD-update", Garis Waktu (2022)
+http://23.226.71.76/jd8z-AIWnuAFP8V7SRdKzJlsdnhhDt17lEfpm04TSJk5Gx7e6hT4LsOs_8YOoTVoMezaTI9fyKJhslTljvjnjA/zwExQwQ7UieANEh6XCwiNQhBLE-tHa_2fhOXhlbcf_A/video.m3u8
+#EXTINF:-1 tvg-logo=""  group-title="VOD-update", Gita Cinta dari SMA
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=dS%2B%2Bup2jI5L2DIFquqmI%2B92iAdjyXj66LxH6CYAT9CfStCH8uSWAW2YRnHSN1vQi&expiry=Yyrs3NmlZ4J1nF%2FoEDiZLQ%3D%3D&mac=3ccc286f4ae83b8ecac50ad9486fec4532ff111e75c8660cfb4c72d7f904d505
+
 
 ##SERIAL
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/suyNxglk17Cpk8rCM2kZgqKdftk.jpg"  group-title="Ring of power", S01 E01
@@ -1477,8 +1472,7 @@ https://www.dropbox.com/s/kxb8142xds59v6a/joji.mp4?dl=1
 https://www.dropbox.com/s/rx068ypydhksx57/driveid-118482-terbit21-com-wrong-turn-2021.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="HOROR" tvg-logo="https://i.ibb.co/XCMWfK8/scream.jpg", Scream (2022)
 https://www.dropbox.com/s/ibou8wjcep2xgsv/scream%202022.mp4?dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="HOROR" tvg-logo="https://i.ibb.co/XCMWfK8/scream.jpg", Scream (2022)
-https://www.dropbox.com/s/ibou8wjcep2xgsv/scream%202022.mp4?dl=1
+
 
 #The History of Middle-earth
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="The History of Middle-earth" tvg-logo="http://pictures.my.id/images/hobbit1.png", The Hobbit : An Unexpected Journey (2012)
@@ -1510,28 +1504,21 @@ https://www.googleapis.com/drive/v3/files/1tW2RxCGqIMPEoRuAOrEUGh1JTPZHag3A?alt=
 
 #ONE PIECE
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="One Piece" tvg-logo="https://gudangmovies21.net/wp-content/uploads/One-Piece-Season-1.jpg", Episode 1
-https://www.googleapis.com/drive/v3/files/19P4qrBiIkUJiEkU4tmfq3N0MIbu4i4aK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=yOO6knCLrxpA72zxZErVhgPnCQcvtQQMZFVF95%2BiIUTpjbl8plgWgJCua5mfn9yX&expiry=Z1WTIs2%2BsS5W%2BTfTnlZSvw%3D%3D&mac=38e0000e6d184a6ca0e89a002852370f3b05500d9a4b5826c15b615a6d58440f
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="One Piece" tvg-logo="https://gudangmovies21.net/wp-content/uploads/One-Piece-Season-1.jpg", Episode 2
-https://www.googleapis.com/drive/v3/files/1HWdQGr1xIvralWwpYJ0QTvmY4OWfqtL1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=mQxRBfmMCTim2T%2FB1ZCidS5mt9p3syXf9RQ5LF1t0mrfIfCFD8N%2F5LpXKdl8YAu1&expiry=PymBvs43gKfueX9kssrH%2Bg%3D%3D&mac=9caf2595934db17c781b76f9e19b61233447f58028b1aa0d90224e35b71818e6
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="One Piece" tvg-logo="https://gudangmovies21.net/wp-content/uploads/One-Piece-Season-1.jpg", Episode 3
-https://www.googleapis.com/drive/v3/files/15Muto6XOYMpLwShkOk9brdWlIFvwB3FQ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=Zf1S11usS%2FYLUbCh7KMdFJCaojyO4ErOUvuwP%2FATfAgrcngURkrfVqAfPoh6Zw%2Fb&expiry=9KE77rdukNQo4lNXsgMlCw%3D%3D&mac=1ad849f330f21e1a995dfe818cf7178ad138b99e9d7f9f0f91d9891a761d7e7a
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="One Piece" tvg-logo="https://gudangmovies21.net/wp-content/uploads/One-Piece-Season-1.jpg", Episode 4
-https://www.googleapis.com/drive/v3/files/1834JEB0JnFKO62TOXeGFokYFi7JRdFFU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=e4j1aX2Uz3Nw3MwKSvjmI2Fao%2FZKzqCu%2B4VdRAGRoDx%2BGDK%2BpwiMzx9uRoiv6rlj&expiry=MrSl%2FU4JkKjxytrY0WvQGw%3D%3D&mac=8b645d813e14a73786ae7695d5356d23361023db7c312ca7812b705de1f92c0c
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="One Piece" tvg-logo="https://gudangmovies21.net/wp-content/uploads/One-Piece-Season-1.jpg", Episode 5
-https://www.googleapis.com/drive/v3/files/10ziuyI_MdCxCLxuTvatiPGVCu-kQO1Q-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=c6SKeCMed8GSzVj0GIMP%2Fgt32h1Rgu1titfYJfWSRZUAxjpsyLDFN71Oc9zT5zhC&expiry=0QmlfLtr4aW%2BZGgEZuABZw%3D%3D&mac=44f2d4dc4ca5cf771fca5d0088ef348cca98e654e9debb8ab311bd20c328b995
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="One Piece" tvg-logo="https://gudangmovies21.net/wp-content/uploads/One-Piece-Season-1.jpg", Episode 6
-https://www.googleapis.com/drive/v3/files/1_PMNuB98MzhFichAZzQ6uK2ODejfLi9Z?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=fkxcBiwXEBI6avb0jkQTtM70FO26DOjLqXv5wGuIWWyu77v%2FVzE3gqaBvS%2F73QyL&expiry=rkja83X2aGcDdMu%2BSTq0mA%3D%3D&mac=d57631c91d592278b65aa89bf2b4faf5e4d919d12b66b42d791f43048144e1f5
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="One Piece" tvg-logo="https://gudangmovies21.net/wp-content/uploads/One-Piece-Season-1.jpg", Episode 7
-https://www.googleapis.com/drive/v3/files/16t2xz_rdw97_N62hdSaF-4XxzlCb452o?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=Ib%2BsvCul8IMD%2Fp87HLCZHeck4w9%2FW3f2nIIo3tAVSjNp6%2BmNlCKJFo13yHAe%2B2nw&expiry=B1fS5BURm1UXUOTwIo8Q%2FA%3D%3D&mac=acc5f2ac6c70d9f2b2199a57d5165738381e9689e0b32c3f2313e4f435231087
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="One Piece" tvg-logo="https://gudangmovies21.net/wp-content/uploads/One-Piece-Season-1.jpg", Episode 8
-https://www.googleapis.com/drive/v3/files/19I_L2dl3eOn0BAvIaT7mw7_QSScJxBY3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=AqV31MzkQkNxkFxzSoYQi7cUNKrEiSKLa%2B%2Bco5naLzT%2BK6QI%2Fz1GXcZQU8OR0K4L&expiry=aM4b5NqQ1yGcvXD2VPNdYA%3D%3D&mac=283e5e7f657bf7d2f06b24e2a74ce186e2c5d9fded2de963addfad1d437bb279
 
 #MARVEL CINEMATIC Universe
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu1.png", Captain America : The First Avengers (2011) SUB INDO
@@ -1545,13 +1532,13 @@ http://abf.filmbluray.id/9w4ufeb
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu5.png", Iron Man 2 (2010) SUB INDO
 http://abf.filmbluray.id/z82cuai
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu6.png", Thor (2011) SUB INDO
-http://abf.filmbluray.id/jrgz7tv
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=Wf0YKsoitcFlyPlbKW2e4eW5h%2B%2B36n2dsDVd5S3PMDcqx%2BuKKLL526kCnX%2BOAp9k&expiry=NSMJC6XboyB2C7cCzzJzDw%3D%3D&mac=d0c98f24358ed7b8d20f3ae69e80f583ecfe077500211c838ac7ad9675f10f70
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu7.png", The Avengers (2012) SUB INDO
 http://abf.filmbluray.id/68mw8pc
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu8.png", Iron Man 3 (2013) SUB INDO
 http://abf.filmbluray.id/kq6tvd1
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu9.png", Thor : The Dark World (2013) SUB INDO
-http://abf.filmbluray.id/58wuofk
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=9WAYO3uFdrfHFrPPr0P%2FCnwbeA%2FuF1fk7PzKz8T3lkxlAHMOKduuS%2FkCb31yiAk4&expiry=dOqUPFa6vNBy7rJb69eYcQ%3D%3D&mac=3b9cadb305c72ba5091c6a858ad81dc96a1dc94e8e03a9726fdd1ee3096e6778
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu10.png", Captain America : The Winter Soldier (2014) SUB INDO
 http://abf.filmbluray.id/2ac83zn
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu11.png", Guardians of The Galaxy (2014) SUB INDO
@@ -1559,7 +1546,7 @@ http://abf.filmbluray.id/x9021dv
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu12.png", Avengers : Age of Ultron (2015) SUB INDO
 http://abf.filmbluray.id/6jtc63v
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu13.png", Ant-Man (2015) SUB INDO
-http://abf.filmbluray.id/uik9z3f
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=rJM9sXcEso1YtBkXVogIACho3%2BKEwUEfqrjlzflsrsOdfND4%2F54Z%2Bw0BC14RFI0E&expiry=%2B34X0qU7WLOnBfCemkoAmA%3D%3D&mac=047f6e305cb30738c2dc4442ebcacdc37bacc159694373277db4dddce7c6dd0c
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu14.png", Captain America : Civil War (2016) SUB INDO
 http://abf.filmbluray.id/ors57hn
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu15.png", Doctor Strange (2016) SUB INDO
@@ -1567,21 +1554,193 @@ http://abf.filmbluray.id/b5iacz8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu16.png", Guardians of The Galaxy Vol.2 (2017) SUB INDO
 http://abf.filmbluray.id/0tshm77
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu16.png", Guardians of The Galaxy Vol.3 (2023) SUB INDO
-https://www.googleapis.com/drive/v3/files/1OZ5urgfhKhF_Bh4oQHewrF6F1wJbJNQy?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=EZWIcJgGSxIORU1muEcWRSBIiIYqdoxlL9keYO4I27%2Fkmq8rBZFVgICyKMQYEpK7&expiry=rcmeCnBexWNyXqqGDLCQSg%3D%3D&mac=471abd44cf00129e86a8e63e46782bf266dbf204a84016c7730096579d29f1cd
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu17.png", Spider-Man : Homecoming (2017) SUB INDO
 http://abf.filmbluray.id/vzhxn5p
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu18.png", Thor : Ragnarok (2017) SUB INDO
-http://abf.filmbluray.id/m8edbqx
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=q7ohDbAdwm28N3LT6mkJ%2FJdXVQ3qUw8PGuDIJvPejhcfl2XGP5pbp8S0zZHcD63I&expiry=S7QGlH8Rb%2FYhU9%2Fuioe2eQ%3D%3D&mac=7c8bf2798b55e0dd297cd6800bc3e32278d47e7cd583533c76216fa7273441a8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu18.png", Thor : Love & Thunder 2022
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=jOq4nZbgi6izt1a5bbfc0TyhN%2FnPOxSiqUKBH03GvMdrEp8f%2BGndqemPBFf51fix&expiry=DGoNlLaT6WdYfMpdyzCdFQ%3D%3D&mac=9c478ec356aa66dc29741517a7f29448a968be9f952d1f322deaa7564097b4ee
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu19.png", Black Panther (2018) SUB INDO
 http://abf.filmbluray.id/gauugz2
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu19.png", Black Panther : Wakanda Forever
 https://www.googleapis.com/drive/v3/files/1rKoxQ8OehAq-FG7c9W5k-v8a_5lXlhJe?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu20.png", Avengers : Infinity War (2018) SUB INDO
-http://abf.filmbluray.id/mksls9g
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=NrQohX2POUquO4URmkqyB19tuUGN1bws0aasgc0eqk5Ids7RinhSVVcim0ca%2BXZE&expiry=xNE7vG32ESy%2FN09ID3dOfA%3D%3D&mac=33dfb749319dc4afb1d8db3480e159305fab57d694ceea213867f0586937d532
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu21.png", Ant-Man and The Wasp (2018) SUB INDO
-http://abf.filmbluray.id/9mmhxus
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=r0mmAP0kRfUBz3FawEw053F8%2Bvv5%2F1n5Xy3i0e8Bv7tJXeQgVgUILGBhfz4No5yI&expiry=BgnL5Da9HmJXS6rzeENz1g%3D%3D&mac=43201ec2433c902d6f7882992a6a55fc1bf1966357bb90b83b87afe69ec9c269
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu22.png", Avengers : Endgame (2019) SUB INDO
-http://abf.filmbluray.id/izh5hxl
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=HjBwD8AvAq3wMklVskOT2sJ9SE8Q%2FZm4KLq9ROHlzCwVAYqbHZVPcy6tB9vHcv4w&expiry=eG3GYqT%2FVSZ%2FM7Ub%2FMiAhQ%3D%3D&mac=941d85e19784c25a50c8ab28b7e510160e998336f264ea1e621a744d7cd13ff4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu23.png", Spider-Man : Far from Home (2019) SUB INDO
 http://abf.filmbluray.id/aec3308
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu23.png", Spider-Man : No Way from Home (2021) SUB INDO
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=nD25g%2FPEtwDL%2FLHU6IiFNyK1c2x5PU5qiuSZluhNexiVrC9MFsX9VTAFNLH8PMKP&expiry=eQt%2Fpcao0kKd03K1egJduQ%3D%3D&mac=1eec5845a84498823bc04f7fa7844418f302318e2f2ed7cc16732ed78b018a9f
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu21.png", Ant-Man: Quantumania 2023
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=iVb8jdZOQnU7p25cCmljch7YBB99t6wV720dSVM%2F6l2dHWBPgw%2B9GqJKjGuKnmZ7&expiry=wudm2HYDGMcv1ZraRV2QSA%3D%3D&mac=ece7e4f9c46e11eb9fdc938b44952d3be7a0b04691698be43fe799e106f666e7
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu21.png", Eternal 
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=hmTKM2VHD3fvV41wiObvX7vbt8uBcWWV%2B0PGTunoVuIxzFofde2BkU6j0dcU9eHr&expiry=wJpZI77qoIluD6D5s0jKkA%3D%3D&mac=bf81c940c840839f72b831dbf1cf4e62bd2fff2dc9f764e48c66017a544cb191
+
+#12 Monkeys
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S1-1
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=n29KW81widwx%2FQb21nTu18UA7oZqNsTpqUzBsk09eZe7VGEaH0GbFfGxgdTrRGuY&expiry=k%2BmN2nVNi%2BdDdQAlYpfklg%3D%3D&mac=ba1bd6db497ca2b380a04dbe210513d1353e122ac93845da3f16f882e086c488
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S1-2
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=WearQAzwkvudrL9lAKB24sLo35ijAuoIYgVJXD0bZ%2BSAnwHL1rGtOP1BFW0MQr2N&expiry=CD0zFUcrP3HHzwB%2BVryx9w%3D%3D&mac=dcdb03f0ba79b38a3805c1f34aec98f9fa46523c4782bc160639cbf12bfcfc23
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S1-3
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=BlMRHCOqwG81BN9MSoOqVpeyGp8IKa0bRIJJDpqkMKurrjwvlrYwHgh5%2BAjR3chu&expiry=I9TfHp9wiMW45LNKEdHXCg%3D%3D&mac=e97b850e72d9056bf10be712c21244016be67c4a55896f0bc1607de62c9756f4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S1-4
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=ou4C42QYrxyn51Q%2F3iQP00yAwTYSiTKBJpbWfERRXMpRdslL0jXVskQWYEU3%2FEpW&expiry=R3%2FX2%2BcSmKJnLs9rhfpDMw%3D%3D&mac=90965bd51a80ecc91733b60738566f76b50e36b29a3c19c7b99581cc3a989cbc
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S1-5
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=7t%2Biq3NqolCBnfvBv%2BMxyWqNbKv1hcO6KCr6Uc5fSJnOMHx638OigOgUEsQ2AHlj&expiry=VfhabnzeujrnilSalVAOAA%3D%3D&mac=632b5ed5f0ba6210e638d084ab6bd0ffec003392807cac3eb66db738ca5d4431
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S1-6
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=iAgNayAa%2BzBg42%2B3%2BHMplzFwWQbiPm4wJOyh4tCFcvlx3YBgl%2FyYy9%2BdBkmJV6QV&expiry=LmorYz6dMUnJelWA2SzryQ%3D%3D&mac=6bca5a60b725d4686e141c0c148224513d3edf01367d4a699ad962718835a84b
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S1-7
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=PH7euiXnFj7cw8kj1waOmGX16bLDo6AfeGZSTk9x11OpCmZTASskzkMWlw%2BWAnpP&expiry=5pwx6W3G6jF8hSuH1ey%2BrA%3D%3D&mac=bb1edfa20f42a0cfdd96f295f0f628e96df8c54fa6f5bd61b364046da26cef55
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S1-8
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=EO6SdUMtiXoUPkD1ijMxiKbqJYnUjUiJ07vEFnQYfqbvSIw%2FCgex1EdriZhqzoZD&expiry=uTaaAA6VG95lrLg9f96icg%3D%3D&mac=a9df95b50086f6a0621a8e3fb3a872f7c4cc4d4f5ee244445cb2ab58c58adbf7
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S1-9
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=2g%2BwXbVMYx0krcLv2pO8bXdr%2F9bgvW9gXJHN6otFq2WKpdVr14dJgdxjuHqJSDwy&expiry=RTswZOLI9RpySVoLx5qhpw%3D%3D&mac=31c465a349b05795b935e3dfa6314ee5b5c96b3f67c57c305a8860e87b24c7fb
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S1-10
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=uOqwiYR%2F%2FNQ4VWqz8l%2BxMio43TZ5s5G9zp2UeMa5A3hTWmhA6n43hXuvuXJnQtSs&expiry=WpBDNUL6y5RqBYiE7hLk4A%3D%3D&mac=5001855c21fe3c1bd356369733e6c81a5df2faff982343a3d522048523fa99fb
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S1-11
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=FGMqRz7oOFOCt5bFcgLiY%2F0ulSJnKMz4TgrUSNcbmaHh%2FaxJaFki%2B03yOzg1Cr1y&expiry=NXFDwOjlxFFjsC%2BVCFkSEA%3D%3D&mac=d7a67dc6bb3b85a89a59c3bef2450212765f133e34568620a722422abc16bfc5
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S1-12
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=I%2BBWiZltAFT9PNYPVGmeDIh6HLq1AnEyMVq0v%2BS2NzOg9bH8UaOrzjk9XwwupdjX&expiry=4UQR64339B21TGJE4H%2FHtg%3D%3D&mac=99ccf48e7fbda591b2f6825f9f64bee0590a2bb3080760c257ea0a48e164e681
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S1-13
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=tqGIHpAUOVv796caerJzrPOGa4Or%2BPJzOJj1a5HrPOrkrR1tV%2FTZoeky0bWcc8qa&expiry=Yo%2FA%2F17qrdY0lYoQNINXmA%3D%3D&mac=06b1b31bd5feb72493daa396072ebdfd73d92d2b397a39c61ffe58f48cad1acf
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-2" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S2-1
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=Rwj8n42uK9Y%2FGdMaLf9LzUlPDXHRVSOBTcT4StDpuGW2jFfkNGQdn4yVpJE4SPAL&expiry=noSD2xD9XYaJktEDagevJQ%3D%3D&mac=e1e984970541d0022cabc75b24ad48b44b0fc4ca1fc51f1eb1ade6bb91401940
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-2" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S2-2
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=uTASheg19nB2LW0souLCYt39ddHbCGmclxoV5VLahQfOUZOq6UYW1rS3Wh41Q4M4&expiry=w2ZvMIGWSV%2FIBjifimLyyA%3D%3D&mac=863809d6601fb3e7554fffbb0c9d9b68f4f5368bcf982393bb6790a42bd758ad
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-2" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S2-3
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=gdo6gKb%2B9HCp4%2Bu6sWJniKj63O4P5n4I1MNrfeiWrNSufnzIdt72HnTkbKw3go8e&expiry=eFZ2oRwTGXx2w6TNcxVRvw%3D%3D&mac=519949b484ac0ba4624e141b01445d7d1c45f1c6358971a53b033391a343bee5
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-2" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S2-4
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=GL1MF8JpG2JWiKmsjaRtX9%2Ft%2BFhHZKVFDuGTBlguZyI339jsCZJdNDNaF4LuEx9e&expiry=uuJFhvuSUATUCVySii%2FJ2Q%3D%3D&mac=4262c97afb6e74385d95d5982521adfd3af62138736e0c703ade1560eaa6b2a2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-2" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S2-5
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=cxR%2FZ4kpy0xM9ScaUvmos2jmEYPmYyf%2BnPpnhkBvECqObO4lA05lWKE5n4wwyywZ&expiry=skypHWr8opCw%2FLEFYq3OxA%3D%3D&mac=26529ceb97f3d250fa04786408a70af45f3f30fc3c7fecddd131b6ed4ca4f185
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-2" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S2-6
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=EhTRxyAQj3DBKWWLVeeRoNVS1xRzRBMsB8ZymYE0%2FDztVURsfq%2BYM21cpiLKMwzM&expiry=2cs2BR05rIqYj10mceVt8g%3D%3D&mac=9596a1ea7df0bb3de5d14575919cb83c4c36be801b1a7b3274c270ed3e96950a
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-2" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S2-7
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=3jIfuVLpD0LDOFcFb6TSvl3l88Oc6I1wgHeYncNvOK34RYb2189VKnjsNsCMb5XX&expiry=StV9IlZvpG%2BPZw4LbcwHjg%3D%3D&mac=dfbb941ca83514d7a34ebb48d891e374cc970fe25b1abe12bad585b8c72fce39
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-2" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S2-8
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=fLAkSI4AA0GHaWgrhpYGTxsDpXDmu0gxzlfhEgCst8Qhk66jOwiuTHX6Oy47Q%2Bwg&expiry=IQ9iPVEX4gUHSylBfCt5sw%3D%3D&mac=919bdb052dc324527bfbadcf3295a7cbacac7e556de6cb6b62f114a0c0dbcd28
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-2" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S2-9
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=X6Shpm0fiAp2e%2BgpvnFSOL92qOC9Lsuo6NWfpWP0syj%2FOVVGuNVwBuzy4K2Es9l4&expiry=fTUFNo4jiQqXVpI0HJenvA%3D%3D&mac=7414667bac5994c7604c06deeb86a6dd10c926eaa97fbb989addf777c11ab1cb
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-2" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S2-10
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=ZqHVCDkhvlTYTX1Kik%2Bi04TIIEaH1wqb45sVGlifvMVm5AlaCT6%2BA1p3p9rw8XRF&expiry=5kDHZQXyI1hJmmsuOsKtZg%3D%3D&mac=6842733b647b2e16e006b69c103b85d19eb4ea768deb11e3357f1fc7dfa33146
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-2" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S2-11
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=AYkZiDKMxpkVbmQMXjEoBt0q2T3zcYRgU8ob14CGhvWOSNAsqL15rEjWzW3hyUU4&expiry=KuKDipfOeiGpFlf%2F6YPsBA%3D%3D&mac=a6901da6eadad1e5d68ac081e1504fae76f97a285d8c4ee4cf6472026783b57a
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-2" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S2-12
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=lY9nCK6U4RvfuQj7WI1ZxfVC64sfwBFEKHDKoG2xQ%2BTr0zBJUICmHaRMFbteSa3h&expiry=ZrmO2GR94hu3hkMqfR5osQ%3D%3D&mac=d0219fe8b49b7a73ee0465788e0dd7ae3e0b34d3c0064c3b0de0b5e7038db64c
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-2" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S2-13
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=R%2BM9CKTZ0FkhcSxIJWVb6xsEBeey4hUUWEQQgviCyYqoD4f%2BE6EJkmBPSPHL0XTz&expiry=joL8REhhPHg7JxqT7MWG5g%3D%3D&mac=3436b6b44f62b2e19501d41a354c8c4ace92bdb382b74027f85c9964db6a5bae
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-3" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S3-1
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=Sp6LXjkiIEfngmIml7k9oG9cM3VrStb%2FQZ41tkQJyjoF%2BQt7Fsc4wYi1fFeRtgWv&expiry=8CndX28B3HanX%2BK6zib3Lw%3D%3D&mac=c39e7c7ae970829e20ddb9cfe01900c25af7c03ded57334835a1c00016052994
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-3" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S3-2
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=NZ44FyqqPZWPs5asKszNW31No79OqDaAfd79B1brKUIxTQFY0YWj2h7Dfh5dg0vu&expiry=sO4XFrItRtd%2Bq0y%2BwIxqPQ%3D%3D&mac=8232fdcdb5cfaffc02f9ad710b57b91047c9eaeea33d30038ad7ed2627f43f31
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-3" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S3-3
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=o%2Fzjg5fn84RLyndrDMhHiksHqqeBJHQJyZmI5x5JC1C9fYfdZ9uq%2FXvNR1arGOWZ&expiry=rKIid4kIzGggdwFTY5wcsg%3D%3D&mac=131e0f1fbbfb72dfdd6f8176db968501898abc97cce490486a206d7f8ab316c5
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-3" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S3-4
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=G%2Bne7wD6QgplSz6wPlZEtt9Tn3Sw6cauRU%2BkHv%2FUBC%2BqHgQiTNr%2BuV%2FBIXXqLVJ8&expiry=MUldYGUFpEn9zew6XnhHFQ%3D%3D&mac=1b25569cf3b996857cc49eec6b7d996290e90337087819f21ec937718f49d409
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-3" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S3-5
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=248oRKcYFabuyj9L71w5Kp1Mvpuej6Eu2wY0e%2BuW3J1p%2B00KgKMEY2lD%2B6jTZMDl&expiry=3If6PdkXB0vUR9TTB4iloQ%3D%3D&mac=cb7c77ef365918ab6f66997f53ca11bc3300b501b924adad82d198c20f961efd
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-3" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S3-6
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=mtu%2F9efMeTK5Z2W0r7bz%2BX3n1003fpHQger3YkcnsTYXXl4no5UYQhnxv1u%2BLxSx&expiry=VI%2FZhCPjE4c2jPG9g8vakg%3D%3D&mac=eaa6d133d6a2d310264f8e2a9e40119101611ccab9d33748bc4d9d61b087f008
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-3" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S3-7
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=BcigV3bWD4Jyr3DTByGhPtMHM8OAW9flZPXBqGGSaA2qWxjkn4uGOc0zN2SV%2FY2b&expiry=QWgp9y2IxfV7dCMuF4FNnQ%3D%3D&mac=322aa1ef520ba1c1cafdf3299d6187a5f723b5b43cef12876d30e7a7c5324654
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-3" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S3-8
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=CbPb3Wyd6VmCbKWsEbTo7N9VDxM53syVb6P6w0nByS03UynHjpjMs20Dn1WHFEUv&expiry=f2TDnkwrskHeX6hAoPQe1A%3D%3D&mac=e1515126224cc23cb1333950ad7c12e8a91272ecc49cfcd5279aa04044bead07
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-3" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S3-9
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=MUYJjwJTNGSJHg3inJKwGD4zW6539H8cRiIrdDDRzh3MvQsqU%2FnB8AWBxi%2BezQK0&expiry=OkGtgldCYC%2FgNJ50DHsErw%3D%3D&mac=9bafce9cb75061285b07d2058e652ea765ea6c31c573c6dadc2396b228ec53ea
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-3" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S3-10
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=AeRTwTznsWcf89BkP2hBtnIAZZhhv6mJBMiG2HiH6gp9FaKT%2FlIFnb22Qy18hme2&expiry=9iopcfMK1wwPje36%2FIkA1Q%3D%3D&mac=4dd5fb68b7113800a7c14c7d2713d9e56b98209b3678b886c3da9673dce66040
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-4" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S4-1
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=w7ngVhCd9M5zY64NLVLIXFk88jmoBkiChPe%2FSthh4vS8jxcScQrKNpmuKxKW9KPz&expiry=5Z88qxWQ4e8u0a91nWzjMA%3D%3D&mac=9ea9b3db367ef03f66261346a0ef0a7dce2617721c1aa4d8c5a8bbd3ec6ad196
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-4" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S4-2
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=UDFXolBP44DsDF4lF5ei0wEaidfUeTP6gxuP1LyKfCRj4HMFbyuCTHUCPG2iXtw8&expiry=WpLJKVPL7NNYw43oBEVhDg%3D%3D&mac=6feafa06695b9b94c03cfacf785b5ec301207c58d3fe959bae8fa693418ada92
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-4" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S4-3
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=Nk69mw5S0AW7L%2F9j68KH8WngcDEWT2IgKGDazkVfLvf9dfDt1X%2FYBYTbg7659GVe&expiry=YesjWtv5fdxMrOMTev7qhQ%3D%3D&mac=62bd2892b47462c1ad1a47e483e357479e40476564b17bfba9f917e5c9454a53
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-4" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S4-4
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=MheoxCmAYu646u3hDRIGKPNty7OzLk1aE%2BB56jQKPJUIt2RweE2ThDv3ywYqrhQH&expiry=YSzwPJz58a%2FcFqLsrK%2Fbpg%3D%3D&mac=3a7cc55b1f06fb65401179eca48d56899efbd8dd4135032924d9555f71bbed1d
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-4" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S4-5
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=mCf1MmGb43fs7tMZXu5jD7T5964EQxpNtaE4UNvGxbPndmtlTVY0rBNXZ2TJXkxk&expiry=OuGRCwqH6uQ04hTBjKO1hQ%3D%3D&mac=cf82cb4a0d5db2267f99f6b5440305dbc33e271f21c55180ba4c45de29945b2d
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-4" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S4-6
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=e29q%2F60Dq4FIAh5DOJYk1raJL9Cd7cr7S49r0kYpyMb6hFuEeHUgJf%2FO5gkKtf%2F0&expiry=xfk7n2114cN8L9CADQoOLA%3D%3D&mac=801e2262532001ede772e2fd7d1a5235ae12a3700ebb64d18142a0596ba36e67
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-4" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S4-7
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=pgzmv3bhtSfxCvNXXYvkwhyuNzBHbWMVcoTPG7u5OsvrmI4qgKuDjCXqLz8WKgcv&expiry=oESyuhwboG2sc9JLC8WvZg%3D%3D&mac=01ee58598bab4fc7144b930b8dc2f8528c50028c528f650b0b75721c2fca8a24
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-4" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S4-8
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=jA5KLJYnuUY8HaspDdLkII%2BCFJnxJIv9XgDGVDZQiRH3J3TMLEUix26z%2Fd6QwNUy&expiry=L529P%2BAskZ%2BkyDHCl5DOSw%3D%3D&mac=7cdf5e5240ad6ea9e597fd97dd072deb152cb226502dbd384190d4c354832e14
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-4" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S4-9
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=rTFhAhqaiAZWLF3KEv7FzZkiumXZWK5WmEKedcuHl8fUh1SaGLbHug7rbEcoQL6e&expiry=c9Uz90WF674Z04%2FL5sn0VQ%3D%3D&mac=33a242b6eb6205fa0e2c749209bb0c62e665400196e96acdcbf7c7ab79f935bf
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-4" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S4-10
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=MSVahSzORdCFk0FQrYaJ7w8dDiscwhkqXDiNriH%2BBKH%2FFZEJANBGJM6hnOQzF%2BXY&expiry=UhO0iYGWA1SwkWsjdm%2BViw%3D%3D&mac=edb96198fc844da7c818a1250c2ea20cd7702a528ecc1f17d56655dc33aa3665
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="12 Monkeys S-4" tvg-logo="https://cds.bet/wp-content/uploads/2020/12/170VKibfqMR1k0eaR2pIj830MgW-128x190.jpg", 12 Monkeys S4-11
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=FWwroOw3PTAbol1pJnUrx3WsVsu%2FOQkKgtq7PvuV42DbMhhOwo%2BoelbhanyHzIN7&expiry=dZQy6TjMkhLgNb8pri4O6w%3D%3D&mac=d20c97dbbf4bd45c20a67ea5a900216760fb66c654b0bb619cc10631fd065445
+
+#GAME OF THRONES
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S1" tvg-logo="https://i1.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-1-2011-Sub-Indo.jpg?resize=200,300", GOT S1-1 
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=ffIJx8r%2BspK8WomXepEHyPUT0lQy0EsvfI9A6FkaDbukix2PrmCLGwY5gMwoSqIs&expiry=%2FUJLINHhzPU8A%2BZc%2BUHnIw%3D%3D&mac=89d2ee00065acb223c4b7f92298cfa67fc77948c0389ba9984dfec2c2a6101f6
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S1" tvg-logo="https://i1.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-1-2011-Sub-Indo.jpg?resize=200,300", GOT S1-2
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=oZgopm%2BTuefSYp0zlEyjM4awtKQZgpl2i%2FhsaP9L3GYz8NeQhpisTlU%2BLq44Z5SO&expiry=J3cyWlhwWJ3WLiZIsjYoCQ%3D%3D&mac=d21b81a7e746b0a7efa17e5ba39994c715c5caa54f5eb8a2873cdb318acf1ec2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S1" tvg-logo="https://i1.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-1-2011-Sub-Indo.jpg?resize=200,300", GOT S1-3
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=kara9Bdfd%2Fvgh7r%2FKhWtmXqT44RhCdZAR2yBUQjUTE488p0q5mXwYiE%2FSVYcC0lW&expiry=V9bTQE8IZJEdj79pdSZNnA%3D%3D&mac=6fb899d43f94c908e435182c01c256714e7fdf4e2630775c3f39f17ea73bec33
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S1" tvg-logo="https://i1.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-1-2011-Sub-Indo.jpg?resize=200,300", GOT S1-4
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=fbim%2F843EalccWFN9B63cnnWaRreoOdlJW2M9FUHs9wx8xxFCiIGP1mEOBIhfUjx&expiry=tA7yPvcAqt7%2FyPu9GINuKQ%3D%3D&mac=fa36eeca324658f5b5c069631a8d61a9578ff030bc03ad280ceaff162f0bb3a5
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S1" tvg-logo="https://i1.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-1-2011-Sub-Indo.jpg?resize=200,300", GOT S1-5
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=9xuIVzgehLiZjZPHRmvpCpAGErdNPVKku1AMvrG8LgW9LTOnMLNHfub4GXbDTg1t&expiry=Uthnjg6LqIVozApKlgK1wA%3D%3D&mac=7142b43948d26438163af5b198fd6a94de9a0f47f82d60d7194941c6dad2c07a
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S1" tvg-logo="https://i1.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-1-2011-Sub-Indo.jpg?resize=200,300", GOT S1-6
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=YD0P7UbOUwjTttE1KPihmWlEcWsHwWAHUjCRdxiu7r%2BHdxK5bPZnKbvu6bpiPsdd&expiry=tD0kl3l6vJw0fio1lmDHFg%3D%3D&mac=0e76bc112b7bef43420310e57db944393e94bb2b82238c7c6a0ef3db8d5bf5e8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S1" tvg-logo="https://i1.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-1-2011-Sub-Indo.jpg?resize=200,300", GOT S1-7
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=EQlpmasyTOCCmiW2oI4bDLoLalvQIl645JLeLK66c8yFclAhflNc8wytamZWCB8T&expiry=cEVFO9SNzD9foRqQdAzNUw%3D%3D&mac=8657b3d5a14c3cfcaffe59086b22eb5236d1a3760113cce4e0422e9401bc9d0b
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S1" tvg-logo="https://i1.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-1-2011-Sub-Indo.jpg?resize=200,300", GOT S1-8
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=XHQiD8g4z7tQf2wH4PqPs4hi3PdbEc%2BMnl1dHZmK%2BzslT1mKHKzxNgb8shYGllLQ&expiry=cwr0elw0%2FspzR3FpUakKWw%3D%3D&mac=a9853ebaffd7a6d2e9ca85811356f6fd74a9f97e8257e17df62495e48da3c525
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S1" tvg-logo="https://i1.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-1-2011-Sub-Indo.jpg?resize=200,300", GOT S1-9
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=QAF2K6eNHUulpkzSFqAlsueWPI0Od%2FaUI1HQBPnFkGm563mxVNkyfgqGzDAGqchA&expiry=jICt9ZHLMiEeuo1xmqfN8Q%3D%3D&mac=68abc8f58ece13be016e397e1167cd807244376085d9fc5cf9058f24f052daa8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S1" tvg-logo="https://i1.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-1-2011-Sub-Indo.jpg?resize=200,300", GOT S1-10
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=%2BAxkGMNRd%2BH0fHvqajyHgIjlSrAeT9xX9THBsdv1SK%2BmRgOUgiMrviwd2dR2RSVy&expiry=kiw02FyaT6mKnSZnacHahg%3D%3D&mac=996f9982669bab5f860912fcd9910b06df4ba4d4b36045d4f485a6753d6c4db4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S2" tvg-logo="https://i3.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-2-2012-Sub-Indo.jpg?resize=200,300", GOT S2-1
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=fArKdzMFoFreHfhqx3vxKUH6gJiHOljfn6dPadRL17fh2uIRF5X61RLBAKl5IDzr&expiry=PzcI9tyCe2pw6mbZF6uodQ%3D%3D&mac=2949f5450b8391707b5dd0cca7d8e6284fa5d927c50a3d58c82474a8d0d834b4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S2" tvg-logo="https://i3.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-2-2012-Sub-Indo.jpg?resize=200,300", GOT S2-2
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=ZIQZqZIFyqkKJuqWy%2FvBMxrtV3A6dlQbBckLOju6MM8meAoVkv%2FeBagcQEZfUyYj&expiry=SCLkbUwpFfPZqfoskgt4Vg%3D%3D&mac=1e7641a7106a27e55a9af49e3acbd10072c8292aa6677e42153cf88c70c3aae0
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S2" tvg-logo="https://i3.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-2-2012-Sub-Indo.jpg?resize=200,300", GOT S2-3
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=pyRXSRT%2FryZkelgTEERBkePoK%2FIkOAp2TbSW1Y1SbnfTCLnwczDk%2BIjP9TNSKCh%2F&expiry=ovR%2BR5W3sBmO7llK8lXFaQ%3D%3D&mac=bd17e5b97af5a64e65bc59f2390f2d6e801fa6dc1e4664d54a59428de7c1f5ac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S2" tvg-logo="https://i3.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-2-2012-Sub-Indo.jpg?resize=200,300", GOT S2-4
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=65rTeNM3jtvDxR5rFMp1Q8ZMNkEoSgjn3yI3OoLcDUZ4L%2FQ%2FLwhz%2Fg99DFiUK6Dt&expiry=LX8HaU3C%2FD3rACJScbq4Mg%3D%3D&mac=4a9ccde85a34f651243bf0ccbb00a23e518dfcdd171316ad6fcbd7a332eef3f0
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S2" tvg-logo="https://i3.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-2-2012-Sub-Indo.jpg?resize=200,300", GOT S2-5
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=sTAvZXB8FFBUWuGdofsGxwjnkQ7LfyjMMk%2BK9NdHMmPmhzQsuSxH5uB6T7YfOHAb&expiry=gFGZjdT76uDA9cju8E8%2FaQ%3D%3D&mac=8e606b0e8a7a197e0ab29feef5f826ba9f62410717193d0166989c7218f2328c
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S2" tvg-logo="https://i3.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-2-2012-Sub-Indo.jpg?resize=200,300", GOT S2-6
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=uG3aiuKmOCOypScFKb48dhBwOXSeAjhL0%2FoyhKJkWd7tweiLRBj4nCu5JJdSC%2F7s&expiry=PtRDlZcoBhjvzf9eTQdgmA%3D%3D&mac=d1d7b132e34bc7a8c3f036a482f3fbc15cc5bffb2ae8a20d87fd311e0d9972d9
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S2" tvg-logo="https://i3.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-2-2012-Sub-Indo.jpg?resize=200,300", GOT S2-7
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=L1nGgwH4IrgY6COgdfvqkciekOYQOJ18GiYr96AW3qdhyiB9Jq01nByEA%2FKy4ur3&expiry=jtO1og6rRW1bjWTCpab9Bg%3D%3D&mac=f1f4c9d8977b1b172c4c524b8dfa9a257a1fa5420f1a260ba006af2b5c00afe7
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S2" tvg-logo="https://i3.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-2-2012-Sub-Indo.jpg?resize=200,300", GOT S2-8
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=9GegV8fBM%2BMrrnv7Gmc8UDfvTI4QZYrUzwadsmbdbibYxwqB5dkkG1tSStattyDv&expiry=jV44kJVMNW%2FOKGsF4%2Bdhhg%3D%3D&mac=b1bc153a03f1abeada57ec6bdc2dadff616134811e049487feeb8f838cd1ea70
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S2" tvg-logo="https://i3.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-2-2012-Sub-Indo.jpg?resize=200,300", GOT S2-9
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=c1Sf14G%2FOU7MjO%2By6jnv6c5j4YfTnJMlqYOB1xf47u8d%2Fi69eWWk9MgM%2BuTL5PDU&expiry=LXj0cdvMZOpb8ElW05FGpQ%3D%3D&mac=fed27744b6217a503b5fd019efa961f776a5b69399e577ddb39dfb7d9e0b9f89
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S2" tvg-logo="https://i3.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-2-2012-Sub-Indo.jpg?resize=200,300", GOT S2-10
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=VRzcgueUy7HZ7Fkds4ZazEXO90O5iZUEaGh%2BeEjGQSZ3fhqjI0oOoc00b7c0VpQh&expiry=uedfi70%2B%2B8LVYr2WVqvnOQ%3D%3D&mac=ea1f73a9815514df1776c41fec2ad00783b19414cb6e63127390f518dbd94f8d
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S3" tvg-logo="https://i3.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-3-2013-Sub-Indo-1.jpg?resize=200,300", GOT S3-1
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=1k1%2FEfarwNEl26hZW4qRCJTpJ01SyXKg9AyttDdv6CujYd7XLTOooLp4K7be0EeO&expiry=EEPQuL8CwPl5rgjfwgoGBw%3D%3D&mac=85b6784506e83612242bf56e8b1c5d8a9cfe52ace55e99935f7c75ae90a6cf8b
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S3" tvg-logo="https://i3.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-3-2013-Sub-Indo-1.jpg?resize=200,300", GOT S3-2
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=Y0WzJHf7fT2ZUIMMM%2BPSFmn7QFBQQJYsmCtwp%2BgYK7KZ6WAEL4kNjwoCZEC0OblT&expiry=mnPKEQALkdpsFTMFGXZ6tQ%3D%3D&mac=6d2fd8fbcaad527a1191f8161fe6f6656b2504893f6b73e663c4da1bd482966b
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S3" tvg-logo="https://i3.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-3-2013-Sub-Indo-1.jpg?resize=200,300", GOT S3-3
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=W5EWUakYptcmht12Z%2FiHCI%2BTPDEThHrwNHh82hI4NhRwx3weSHua%2FW9sPLY%2BOcQz&expiry=prq3JEDBg3z9dn7P%2Flx5Hg%3D%3D&mac=535ce0651f63635d11ed26d11eb23eb4aae3d68491c8e741056cd93de220c287
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S3" tvg-logo="https://i3.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-3-2013-Sub-Indo-1.jpg?resize=200,300", GOT S3-4
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=WK7RZ0Bsce60bAPJiZb%2F0ADHz%2ByNVakOgow5%2Bwxw4S0uP%2FnoPSQGPu7xKIxbjDuv&expiry=iGZz%2BIzGiSKomu%2B9gEaPHw%3D%3D&mac=71ffa613618a5da373cfbfb1c567843d024a297a453f0b36c3a7dbbf7d1f6491
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S3" tvg-logo="https://i3.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-3-2013-Sub-Indo-1.jpg?resize=200,300", GOT S3-5
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=t2ERHlNP1xKIQSbV4i0VIUi%2BJiMRuvhISsxJt3aR3JFjxCrMtFjOCswlwZf3sO6p&expiry=oF55zg6IWu2FBGHETesGTA%3D%3D&mac=47094063858a3a3cf7772f3d51a567d118cc39445c6c9686123920ec2c879170
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S3" tvg-logo="https://i3.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-3-2013-Sub-Indo-1.jpg?resize=200,300", GOT S3-6
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=dWAqggMOH8%2F%2BxcniVii%2Feq%2BkqKjjXTEseudiyilGmYOC7R2esKM9HAwJo5RhHP%2BI&expiry=dWQTagdXqYVZiPWUfP2KDg%3D%3D&mac=84763315d3499d9447a64077d257bafff28eba9476dadd571d55b0e63a8da165
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S3" tvg-logo="https://i3.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-3-2013-Sub-Indo-1.jpg?resize=200,300", GOT S3-7
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=PQKrY4Udet2tqz0rg8K7YS5eWC2065Asg2Fi8qRqslGbP0jchVb6J1pGd4saIDFs&expiry=kZSmzMDQBlsLAsjYNF1yEg%3D%3D&mac=99dd3d08ef020c3063e0386decc2b07722327eb41f635212f266be0d811eb98e
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S3" tvg-logo="https://i3.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-3-2013-Sub-Indo-1.jpg?resize=200,300", GOT S3-8
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=he5LnBbol7ygeTtVQrYnNL3vMYcUVhuIh5ybSgzbjAhQl%2BNX%2BTpnCnJxnamEzgnO&expiry=0xch4P8qotfMzvv4XFPL%2Bg%3D%3D&mac=ac35ef114e61778b5859f7ae61acda3c787dd84915a7c28c83eaa2b860d8e45e
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S3" tvg-logo="https://i3.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-3-2013-Sub-Indo-1.jpg?resize=200,300", GOT S3-9
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=mMmvx4gH8iADZRlm0H2OsZeCRSyTEskba3OieRv%2Fu9A23FPKvB7PzVkj8x43C9ef&expiry=b9eO%2BAIN8ta3pTVZbmExCQ%3D%3D&mac=f2a4eed7516ad7a6b29d8634a6b1b861420e29460dbaedb61e3da83324ef5166
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOT S3" tvg-logo="https://i3.wp.com/107.152.37.223/wp-content/uploads/2019/09/Game-of-Thrones-Season-3-2013-Sub-Indo-1.jpg?resize=200,300", GOT S3-10
+https://fmmovie.ferymaleharmx.workers.dev/download.aspx?file=429NdLN1LGuEPbzD%2FjY5vU%2BkC%2BhKp%2BmUa87kHqlxwuhgAA3zIV%2FJryNTmU%2F%2B%2BH8k&expiry=o8pLY19Ba93V9k2JG9hSeA%3D%3D&mac=542572f48eeff93d6993bc2bc23cc8295753af33962a782886fc3bcee6984b82
