@@ -221,7 +221,7 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298529
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="HIBURAN", AXN 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="HIBURAN", AXN 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165079
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/165079
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1c044d8eee920f7fe5bf0a8f21808612.png" group-title="HIBURAN", SYFY
 http://50.7.137.106:8080/SYFY/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKieYy.jpg" group-title="HIBURAN", WARNER TV
@@ -233,20 +233,28 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298553
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_160_115" group-title="HIBURAN", Cinemax
 http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/197964
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_160_115" group-title="HIBURAN", Cinemax 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165079
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/197964
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" group-title="HIBURAN",  THRILL
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png"  group-title="HIBURAN", HBO
 http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/197972
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png"  group-title="HIBURAN", HBO2
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/197972
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png"  group-title="HIBURAN", HBO EXTREME
 http://208.115.225.174:14165
 #http://kuchini.site:8080/Raionew/2e1df8e7/298528
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/d7c5glg1xb2cfj5/hbo%20signature.png?dl=1"  group-title="HIBURAN", HBO Signature2
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/221948
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/d7c5glg1xb2cfj5/hbo%20signature.png?dl=1"  group-title="HIBURAN", HBO Signature
 http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/221948
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png"  group-title="HIBURAN", HBO Hits
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/196480
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png"  group-title="HIBURAN", HBO Hits 2
 http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/196480
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png"  group-title="HIBURAN", HBO Family
 http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/197055
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png"  group-title="HIBURAN", HBO Family2
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/197055
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ugeU31MX31hYSOuCiXRr0Cm9kkecL8sk9Q&usqp=CAU"group-title="HIBURAN" , MOVIE HITS
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hitmovie.m3u8
 #EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565946217550.png"  group-title="HIBURAN", ROCK ENTERTAINMENT 
@@ -264,7 +272,7 @@ http://210.210.155.35/dr9445/h/h21/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/200px-Logo_tvN.svg.png" group-title="HIBURAN",TVN PREMIUM
 http://210.210.155.35/dr9445/h/h20/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvN_HD
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="HIBURAN", Cinema World
-http://210.210.155.35/uq2663/h/h04/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=CinemaWorld_HD
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/165079
 #EXTINF:-1 tvg-id="KIX.MACAN" tvg-name="KIX" tvg-logo="https://i.ibb.co/8jRb2YX/xgf.png" group-title="HIBURAN",KIX
 http://210.210.155.35/dr9445/h/h07/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=KIX_HD
 #EXTINF:-1   tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="HIBURAN",HITS
